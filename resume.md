@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Resume
+title: Zack Steinkamp
+navtitle: Resume
 permalink: /resume/
 ---
 <style>
