@@ -4,4 +4,4 @@
 
 layout: home
 ---
-SOME CONTENT FOR THIS PAGE
+Here is my site.
