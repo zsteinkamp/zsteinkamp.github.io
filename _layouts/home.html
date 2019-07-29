@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<style>
+.post-list li {
+  clear: both;
+}
+.post-thumbnail {
+  display:block;
+  float:right;
+  width:120px;
+  height:120px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: black;
+  border: 4px solid black;
+  margin-left:10px;
+  margin-bottom:10px;
+}
+</style>
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+        {%- assign link = post.url | relative_url -%}
+        {%- if post.entry.source != 'post' -%}
+          {%- assign link = post.entry.data.link -%}
+        {%- endif-%}
+
+        {%- assign thumb_url = false -%}
+        {%- if post.entry.source == 'youtube' -%}
+          {%- assign thumb_url = "http://i.ytimg.com/vi/" | append: post.entry.data.id | append: "/default.jpg" -%}
+        {%- elsif post.entry.source == 'flickr' -%}
+          {%- assign thumb_url = post.entry.data.primary_photo_url -%}
+        {%- endif-%}
+
+        {%- if thumb_url -%}
+          <a class="post-thumbnail" style="background-image: url({{ thumb_url }})" href="{{ link }}"></a>
+        {%- endif -%}
+          <a class="post-link" href="{{ link }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if post.entry.data.description -%}
+          {{ post.entry.data.description | strip_html | truncate: 200 }}
+        {%- elsif post.entry.data.description -%}
+          {{ post.entry.data.excerpt | strip_html | truncate: 200 }}
+        {%- else -%}
+          {{ post.content | strip_html | truncate: 200 }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

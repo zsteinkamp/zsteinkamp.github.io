@@ -1,9 +1,0 @@
----
-layout: post
-title: "ISS Flyby"
-date: 2011-06-17 04:11:32
-categories: post
----
-<embed src="http://video.thenobot.org/20110616-iss_flyby.mov" width="640" height="1160" scale="aspect"></embed>
-Thanks <a href="https://www.facebook.com/aguayo">Ernest</a> for the continuing coverage of visible ISS activity!  Here's a video shot with an iPhone 4 of this evening's pass.  It's interesting how visible it was considering how bright the sky still was.
-

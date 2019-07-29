@@ -1,29 +1,39 @@
 #!/usr/bin/ruby
 
 require 'yaml'
+require 'json'
 
-entries = YAML.load_file('entries.yml')
+entries = YAML.load_file('/Users/zs/Downloads/entries.yml')
 
-Dir.glob('*.markdown').each { |file| File.delete(file) }
+#Dir.glob('*.markdown').each { |file| File.delete(file) }
 
 entries.each do |entry|
-  next unless entry['source'] == 'post'
+  next unless ['post','flickr','youtube'].include?(entry['source'])
   next if entry['disabled'] == 1
-  data = YAML.load(entry['data'])
-  puts entry['created_at']
-  puts data[:title]
+  entry['data'] = JSON.parse(YAML.load(entry['data']).to_json)
 
-  filename = '_posts/' + entry['created_at'].split(/ /)[0] + '-' + (data[:title].downcase.gsub(/[^0-9a-z]+/, '-').gsub(/-+/, '-')) + '.markdown'
+  # remove leading datestamp from some titles
+  entry['data']['title'] = entry['data']['title'].gsub(/^\d{8} /,'')
+
+  smashname = entry['data']['title'].downcase.gsub(/[^0-9a-z]+/, '-').gsub(/-+/, '-')[0..50]
+  filename = '_posts/' + entry['pub_date'].split(/ /)[0] + '-' + smashname + '-' + entry['source'] + '.markdown'
+
+  content = entry['data']['content']
+  entry['data'].delete('content')
+
+  puts filename
+
+  front_matter = {
+    'layout' => 'post',
+    'title' => entry['data']['title'],
+    'date' => entry['pub_date'],
+    'categories' => 'post ' + entry['source'],
+    'entry' => entry
+  }
 
   File.open(filename, 'w') do |file|
-    file.write <<EOL
----
-layout: post
-title: "#{data[:title].gsub(/"/, '\"')}"
-date: #{entry['created_at']}
-categories: post
----
-#{data[:content]}
-EOL
+    file.puts(front_matter.to_yaml)
+    file.puts '---'
+    file.puts content if content
   end
 end
