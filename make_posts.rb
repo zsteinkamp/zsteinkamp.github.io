@@ -3,7 +3,7 @@
 require 'yaml'
 require 'json'
 
-entries = YAML.load_file('/Users/zs/Downloads/entries.yml')
+entries = YAML.load_file('entries.yml')
 
 #Dir.glob('*.markdown').each { |file| File.delete(file) }
 
