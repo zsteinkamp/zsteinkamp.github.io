@@ -5,7 +5,7 @@ require 'json'
 
 entries = YAML.load_file('entries.yml')
 
-##Dir.glob('*.markdown').each { |file| File.delete(file) }
+#Dir.glob('*.markdown').each { |file| File.delete(file) }
 
 entries.each do |entry|
   next unless ['post','flickr','youtube'].include?(entry['source'])
