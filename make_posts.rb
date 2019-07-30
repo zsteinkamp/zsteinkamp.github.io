@@ -19,6 +19,7 @@ entries.each do |entry|
   filename = '_posts/' + entry['pub_date'].split(/ /)[0] + '-' + smashname + '-' + entry['source'] + '.markdown'
 
   content = entry['data']['content']
+  content = content
   entry['data'].delete('content')
 
   puts filename
