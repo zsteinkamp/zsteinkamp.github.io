@@ -41,7 +41,7 @@ layout: default
 
         {%- assign thumb_url = false -%}
         {%- if post.entry.source == 'youtube' -%}
-          {%- assign thumb_url = "http://i.ytimg.com/vi/" | append: post.entry.data.id | append: "/default.jpg" -%}
+          {%- assign thumb_url = "https://i.ytimg.com/vi/" | append: post.entry.data.id | append: "/default.jpg" -%}
         {%- elsif post.entry.source == 'flickr' -%}
           {%- assign thumb_url = post.entry.data.primary_photo_url -%}
         {%- endif-%}
