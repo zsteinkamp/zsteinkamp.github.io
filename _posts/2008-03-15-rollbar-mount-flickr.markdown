@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2336030392'
     link: http://www.flickr.com/photos/thenobot/sets/72157604127192277/
-    primary_photo_url: http://farm3.static.flickr.com/2173/2336030392_2c645cf27b_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2173/2336030392_2c645cf27b_m.jpg
     pub_date: '2008-03-15 04:41:01 -0700'
     description: Homemade rollbar bullet cam and camcorder mount.
     id: '72157604127192277'

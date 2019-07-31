@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4984504678'
     link: http://www.flickr.com/photos/thenobot/sets/72157624942525336/
-    primary_photo_url: http://farm5.static.flickr.com/4103/4984504678_1818fccaf9_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4103/4984504678_1818fccaf9_m.jpg
     pub_date: '2010-09-12 00:15:33 -0700'
     description: I took the girls to Happy Hollow today.  It's such a great place
       for the little ones!

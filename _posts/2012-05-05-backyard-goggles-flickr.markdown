@@ -34,7 +34,7 @@ entry:
     primary_photo_id: '6999457664'
     description: When the sun is out, the hose gets unwound and the swimsuits and
       goggles go on!
-    primary_photo_url: http://farm9.static.flickr.com/8154/6999457664_fb4c2cc99e_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8154/6999457664_fb4c2cc99e_m.jpg
     pub_date: '2012-05-05 03:17:40 -0700'
     title: Backyard Goggles
     id: '72157629607509062'

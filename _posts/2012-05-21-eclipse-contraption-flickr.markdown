@@ -80,7 +80,7 @@ entry:
     description: The girls and I put together a little contraption to safely look
       at the eclipse.  It evolved into a slightly more complicated contraption as
       the moon moved along...
-    primary_photo_url: http://farm8.static.flickr.com/7074/7238421366_7d4c95046f_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7074/7238421366_7d4c95046f_m.jpg
     pub_date: '2012-05-20 10:52:45 -0700'
     title: Eclipse Contraption
     id: '72157629823407814'

@@ -16,7 +16,7 @@ entry:
     title: Natural Bridges Field Trip
     link: http://www.flickr.com/photos/thenobot/sets/72157644357709608/
     primary_photo_id: '14210648796'
-    primary_photo_url: http://farm3.static.flickr.com/2936/14210648796_ed0cb00b17_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2936/14210648796_ed0cb00b17_m.jpg
     photos:
     - pub_date: '2014-05-20 03:08:27 -0700'
       thumb_url: http://farm6.static.flickr.com/5480/14210650726_d313543b15_s.jpg

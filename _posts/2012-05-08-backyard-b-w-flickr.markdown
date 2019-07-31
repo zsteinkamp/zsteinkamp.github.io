@@ -63,7 +63,7 @@ entry:
     num_photos: 10
     primary_photo_id: '7156255164'
     description: More warm weather fun!
-    primary_photo_url: http://farm9.static.flickr.com/8144/7156255164_a95548af44_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8144/7156255164_a95548af44_m.jpg
     pub_date: '2012-05-07 11:44:00 -0700'
     title: Backyard B&W
     id: '72157629630520644'

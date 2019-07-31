@@ -21,7 +21,7 @@ entry:
       The Honua Kai isn't getting old, and we decided to call it home again this year.
 
       All in all, this was a really fantastic vacation. None of us wanted to come home after a week of waves, wind, sun, pools, culture, and food.
-    primary_photo_url: http://farm5.static.flickr.com/4287/35443886130_12ea9c9709_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4287/35443886130_12ea9c9709_m.jpg
     photos:
     - thumb_url: http://farm5.static.flickr.com/4283/35663210962_8d90b5f6aa_s.jpg
       media: photo

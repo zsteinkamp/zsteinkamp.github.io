@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4433291146'
     link: http://www.flickr.com/photos/thenobot/sets/72157623495428947/
-    primary_photo_url: http://farm3.static.flickr.com/2747/4433291146_a9ec4a68e3_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2747/4433291146_a9ec4a68e3_m.jpg
     pub_date: '2010-03-09 01:17:57 -0800'
     description: Awesome photos by Dito Milan of GotBlueMilk.com
     id: '72157623495428947'

@@ -17,7 +17,7 @@ entry:
       I took the girls and their friends to a little spot at the Stevens Creek Reservoir that I've seen from above on the Tony Look Trail.  The last time I ran on that trail, there was a family of deer foraging at the lake basin, so surely it would be good for a kid-venture!
 
       To get there, park on Stevens Canyon Road just after it crosses Stevens Creek. There's a gate and some warnings about launching boats, though I'm not sure how anyone would launch a boat there.
-    primary_photo_url: http://farm9.static.flickr.com/8722/29177941950_5702be84d7_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8722/29177941950_5702be84d7_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7714/29466424625_e6858c0d08_s.jpg
       title: Abbey Road?

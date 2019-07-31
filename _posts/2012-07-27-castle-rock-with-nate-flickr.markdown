@@ -65,7 +65,7 @@ entry:
     description: Nate, the girls, and I took a fun trip to Castle Rock one morning.  It's
       one of the girls' favorite places, and they were thrilled to share it with their
       cousin!
-    primary_photo_url: http://farm9.static.flickr.com/8433/7744133110_59f6557208_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8433/7744133110_59f6557208_m.jpg
     pub_date: '2012-07-27 04:14:17 -0700'
     title: Castle Rock with Nate
     id: '72157630980240340'

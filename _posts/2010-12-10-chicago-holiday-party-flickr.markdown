@@ -105,7 +105,7 @@ entry:
     title: Chicago Holiday Party
     primary_photo_id: '5252824249'
     id: '72157625454070693'
-    primary_photo_url: http://farm6.static.flickr.com/5287/5252824249_8f920a7d68_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5287/5252824249_8f920a7d68_m.jpg
   created_at: '2010-12-12 05:00:06'
   updated_at: '2010-12-12 05:15:25'
   pub_date: '2010-12-10 20:43:14'

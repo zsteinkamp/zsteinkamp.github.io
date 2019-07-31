@@ -57,7 +57,7 @@ entry:
     description: What a wonderful time in a beautiful place out in the country! New
       friends Lisa and Harris. <a href="https://www.strava.com/activities/499160819"
       rel="nofollow">www.strava.com/activities/499160819</a>
-    primary_photo_url: http://farm2.static.flickr.com/1458/25176232056_7ee08d7fa3_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1458/25176232056_7ee08d7fa3_m.jpg
     id: '72157662642460514'
   created_at: '2016-02-27 22:51:14'
   updated_at: '2016-02-27 22:51:14'

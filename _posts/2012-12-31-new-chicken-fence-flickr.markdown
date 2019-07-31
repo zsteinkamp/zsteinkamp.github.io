@@ -11,7 +11,7 @@ entry:
     link: http://www.flickr.com/photos/thenobot/sets/72157632395120777/
     primary_photo_id: '8331965876'
     excerpt: ''
-    primary_photo_url: http://farm9.static.flickr.com/8495/8331965876_132dd5f798_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8495/8331965876_132dd5f798_m.jpg
     pub_date: '2012-12-31 01:47:56 -0800'
     description: |-
       The chickens got really good at escaping from their "corner of paradise", and would make a mess of the rest of the yard.  On the advice of the nice folks at the local farm supply store, I tried a new kind of fence.

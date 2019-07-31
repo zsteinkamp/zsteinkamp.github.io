@@ -11,7 +11,7 @@ entry:
     excerpt: ''
     primary_photo_id: '8403769806'
     link: http://www.flickr.com/photos/thenobot/sets/72157632581673954/
-    primary_photo_url: http://farm9.static.flickr.com/8368/8403769806_3223090e4a_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8368/8403769806_3223090e4a_m.jpg
     pub_date: '2013-01-20 08:30:24 -0800'
     description: |-
       Always a great time in Los Osos.  We spent a few days to celebrate Emily's birthday, play by the ocean, run around Montana de Oro, and get soaked by some huge surf.

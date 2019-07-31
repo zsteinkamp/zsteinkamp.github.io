@@ -16,7 +16,7 @@ entry:
       angry wasp that bit my arm twice!
     title: Fragrance Lake Run
     link: http://www.flickr.com/photos/thenobot/sets/72157634902090033/
-    primary_photo_url: http://farm4.static.flickr.com/3693/9426248640_6e851b7d38_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3693/9426248640_6e851b7d38_m.jpg
     photos:
     - pub_date: '2013-08-02 06:57:51 -0700'
       description: 

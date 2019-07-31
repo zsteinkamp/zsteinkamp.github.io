@@ -72,7 +72,7 @@ entry:
     primary_photo_id: '5386662908'
     link: http://www.flickr.com/photos/thenobot/sets/72157625900852228/
     title: Weekend Hikes
-    primary_photo_url: http://farm6.static.flickr.com/5216/5386662908_3af5b32063_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5216/5386662908_3af5b32063_m.jpg
     description: |-
       I took a good 6.5 mile hike on Saturday.  Spent most of the time off the trail, which made it fairly strenuous.  I saw 5 coyotes toal, some deer, and some suspicious cows.
 

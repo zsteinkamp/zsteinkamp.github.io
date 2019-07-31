@@ -12,7 +12,7 @@ entry:
     description: David M and I ran the SttS 50k today!
     title: Skyline to the Sea 50k
     link: http://www.flickr.com/photos/thenobot/sets/72157636483073165/
-    primary_photo_url: http://farm3.static.flickr.com/2859/10236877833_37fa8c9ec9_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2859/10236877833_37fa8c9ec9_m.jpg
     photos:
     - pub_date: '2013-10-12 02:09:28 -0700'
       description: DM at the start.

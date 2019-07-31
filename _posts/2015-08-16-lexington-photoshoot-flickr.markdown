@@ -11,7 +11,7 @@ entry:
     num_photos: 6
     link: http://www.flickr.com/photos/thenobot/sets/72157657368317471/
     primary_photo_id: '20617524436'
-    primary_photo_url: http://farm6.static.flickr.com/5617/20617524436_b797da2678_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5617/20617524436_b797da2678_m.jpg
     description: We drove to the Lexington Reservoir this evening for a quick photoshoot.
       It was a nice way to cool off after a super hot (106F) day.
     title: Lexington Photoshoot

@@ -133,7 +133,7 @@ entry:
       in San Jose.  Dori, the owner, asked me to take some photos for her to use for
       her website and other promo materials.  I think she's running an awesome business
       so I'm happy to do this for her!
-    primary_photo_url: http://farm3.static.flickr.com/2854/11018447843_810e7c5e3b_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2854/11018447843_810e7c5e3b_m.jpg
     id: '72157637985559805'
     num_photos: 23
   created_at: '2013-11-25 04:51:57'

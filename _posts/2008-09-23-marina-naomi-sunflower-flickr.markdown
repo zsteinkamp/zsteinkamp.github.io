@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2913469628'
     link: http://www.flickr.com/photos/thenobot/sets/72157607741188581/
-    primary_photo_url: http://farm4.static.flickr.com/3207/2913469628_ee131b2883_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3207/2913469628_ee131b2883_m.jpg
     pub_date: '2008-09-23 01:11:47 -0700'
     description: Some random pictures from the last week.
     id: '72157607741188581'

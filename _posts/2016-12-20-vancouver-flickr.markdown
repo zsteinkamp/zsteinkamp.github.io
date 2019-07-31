@@ -15,7 +15,7 @@ entry:
     pub_date: '2016-12-20 05:33:02 -0800'
     description: Mimi, the girls, and I drove up to Vancouver today to check out the
       Christmas Market, take a seaplane ride, and then have a look in the Aquarium.
-    primary_photo_url: http://farm1.static.flickr.com/385/30967322423_a51b15148c_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/385/30967322423_a51b15148c_m.jpg
     photos:
     - thumb_url: http://farm1.static.flickr.com/511/31661599051_f2734166cf_s.jpg
       media: photo

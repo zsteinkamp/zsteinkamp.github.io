@@ -102,7 +102,7 @@ entry:
       thumb_url: http://farm7.static.flickr.com/6019/6296162551_5c5d21e934_s.jpg
     num_photos: 17
     primary_photo_id: '6296688610'
-    primary_photo_url: http://farm7.static.flickr.com/6223/6296688610_bdf317cbcc_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6223/6296688610_bdf317cbcc_m.jpg
     title: Umunhum
     pub_date: '2011-10-30 04:11:51 -0700'
     description: "I made it to the top of Mt. Umunhum (3500ft) today.  This mountain

@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632515196160
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8465/8376908435_01016927ef_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8465/8376908435_01016927ef_m.jpg
     pub_date: '2013-01-13 01:56:02 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632515196160/
     description: |-

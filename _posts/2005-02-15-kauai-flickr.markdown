@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4997213294'
     link: http://www.flickr.com/photos/thenobot/sets/72157624971420248/
-    primary_photo_url: http://farm5.static.flickr.com/4129/4997213294_8dac2a8e27_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4129/4997213294_8dac2a8e27_m.jpg
     pub_date: '2005-02-14 12:48:00 -0800'
     description: 
     title: Kauai

@@ -11,7 +11,7 @@ entry:
     num_photos: 12
     link: http://www.flickr.com/photos/thenobot/sets/72157627120307694/
     primary_photo_id: '5903789145'
-    primary_photo_url: http://farm6.static.flickr.com/5238/5903789145_ab2e609443_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5238/5903789145_ab2e609443_m.jpg
     pub_date: '2011-07-04 14:00:14 -0700'
     description: I hiked up Mission Peak to get a view of the Bay Area's fireworks
       shows.  All in all I counted at least 20 from there.  Big ones were at Great

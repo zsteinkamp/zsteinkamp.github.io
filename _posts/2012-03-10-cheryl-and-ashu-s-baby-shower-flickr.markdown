@@ -141,7 +141,7 @@ entry:
     primary_photo_id: '6974909639'
     description: A very nice March day brought family and friends together to celebrate
       Ashu and Cheryl's forthcoming baby, or as Naomi calls her, &quot;Cutie Beautie&quot;.
-    primary_photo_url: http://farm8.static.flickr.com/7048/6974909639_f9d44547ef_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7048/6974909639_f9d44547ef_m.jpg
     pub_date: '2012-03-10 05:49:56 -0800'
     title: Cheryl and Ashu's Baby Shower
     id: '72157629201451428'

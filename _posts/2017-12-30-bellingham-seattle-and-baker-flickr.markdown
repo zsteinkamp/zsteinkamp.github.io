@@ -15,7 +15,7 @@ entry:
       brother, aunt, uncle, neice, nephew, cousins. Pop's 70th!
     num_photos: 35
     primary_photo_id: '39382873662'
-    primary_photo_url: http://farm5.static.flickr.com/4726/39382873662_e8433bce8c_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4726/39382873662_e8433bce8c_m.jpg
     pub_date: '2017-12-30 14:00:56'
     photos:
     - id: '24462227947'

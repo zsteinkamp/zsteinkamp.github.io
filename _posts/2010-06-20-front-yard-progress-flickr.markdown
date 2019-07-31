@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4717510971'
     link: http://www.flickr.com/photos/thenobot/sets/72157624317699112/
-    primary_photo_url: http://farm5.static.flickr.com/4019/4717510971_3e6b0b0a82_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4019/4717510971_3e6b0b0a82_m.jpg
     pub_date: '2010-06-20 03:54:07 -0700'
     description: Round Up went down on the grass yesterday.  Got rid of the jasmine
       and succulents.  Started in on the bricks.

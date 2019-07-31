@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2176678689'
     link: http://www.flickr.com/photos/thenobot/sets/72157603666119471/
-    primary_photo_url: http://farm3.static.flickr.com/2146/2176678689_cff6d34c4d_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2146/2176678689_cff6d34c4d_m.jpg
     pub_date: '2008-01-07 00:45:14 -0800'
     description: Four months in the making, it's finally done.
     id: '72157603666119471'

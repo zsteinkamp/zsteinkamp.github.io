@@ -9,7 +9,7 @@ entry:
   uid: 72157649262496526
   data:
     link: http://www.flickr.com/photos/thenobot/sets/72157649262496526/
-    primary_photo_url: http://farm9.static.flickr.com/8121/15621347017_90fc8014fc_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8121/15621347017_90fc8014fc_m.jpg
     title: Exploratorium
     description: The girls and I took a fun trip to SF today to visit the Exploratorium.
       We got there right when it opened, which worked out great on this Sunday. We

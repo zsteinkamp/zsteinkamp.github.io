@@ -24,7 +24,7 @@ entry:
       the keyboard. Afterward we all agreed that we should have been up and dancing
       for most of the set!
     pub_date: '2016-06-17 12:56:54 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7403/27711490321_51d875f649_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7403/27711490321_51d875f649_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7445/27786198115_351327b69c_s.jpg
       title: Up from the Powell St Station

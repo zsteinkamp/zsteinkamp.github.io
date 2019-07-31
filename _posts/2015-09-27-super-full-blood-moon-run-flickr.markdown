@@ -14,7 +14,7 @@ entry:
     pub_date: '2015-09-27 11:30:45 -0700'
     description: I ran up Mt. Allison with the DSLR in tow. The clouds foiled my moonrise
       plans, but there was plenty more to enjoy up there.
-    primary_photo_url: http://farm1.static.flickr.com/598/21764733462_88ffb86557_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/598/21764733462_88ffb86557_m.jpg
     photos:
     - title: IMG_3567
       description: 

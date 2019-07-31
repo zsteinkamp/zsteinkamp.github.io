@@ -133,7 +133,7 @@ entry:
     primary_photo_id: '5210609382'
     title: Sunol Peak
     id: '72157625475402074'
-    primary_photo_url: http://farm5.static.flickr.com/4092/5210609382_b84c0b80d0_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4092/5210609382_b84c0b80d0_m.jpg
   created_at: '2010-11-27 22:08:15'
   updated_at: '2010-11-27 22:08:15'
   pub_date: '2010-11-26 17:13:42'

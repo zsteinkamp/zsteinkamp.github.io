@@ -14,7 +14,7 @@ entry:
     title: Sunday
     pub_date: '2016-06-26 06:17:42 -0700'
     description: Slice of our day. Latkes, Summit Rock / Castle Rock, Rojoz.
-    primary_photo_url: http://farm8.static.flickr.com/7073/27845236001_29172bd947_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7073/27845236001_29172bd947_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7649/27887801146_a1d67bbfca_s.jpg
       title: Some days started sooner than others

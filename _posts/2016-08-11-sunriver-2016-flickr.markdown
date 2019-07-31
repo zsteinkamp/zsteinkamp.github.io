@@ -27,7 +27,7 @@ entry:
       - Hot afternoon river dips (literally took my breath away) alternating with sunny hot riverbank baking.
       - Girls spending tons of quality time with cousins, mostly in the hot tub.
     pub_date: '2016-08-11 07:11:09 -0700'
-    primary_photo_url: http://farm9.static.flickr.com/8800/28927753181_45eb8d2fcd_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8800/28927753181_45eb8d2fcd_m.jpg
     photos:
     - thumb_url: http://farm9.static.flickr.com/8752/28386925683_cdf8623c13_s.jpg
       title: 

@@ -13,7 +13,7 @@ entry:
     description: Arti was busy with Yoga and a school maintenance day, so the girls
       and I took a trip up Mission Peak. It was Naomi's first time up, and despite
       the howling wind and dust storms, she did great! Marina too. :)
-    primary_photo_url: http://farm8.static.flickr.com/7329/16358716972_59a1248b63_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7329/16358716972_59a1248b63_m.jpg
     photos:
     - description: 
       pub_date: '2015-01-24 01:14:53 -0800'

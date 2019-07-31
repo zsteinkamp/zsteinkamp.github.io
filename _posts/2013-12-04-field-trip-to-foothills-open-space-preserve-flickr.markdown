@@ -14,7 +14,7 @@ entry:
       started fires, and played some Ohlone games.
     title: Field Trip to Foothills Open Space Preserve
     link: http://www.flickr.com/photos/thenobot/sets/72157638362586973/
-    primary_photo_url: http://farm8.static.flickr.com/7340/11213153713_4ed0391638_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7340/11213153713_4ed0391638_m.jpg
     photos:
     - pub_date: '2013-12-04 01:46:00 -0800'
       description: 

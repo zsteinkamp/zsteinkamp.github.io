@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '5004035473'
     link: http://www.flickr.com/photos/thenobot/sets/72157624988401734/
-    primary_photo_url: http://farm5.static.flickr.com/4076/5004035473_a6b81e4792_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4076/5004035473_a6b81e4792_m.jpg
     pub_date: '2010-09-18 04:19:50 -0700'
     description: 
     title: Marina's Petting Zoo Party

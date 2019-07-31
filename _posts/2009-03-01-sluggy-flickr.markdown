@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3319815586'
     link: http://www.flickr.com/photos/thenobot/sets/72157614617802138/
-    primary_photo_url: http://farm4.static.flickr.com/3536/3319815586_43281db333_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3536/3319815586_43281db333_m.jpg
     pub_date: '2009-03-01 01:19:22 -0800'
     description: Marina's new critter pet.
     id: '72157614617802138'

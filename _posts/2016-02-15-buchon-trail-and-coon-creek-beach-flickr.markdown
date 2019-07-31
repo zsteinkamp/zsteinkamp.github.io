@@ -71,7 +71,7 @@ entry:
     title: Buchon Trail and Coon Creek Beach
     description: We took a walk on the Buchon Trail then spent some time at Coon Creek
       Beach.
-    primary_photo_url: http://farm2.static.flickr.com/1507/24685339369_eaf676a9b4_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1507/24685339369_eaf676a9b4_m.jpg
     id: '72157664661419606'
   created_at: '2016-02-16 05:19:16'
   updated_at: '2016-02-16 05:19:16'

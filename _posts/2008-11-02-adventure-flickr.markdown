@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2998748684'
     link: http://www.flickr.com/photos/thenobot/sets/72157608607623944/
-    primary_photo_url: http://farm4.static.flickr.com/3140/2998748684_c663eed05a_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3140/2998748684_c663eed05a_m.jpg
     pub_date: '2008-11-02 07:58:46 -0800'
     description: We went to an ice cream place in Palo Alto, then for a little walk
       at Shoreline Park, then dinner at Cafe Yulong this afternoon.

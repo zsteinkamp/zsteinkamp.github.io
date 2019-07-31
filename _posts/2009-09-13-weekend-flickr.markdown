@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3921509935'
     link: http://www.flickr.com/photos/thenobot/sets/72157622249699311/
-    primary_photo_url: http://farm4.static.flickr.com/3433/3921509935_7fe3c495c2_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3433/3921509935_7fe3c495c2_m.jpg
     pub_date: '2009-09-13 03:41:00 -0700'
     description: Hairstyles, weather, climbing, cuddling, and pinata-ing.
     id: '72157622249699311'

@@ -150,7 +150,7 @@ entry:
       id: '10396723755'
     title: Royals vs. Burlingame
     description: I took photos at one of Marina's soccer games.
-    primary_photo_url: http://farm4.static.flickr.com/3748/10396723755_a67bab192c_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3748/10396723755_a67bab192c_m.jpg
     id: '72157636783477873'
     num_photos: 27
   created_at: '2013-11-25 04:52:34'

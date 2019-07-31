@@ -13,7 +13,7 @@ entry:
     description: I drove up to catch some evening/night action at this year's 25 Hour
       race. Not having the responsibility of crewing for a team was good and bad --
       the freedom was nice, but I do really enjoy being really involved in an effort.
-    primary_photo_url: http://farm9.static.flickr.com/8612/15342425054_b37e03e66f_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8612/15342425054_b37e03e66f_m.jpg
     photos:
     - description: 
       pub_date: '2014-12-06 08:32:53 -0800'

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3847643394'
     link: http://www.flickr.com/photos/thenobot/sets/72157621991246047/
-    primary_photo_url: http://farm4.static.flickr.com/3534/3847643394_a5d14f647e_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3534/3847643394_a5d14f647e_m.jpg
     pub_date: '2009-08-21 11:05:30 -0700'
     description: Marina and Naomi play outside the day after Naomi's first birthday.
     id: '72157621991246047'

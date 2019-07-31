@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3373800926'
     link: http://www.flickr.com/photos/thenobot/sets/72157615730097638/
-    primary_photo_url: http://farm4.static.flickr.com/3044/3373800926_d91d9dac97_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3044/3373800926_d91d9dac97_m.jpg
     pub_date: '2009-03-21 02:14:34 -0700'
     description: This morning, Naomi got a bath and Marina went to Gym class.
     id: '72157615730097638'

@@ -9,7 +9,7 @@ entry:
   uid: 72157626395112429
   data:
     primary_photo_id: '5629324220'
-    primary_photo_url: http://farm6.static.flickr.com/5268/5629324220_afde252bef_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5268/5629324220_afde252bef_m.jpg
     link: http://www.flickr.com/photos/thenobot/sets/72157626395112429/
     pub_date: '2011-04-17 06:31:24 -0700'
     photos:

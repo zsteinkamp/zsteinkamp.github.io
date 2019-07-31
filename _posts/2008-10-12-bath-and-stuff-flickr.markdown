@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2934524553'
     link: http://www.flickr.com/photos/thenobot/sets/72157607966729157/
-    primary_photo_url: http://farm4.static.flickr.com/3173/2934524553_74ddcd07c8_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3173/2934524553_74ddcd07c8_m.jpg
     pub_date: '2008-10-12 03:40:40 -0700'
     description: Naomi and Marina
     id: '72157607966729157'

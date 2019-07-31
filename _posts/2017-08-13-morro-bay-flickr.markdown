@@ -14,7 +14,7 @@ entry:
     description: Fun times with parents, siblings, and cousins on the Central Coast.
     num_photos: 37
     primary_photo_id: '36193543680'
-    primary_photo_url: http://farm5.static.flickr.com/4369/36193543680_93c0e30d8b_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4369/36193543680_93c0e30d8b_m.jpg
     pub_date: '2017-08-13 14:50:50'
     photos:
     - id: '36193556360'

@@ -16,7 +16,7 @@ entry:
     title: Sunriver River Float
     link: http://www.flickr.com/photos/thenobot/sets/72157646309390333/
     primary_photo_id: '14855460465'
-    primary_photo_url: http://farm4.static.flickr.com/3835/14855460465_1dd581d824_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3835/14855460465_1dd581d824_m.jpg
     photos:
     - pub_date: '2014-08-03 07:39:29 -0700'
       thumb_url: http://farm4.static.flickr.com/3911/14668853339_b3ac0e095b_s.jpg

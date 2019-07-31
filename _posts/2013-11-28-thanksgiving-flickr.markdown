@@ -52,7 +52,7 @@ entry:
     title: Thanksgiving
     id: '72157638370110984'
     pub_date: '2013-11-28 08:01:37 -0800'
-    primary_photo_url: http://farm8.static.flickr.com/7389/11216830534_ff0b72dcce_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7389/11216830534_ff0b72dcce_m.jpg
   created_at: '2013-12-07 21:31:47'
   updated_at: '2013-12-07 21:34:37'
   pub_date: '2013-11-28 16:01:37'

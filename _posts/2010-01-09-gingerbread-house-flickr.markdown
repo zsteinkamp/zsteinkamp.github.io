@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4260460378'
     link: http://www.flickr.com/photos/thenobot/sets/72157623050619637/
-    primary_photo_url: http://farm5.static.flickr.com/4058/4260460378_b7ac770090_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4058/4260460378_b7ac770090_m.jpg
     pub_date: '2010-01-09 05:28:22 -0800'
     description: Marina made this at preschool before Christmas.  We wanted to take
       some photos of it before it went to the great gingerbread house in the sky...

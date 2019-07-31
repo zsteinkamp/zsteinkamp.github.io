@@ -34,7 +34,7 @@ entry:
     primary_photo_id: '8211883676'
     description: 6am start up this unrelenting 4 mile climb.  Great times with good
       friends!
-    primary_photo_url: http://farm9.static.flickr.com/8205/8211883676_3453a9fc31_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8205/8211883676_3453a9fc31_m.jpg
     pub_date: '2012-11-22 23:05:34 -0800'
     title: Kennedy Turkey Ride
     id: '72157632083155702'

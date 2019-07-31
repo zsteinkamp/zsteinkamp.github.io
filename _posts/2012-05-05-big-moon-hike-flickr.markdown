@@ -44,7 +44,7 @@ entry:
     primary_photo_id: '7144036121'
     description: I took an evening walk up the good old Horse Heaven Trail to get
       a view of the extra-large full moon.
-    primary_photo_url: http://farm9.static.flickr.com/8147/7144036121_f2d771e1c3_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8147/7144036121_f2d771e1c3_m.jpg
     pub_date: '2012-05-04 13:15:00 -0700'
     title: Big Moon Hike
     id: '72157629968310831'

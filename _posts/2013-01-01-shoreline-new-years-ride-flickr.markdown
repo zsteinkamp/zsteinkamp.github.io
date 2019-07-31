@@ -11,7 +11,7 @@ entry:
     link: http://www.flickr.com/photos/thenobot/sets/72157632403371031/
     primary_photo_id: '8335301852'
     excerpt: ''
-    primary_photo_url: http://farm9.static.flickr.com/8071/8335301852_12a127d009_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8071/8335301852_12a127d009_m.jpg
     pub_date: '2013-01-01 04:06:36 -0800'
     description: |-
       Arti was busy teaching a fitness class, so the girls and I rode our bikes around Shoreline Park. We stopped for fries and juice at the Lakeside Cafe along the way.

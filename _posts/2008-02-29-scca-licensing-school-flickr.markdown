@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2308820349'
     link: http://www.flickr.com/photos/thenobot/sets/72157604038853668/
-    primary_photo_url: http://farm3.static.flickr.com/2027/2308820349_da9750fed9_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2027/2308820349_da9750fed9_m.jpg
     pub_date: '2008-02-29 01:35:20 -0800'
     description: Pop's photos from the SCCA race licensing school.
     id: '72157604038853668'

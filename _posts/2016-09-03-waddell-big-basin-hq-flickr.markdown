@@ -33,7 +33,7 @@ entry:
       into a  dry shirt, we drove to The Roadhouse in Davenport for a really excellent
       lunch. It was my first hamburger in 8 years and it was deeply satisfying.\n\nThanks
       Nina, Amy, Sachin, and Thomas for helping to make such a memorable day."
-    primary_photo_url: http://farm9.static.flickr.com/8093/29407579616_e39e28329c_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8093/29407579616_e39e28329c_m.jpg
     photos:
     - thumb_url: http://farm9.static.flickr.com/8359/28820169993_515ab75442_s.jpg
       title: Morning Start

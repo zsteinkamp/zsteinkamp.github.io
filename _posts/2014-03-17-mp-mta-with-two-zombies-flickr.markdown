@@ -14,7 +14,7 @@ entry:
       Mt. Allison too.  Great run!
     title: MP+MtA with Two Zombies
     link: http://www.flickr.com/photos/thenobot/sets/72157642543360285/
-    primary_photo_url: http://farm4.static.flickr.com/3707/13244446423_429ecfee51_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3707/13244446423_429ecfee51_m.jpg
     photos:
     - pub_date: '2014-03-17 11:12:00 -0700'
       description: Final push up Mission Peak.

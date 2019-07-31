@@ -45,7 +45,7 @@ entry:
     primary_photo_id: '25754061652'
     title: Mission Peak O50K to Ohlone Evening Run
     description: 
-    primary_photo_url: http://farm2.static.flickr.com/1672/25754061652_86206a7e1e_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1672/25754061652_86206a7e1e_m.jpg
     id: '72157666090785955'
   created_at: '2016-03-25 05:10:55'
   updated_at: '2016-03-25 05:10:55'

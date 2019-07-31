@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '1794357079'
     link: http://www.flickr.com/photos/thenobot/sets/72157602771492177/
-    primary_photo_url: http://farm3.static.flickr.com/2059/1794357079_acf0996a75_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2059/1794357079_acf0996a75_m.jpg
     pub_date: '2007-10-27 05:43:35 -0700'
     description: Marina in her ladybug costume goes to the Westside Preschool Halloween
       Fair.

@@ -58,7 +58,7 @@ entry:
     num_photos: 9
     primary_photo_id: '6702003801'
     description: I took Marina and a friend on a fun school field trip to the aquarium.
-    primary_photo_url: http://farm8.static.flickr.com/7141/6702003801_78b74eacab_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7141/6702003801_78b74eacab_m.jpg
     pub_date: '2012-01-12 04:30:12 -0800'
     title: Monterey Bay Aquarium Field Trip
     id: '72157628881643547'

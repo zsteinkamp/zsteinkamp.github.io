@@ -12,7 +12,7 @@ entry:
     description: 
     title: Seymour Marine Discovery Center
     link: http://www.flickr.com/photos/thenobot/sets/72157641375589333/
-    primary_photo_url: http://farm8.static.flickr.com/7328/12706532974_6ef3311631_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7328/12706532974_6ef3311631_m.jpg
     photos:
     - pub_date: '2014-02-22 02:23:11 -0800'
       description: 

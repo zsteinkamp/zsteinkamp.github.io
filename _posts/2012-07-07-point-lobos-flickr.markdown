@@ -114,7 +114,7 @@ entry:
     primary_photo_id: '7524520704'
     description: We spent the day at this beautiful State Park just south of Monterey.  Fun
       to share this place with my girls that I remember from being a kid.
-    primary_photo_url: http://farm8.static.flickr.com/7256/7524520704_0e3f38d434_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7256/7524520704_0e3f38d434_m.jpg
     pub_date: '2012-07-07 07:18:35 -0700'
     title: Point Lobos
     id: '72157630471986088'

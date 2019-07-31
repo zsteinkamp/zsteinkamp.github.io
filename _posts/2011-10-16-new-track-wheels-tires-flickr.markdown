@@ -40,7 +40,7 @@ entry:
     description: Wheels are 17x9 et40 TR MT1R.  Tires are Toyo R-888 245/40-17.  There
       was an ever so slight rub on the rear fender lip which was easily remedied with
       a hammer.
-    primary_photo_url: http://farm7.static.flickr.com/6019/6251349427_4cc603a328_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6019/6251349427_4cc603a328_m.jpg
     pub_date: '2011-10-16 07:52:29 -0700'
     title: New Track Wheels+Tires
     id: '72157627910058882'

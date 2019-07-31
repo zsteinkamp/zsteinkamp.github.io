@@ -161,7 +161,7 @@ entry:
       in the morning with lunch and a little cake and we opened family presents.  Then
       in the afternoon we went to Petroglyph in Willow Glen for pottery, painting,
       and pizza!
-    primary_photo_url: http://farm9.static.flickr.com/8311/8016711804_667ddd0418_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8311/8016711804_667ddd0418_m.jpg
     pub_date: '2012-09-22 11:07:39 -0700'
     title: Marina's Birthday
     id: '72157631605495094'

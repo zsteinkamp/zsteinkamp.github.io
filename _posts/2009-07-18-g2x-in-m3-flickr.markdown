@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3733726809'
     link: http://www.flickr.com/photos/thenobot/sets/72157621543984385/
-    primary_photo_url: http://farm3.static.flickr.com/2532/3733726809_5b082d6607_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2532/3733726809_5b082d6607_m.jpg
     pub_date: '2009-07-18 15:11:49 -0700'
     description: I wired in a data acquisition system in the car in preparation of
       a trackday coming up.

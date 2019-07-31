@@ -12,7 +12,7 @@ entry:
     description: 
     title: Kanta's Birthday and Rakhi
     link: http://www.flickr.com/photos/thenobot/sets/72157635113174066/
-    primary_photo_url: http://farm4.static.flickr.com/3702/9532194918_4156d31913_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3702/9532194918_4156d31913_m.jpg
     photos:
     - pub_date: '2013-08-11 06:40:27 -0700'
       description: 

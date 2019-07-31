@@ -22,7 +22,7 @@ entry:
       to Ke'e beach, so the timing worked out really well! \n\n<iframe height='405'
       width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://app.strava.com/activities/150299470/embed/e7260e277df540c0978339ebc09a618cb025115a'></iframe>"
     link: http://www.flickr.com/photos/thenobot/sets/72157644995653276/
-    primary_photo_url: http://farm3.static.flickr.com/2899/14175748809_6a39de24f6_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2899/14175748809_6a39de24f6_m.jpg
     photos:
     - description: 
       thumb_url: http://farm6.static.flickr.com/5499/14359095291_3b074f4750_s.jpg

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3537859072'
     link: http://www.flickr.com/photos/thenobot/sets/72157618210238351/
-    primary_photo_url: http://farm4.static.flickr.com/3603/3537859072_24b4ffbb0d_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3603/3537859072_24b4ffbb0d_m.jpg
     pub_date: '2009-05-16 04:49:24 -0700'
     description: I went with JohnR and Justin down to Laguna to watch the cars race.  MX-5
       Cup race, DP Qualifying, GT Qualifying, and Koni Challenge race.

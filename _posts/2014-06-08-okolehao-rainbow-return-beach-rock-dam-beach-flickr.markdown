@@ -17,7 +17,7 @@ entry:
     title: Okolehao Rainbow Return, Beach, Rock Dam, Beach
     link: http://www.flickr.com/photos/thenobot/sets/72157645118224614/
     primary_photo_id: '14379629384'
-    primary_photo_url: http://farm4.static.flickr.com/3838/14379629384_f5bf82a003_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3838/14379629384_f5bf82a003_m.jpg
     photos:
     - pub_date: '2014-06-08 00:16:34 -0700'
       thumb_url: http://farm6.static.flickr.com/5578/14415625303_1324a7cb60_s.jpg

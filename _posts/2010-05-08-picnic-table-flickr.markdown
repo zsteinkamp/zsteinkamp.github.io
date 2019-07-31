@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4590982164'
     link: http://www.flickr.com/photos/thenobot/sets/72157623896743527/
-    primary_photo_url: http://farm5.static.flickr.com/4038/4590982164_d0bae2ecef_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4038/4590982164_d0bae2ecef_m.jpg
     pub_date: '2010-05-08 09:17:01 -0700'
     description: I made this table for the girls today.
     id: '72157623896743527'

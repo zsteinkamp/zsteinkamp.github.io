@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157633382122336
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8116/8692955671_bb77f91f81_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8116/8692955671_bb77f91f81_m.jpg
     pub_date: '2013-04-27 12:33:30 -0700'
     link: http://www.flickr.com/photos/thenobot/sets/72157633382122336/
     description: We turned a family wedding into a family vacation - 6 days at the

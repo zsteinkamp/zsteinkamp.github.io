@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4179283451'
     link: http://www.flickr.com/photos/thenobot/sets/72157622988037740/
-    primary_photo_url: http://farm3.static.flickr.com/2735/4179283451_f07c2c613d_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2735/4179283451_f07c2c613d_m.jpg
     pub_date: '2009-12-12 06:22:07 -0800'
     description: I stumbled across a cache of eggs today while I was doing some yardwork.
     id: '72157622988037740'

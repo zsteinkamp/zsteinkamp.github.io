@@ -14,7 +14,7 @@ entry:
     title: SF Exploratorium
     pub_date: '2017-06-25 09:19:42 -0700'
     description: 
-    primary_photo_url: http://farm5.static.flickr.com/4261/34699319144_35bee98706_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4261/34699319144_35bee98706_m.jpg
     photos:
     - thumb_url: http://farm5.static.flickr.com/4261/34699319144_35bee98706_s.jpg
       media: photo

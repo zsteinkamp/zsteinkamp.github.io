@@ -51,7 +51,7 @@ entry:
     primary_photo_id: '5216914684'
     title: Marina's First Loose Tooth
     id: '72157625489886522'
-    primary_photo_url: http://farm6.static.flickr.com/5126/5216914684_6b9607ce93_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5126/5216914684_6b9607ce93_m.jpg
   created_at: '2010-11-29 04:06:10'
   updated_at: '2010-11-29 04:06:10'
   pub_date: '2010-11-29 01:36:14'

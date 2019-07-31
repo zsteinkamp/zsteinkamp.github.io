@@ -18,7 +18,7 @@ entry:
     primary_photo_id: '5490639707'
     link: http://www.flickr.com/photos/thenobot/sets/72157626179242882/
     title: Marina and Naomi
-    primary_photo_url: http://farm6.static.flickr.com/5020/5490639707_aaf1236079_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5020/5490639707_aaf1236079_m.jpg
     description: Marina lost a front tooth two days ago.  Seemed like a good time
       to take a picture of the girls.
     id: '72157626179242882'

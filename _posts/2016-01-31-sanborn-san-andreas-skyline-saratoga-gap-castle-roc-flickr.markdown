@@ -20,7 +20,7 @@ entry:
       up once we got to the other side of the ridge to our turnaround point at the
       Castle Rock campground. \n\nThe return trip through the snowy trees turned to
       a slushball dodgefest. Super fun!\n\nEvery run is always so unique!"
-    primary_photo_url: http://farm2.static.flickr.com/1444/24810823901_5a7baa83b4_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1444/24810823901_5a7baa83b4_m.jpg
     photos:
     - title: So Lush
       description: 

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4453179052'
     link: http://www.flickr.com/photos/thenobot/sets/72157623667859416/
-    primary_photo_url: http://farm3.static.flickr.com/2753/4453179052_8c59e27ef7_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2753/4453179052_8c59e27ef7_m.jpg
     pub_date: '2010-03-21 01:34:23 -0700'
     description: I hiked from Ed R. Levin county park in Milpitas over Monument Peak,
       Mt. Allison, and MIssion Peak and down into Fremont where Arti picked me up

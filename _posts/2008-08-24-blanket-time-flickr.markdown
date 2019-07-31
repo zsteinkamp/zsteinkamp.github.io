@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2794636931'
     link: http://www.flickr.com/photos/thenobot/sets/72157606935085726/
-    primary_photo_url: http://farm4.static.flickr.com/3089/2794636931_881cfd1358_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3089/2794636931_881cfd1358_m.jpg
     pub_date: '2008-08-24 11:03:10 -0700'
     description: Awake-fun on a blanket
     id: '72157606935085726'

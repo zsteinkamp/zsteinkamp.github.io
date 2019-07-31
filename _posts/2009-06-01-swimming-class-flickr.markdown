@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3586220809'
     link: http://www.flickr.com/photos/thenobot/sets/72157619025904853/
-    primary_photo_url: http://farm4.static.flickr.com/3630/3586220809_5d8a56d8ba_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3630/3586220809_5d8a56d8ba_m.jpg
     pub_date: '2009-06-01 03:55:04 -0700'
     description: Monday ritual.
     id: '72157619025904853'

@@ -97,7 +97,7 @@ entry:
       thumb_url: http://farm8.static.flickr.com/7041/6787337934_dfec79afd4_s.jpg
     num_photos: 17
     primary_photo_id: '6924248581'
-    primary_photo_url: http://farm8.static.flickr.com/7181/6924248581_785bdfb462_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7181/6924248581_785bdfb462_m.jpg
     title: Costa Rica Thurs/Fri
     pub_date: '2012-02-23 02:41:55 -0800'
     description: "<h3>Thursday</h3>\r\nThursday had us up and ready for breakfast

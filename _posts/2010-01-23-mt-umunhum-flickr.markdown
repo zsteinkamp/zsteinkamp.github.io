@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4298875605'
     link: http://www.flickr.com/photos/thenobot/sets/72157623271412608/
-    primary_photo_url: http://farm3.static.flickr.com/2721/4298875605_6b66a456f7_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2721/4298875605_6b66a456f7_m.jpg
     pub_date: '2010-01-23 04:42:18 -0800'
     description: We drove up Mt. Umunhum in search of the NEXRAD doppler radar station.
     id: '72157623271412608'

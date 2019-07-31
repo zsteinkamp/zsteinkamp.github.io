@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2166010783'
     link: http://www.flickr.com/photos/thenobot/sets/72157603635059423/
-    primary_photo_url: http://farm3.static.flickr.com/2244/2166010783_c91b010c28_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2244/2166010783_c91b010c28_m.jpg
     pub_date: '2008-01-04 02:43:43 -0800'
     description: Sustained rain + hurricane-force winds =
     id: '72157603635059423'

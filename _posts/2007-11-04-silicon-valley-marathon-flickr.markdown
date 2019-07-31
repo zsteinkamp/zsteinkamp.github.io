@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '1862118143'
     link: http://www.flickr.com/photos/thenobot/sets/72157602917166039/
-    primary_photo_url: http://farm3.static.flickr.com/2240/1862118143_7b70240f02_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2240/1862118143_7b70240f02_m.jpg
     pub_date: '2007-11-04 06:02:13 -0800'
     description: Arti has trained for the last six months in order to compete in,
       and finish, this 26.2 mile running race.

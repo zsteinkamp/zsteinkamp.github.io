@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2270593272'
     link: http://www.flickr.com/photos/thenobot/sets/72157603922085102/
-    primary_photo_url: http://farm3.static.flickr.com/2406/2270593272_35f6d15e42_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2406/2270593272_35f6d15e42_m.jpg
     pub_date: '2008-02-16 09:26:22 -0800'
     description: We took a little walk around Alviso to enjoy the nice weather.  Photos
       taken with my cameraphone.

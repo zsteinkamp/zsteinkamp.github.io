@@ -14,7 +14,7 @@ entry:
       Ladybugs.  Marina played her heart out, and had three shots on goal.
     title: Royals First Win
     link: http://www.flickr.com/photos/thenobot/sets/72157643530156273/
-    primary_photo_url: http://farm4.static.flickr.com/3824/13670067673_11c886bac7_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3824/13670067673_11c886bac7_m.jpg
     photos:
     - pub_date: '2014-04-05 09:05:19 -0700'
       description: After the Royals' first win.

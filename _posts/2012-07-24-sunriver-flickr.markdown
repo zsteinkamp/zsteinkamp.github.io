@@ -468,7 +468,7 @@ entry:
     description: We had our second annual family reunion-ish in this fantastic central
       Oregon destination.  Sunriver and surrounding areas offer a lot of fun and variety.  We
       ate, hiked, explored, learned, rode bikes and horses, and visited.
-    primary_photo_url: http://farm8.static.flickr.com/7117/7654363498_6f246351dd_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7117/7654363498_6f246351dd_m.jpg
     pub_date: '2012-07-24 09:40:36 -0700'
     title: Sunriver
     id: '72157630770067534'

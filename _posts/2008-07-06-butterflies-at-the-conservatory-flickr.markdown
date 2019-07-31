@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2643056643'
     link: http://www.flickr.com/photos/thenobot/sets/72157606014401826/
-    primary_photo_url: http://farm4.static.flickr.com/3159/2643056643_e00e04eba9_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3159/2643056643_e00e04eba9_m.jpg
     pub_date: '2008-07-06 03:56:30 -0700'
     description: We had a fun day in Golden Gate Park with a mission of seeing some
       butterflies at the Conservatory of Flowers.

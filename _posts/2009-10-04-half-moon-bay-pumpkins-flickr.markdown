@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3981484401'
     link: http://www.flickr.com/photos/thenobot/sets/72157622392677047/
-    primary_photo_url: http://farm3.static.flickr.com/2516/3981484401_20bd95f1a3_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2516/3981484401_20bd95f1a3_m.jpg
     pub_date: '2009-10-04 05:54:05 -0700'
     description: Pescadero State Beach + Pumpkin Patch
     id: '72157622392677047'

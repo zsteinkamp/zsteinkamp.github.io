@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4622938386'
     link: http://www.flickr.com/photos/thenobot/sets/72157624097005902/
-    primary_photo_url: http://farm4.static.flickr.com/3393/4622938386_56e05d7f54_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3393/4622938386_56e05d7f54_m.jpg
     pub_date: '2010-05-19 03:09:45 -0700'
     description: The Symantec Health engineering team took a hike today at Castle
       Rock State Park just outside of Saratoga.  There are few places with as varied

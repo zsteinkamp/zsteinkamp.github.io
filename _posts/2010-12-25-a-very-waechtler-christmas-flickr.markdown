@@ -48,7 +48,7 @@ entry:
     primary_photo_id: '5295306414'
     link: http://www.flickr.com/photos/thenobot/sets/72157625679940514/
     title: A Very Waechtler Christmas
-    primary_photo_url: http://farm6.static.flickr.com/5284/5295306414_b8ca715acb_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5284/5295306414_b8ca715acb_m.jpg
     description: We drove down to Los Osos to hang with the Waechtlers.  Fun times
       with 3/4 of the family!
     id: '72157625679940514'

@@ -18,7 +18,7 @@ entry:
       on today, learning how to provision a Conestoga wagon, make prairie candy, and
       play games that other kids would have played along the 2,000 mile hike to the
       West.
-    primary_photo_url: http://farm2.static.flickr.com/1650/24881484486_2a9f8f59ff_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1650/24881484486_2a9f8f59ff_m.jpg
     photos:
     - title: Briefing
       description: 

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2992314899'
     link: http://www.flickr.com/photos/thenobot/sets/72157608565427074/
-    primary_photo_url: http://farm4.static.flickr.com/3066/2992314899_aee7ca2aa3_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3066/2992314899_aee7ca2aa3_m.jpg
     pub_date: '2008-11-01 06:04:53 -0700'
     description: Marina really really really wanted to play outside in the rain today.
     id: '72157608565427074'

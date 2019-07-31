@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632956880009
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8384/8543018849_f6f3f2c88f_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8384/8543018849_f6f3f2c88f_m.jpg
     pub_date: '2013-03-09 06:25:01 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632956880009/
     description: The girls and I went to Shoreline Park today.  We rented a pedalboat

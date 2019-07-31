@@ -17,7 +17,7 @@ entry:
     title: Ohlone / Mt. Allison / Sunol Tri-Star
     link: http://www.flickr.com/photos/thenobot/sets/72157644189651804/
     primary_photo_id: '13955623035'
-    primary_photo_url: http://farm4.static.flickr.com/3769/13955623035_2419e183a1_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3769/13955623035_2419e183a1_m.jpg
     photos:
     - pub_date: '2014-04-20 02:47:38 -0700'
       thumb_url: http://farm4.static.flickr.com/3769/13955623035_2419e183a1_s.jpg

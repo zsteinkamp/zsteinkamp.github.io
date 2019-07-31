@@ -14,7 +14,7 @@ entry:
     pub_date: '2016-02-17 22:41:21 -0800'
     description: I came across these two on a pre-dawn run in Quicksilver Park. They
       were both trying to eat the same worm, Lady and the Tramp style.
-    primary_photo_url: http://farm2.static.flickr.com/1719/24690012883_937ff892f4_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1719/24690012883_937ff892f4_m.jpg
     photos:
     - title: 
       description: 

@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157654176418968
   data:
-    primary_photo_url: http://farm6.static.flickr.com/5485/18635870319_ec39ceec22_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5485/18635870319_ec39ceec22_m.jpg
     photos:
     - description: 
       thumb_url: http://farm6.static.flickr.com/5485/18635870319_ec39ceec22_s.jpg

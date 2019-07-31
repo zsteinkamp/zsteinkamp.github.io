@@ -10,7 +10,7 @@ entry:
   data:
     link: http://www.flickr.com/photos/thenobot/sets/72157624844621560/
     primary_photo_id: '4943128213'
-    primary_photo_url: http://farm5.static.flickr.com/4140/4943128213_74d606a203_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4140/4943128213_74d606a203_m.jpg
     description: Naomi and I found another huge caterpillar on the grapes today.  This
       one was orangish yellowish.
     pub_date: '2010-08-30 09:55:25 -0700'

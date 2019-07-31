@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4892709506'
     link: http://www.flickr.com/photos/thenobot/sets/72157624726546434/
-    primary_photo_url: http://farm5.static.flickr.com/4073/4892709506_b1aa104dae_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4073/4892709506_b1aa104dae_m.jpg
     pub_date: '2010-08-14 09:22:15 -0700'
     description: We celebrated Jesse's birthday at the beach today.  The girls (especially
       Marina) really love to play in the sand and the water.

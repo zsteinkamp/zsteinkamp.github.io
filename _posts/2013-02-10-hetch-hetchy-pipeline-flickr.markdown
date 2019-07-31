@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632738355866
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8524/8461706525_696cbb5b9a_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8524/8461706525_696cbb5b9a_m.jpg
     pub_date: '2013-02-10 02:05:45 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632738355866/
     description: I took a walk today from near the Ravenswood Open Space Preserve

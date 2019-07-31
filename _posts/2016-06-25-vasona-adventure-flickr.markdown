@@ -72,7 +72,7 @@ entry:
       at Vasona and we were just in time to hear 'The Klezmakers' put on a Klezmer
       show. Awesome luck! We got hungry though and returned home to make dosas then
       watch Castle in the Sky. Fun day!
-    primary_photo_url: http://farm8.static.flickr.com/7457/27295175133_4f299d28ae_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7457/27295175133_4f299d28ae_m.jpg
     id: '72157670244746135'
   created_at: '2016-06-26 05:26:33'
   updated_at: '2016-06-26 05:26:33'

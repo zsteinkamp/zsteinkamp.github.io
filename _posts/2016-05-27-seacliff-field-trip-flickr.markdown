@@ -14,7 +14,7 @@ entry:
     title: Seacliff Field Trip
     description: 
     pub_date: '2016-05-27 02:32:54 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7451/26691759333_19294fc458_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7451/26691759333_19294fc458_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7451/26691759333_19294fc458_s.jpg
       title: 

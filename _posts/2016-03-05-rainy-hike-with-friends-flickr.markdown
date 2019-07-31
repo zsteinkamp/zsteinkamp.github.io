@@ -30,7 +30,7 @@ entry:
     primary_photo_id: '25416039452'
     title: Rainy Hike with Friends
     description: 
-    primary_photo_url: http://farm2.static.flickr.com/1591/25416039452_5f98c6b3e9_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1591/25416039452_5f98c6b3e9_m.jpg
     id: '72157665510988515'
   created_at: '2016-03-25 05:10:59'
   updated_at: '2016-03-25 05:10:59'

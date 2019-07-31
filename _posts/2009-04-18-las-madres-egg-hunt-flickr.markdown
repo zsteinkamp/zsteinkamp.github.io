@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3453195759'
     link: http://www.flickr.com/photos/thenobot/sets/72157617004920800/
-    primary_photo_url: http://farm4.static.flickr.com/3634/3453195759_5094b0d15c_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3634/3453195759_5094b0d15c_m.jpg
     pub_date: '2009-04-18 03:48:32 -0700'
     description: Mom's group fun in the park on a warm Saturday.
     id: '72157617004920800'

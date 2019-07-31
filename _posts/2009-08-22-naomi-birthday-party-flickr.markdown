@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3849152902'
     link: http://www.flickr.com/photos/thenobot/sets/72157621995425021/
-    primary_photo_url: http://farm4.static.flickr.com/3487/3849152902_cef0c22422_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3487/3849152902_cef0c22422_m.jpg
     pub_date: '2009-08-22 05:44:07 -0700'
     description: Pictures from Naomi's party today.
     id: '72157621995425021'

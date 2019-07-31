@@ -21,7 +21,7 @@ entry:
     title: Homemade Sushi, Morning Race, Beach
     link: http://www.flickr.com/photos/thenobot/sets/72157644653037599/
     primary_photo_id: '14347468536'
-    primary_photo_url: http://farm6.static.flickr.com/5487/14347468536_b8f52018d4_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5487/14347468536_b8f52018d4_m.jpg
     photos:
     - pub_date: '2014-06-06 10:44:23 -0700'
       thumb_url: http://farm4.static.flickr.com/3838/14390710213_4b998ce922_s.jpg

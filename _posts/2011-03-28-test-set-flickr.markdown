@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157626296893551
   data:
-    primary_photo_url: http://farm6.static.flickr.com/5051/5566928656_94a244dbed_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5051/5566928656_94a244dbed_m.jpg
     pub_date: '2011-03-27 11:00:32 -0700'
     link: http://www.flickr.com/photos/thenobot/sets/72157626296893551/
     title: Test Set

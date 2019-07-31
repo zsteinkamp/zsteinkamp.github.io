@@ -14,7 +14,7 @@ entry:
     title: Thanksgiving
     pub_date: '2016-11-24 05:18:52 -0800'
     description: Some photos from before and during Thanksgiving in Los Osos.
-    primary_photo_url: http://farm6.static.flickr.com/5323/30854112730_0758eb5fa8_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5323/30854112730_0758eb5fa8_m.jpg
     photos:
     - thumb_url: http://farm6.static.flickr.com/5726/31221278785_6d4666250f_s.jpg
       media: photo

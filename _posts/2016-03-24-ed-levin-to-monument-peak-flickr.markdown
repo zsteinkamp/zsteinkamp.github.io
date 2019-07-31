@@ -47,7 +47,7 @@ entry:
       We had a good time sprinting up the &quot;Monument Peak Vortex&quot; for some personal best times on that short section at the top of the hill.
 
       Strava data and map are here: <a href="http://www.strava.com/activities/525906313" rel="nofollow">www.strava.com/activities/525906313</a>
-    primary_photo_url: http://farm2.static.flickr.com/1633/25413676104_3fb9dcdc68_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1633/25413676104_3fb9dcdc68_m.jpg
     id: '72157665799913880'
   created_at: '2016-03-25 05:10:51'
   updated_at: '2016-03-25 05:10:51'

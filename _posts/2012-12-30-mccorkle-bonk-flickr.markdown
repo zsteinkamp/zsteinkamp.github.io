@@ -13,7 +13,7 @@ entry:
       with food when I got home!
     primary_photo_id: '8328166924'
     link: http://www.flickr.com/photos/thenobot/sets/72157632389756672/
-    primary_photo_url: http://farm9.static.flickr.com/8224/8328166924_84e79d3fbe_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8224/8328166924_84e79d3fbe_m.jpg
     pub_date: '2012-12-30 02:05:25 -0800'
     description: |-
       Beautiful day -- 14 miles, 4600 feet, 3:45.  Visited Rock Scramble and climbed Goat Rock.  Bonked hard with 5 miles to go.  Thankfully Arti was waiting with food when I got home!

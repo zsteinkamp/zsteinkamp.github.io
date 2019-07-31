@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4396663600'
     link: http://www.flickr.com/photos/thenobot/sets/72157623404667369/
-    primary_photo_url: http://farm3.static.flickr.com/2772/4396663600_03e8649bb9_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2772/4396663600_03e8649bb9_m.jpg
     pub_date: '2010-02-28 02:13:10 -0800'
     description: On Sundays, a stretch of CaÃ±ada road is closed to cars so that bicyclists
       can enjoy this wonderful part of the peninsula.

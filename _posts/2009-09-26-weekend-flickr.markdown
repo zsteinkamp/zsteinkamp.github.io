@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3960877837'
     link: http://www.flickr.com/photos/thenobot/sets/72157622470129688/
-    primary_photo_url: http://farm3.static.flickr.com/2664/3960877837_c8826ddf81_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2664/3960877837_c8826ddf81_m.jpg
     pub_date: '2009-09-26 09:35:55 -0700'
     description: What we did this weekend.
     id: '72157622470129688'

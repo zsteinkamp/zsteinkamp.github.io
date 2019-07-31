@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2830000578'
     link: http://www.flickr.com/photos/thenobot/sets/72157607117012344/
-    primary_photo_url: http://farm4.static.flickr.com/3077/2830000578_e5a8e431ae_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3077/2830000578_e5a8e431ae_m.jpg
     pub_date: '2008-09-04 13:59:22 -0700'
     description: Found in the parsley in the backyard.
     id: '72157607117012344'

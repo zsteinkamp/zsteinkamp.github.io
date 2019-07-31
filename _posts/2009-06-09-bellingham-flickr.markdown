@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3627042312'
     link: http://www.flickr.com/photos/thenobot/sets/72157619662630949/
-    primary_photo_url: http://farm4.static.flickr.com/3325/3627042312_69ac260159_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3325/3627042312_69ac260159_m.jpg
     pub_date: '2009-06-09 02:46:27 -0700'
     description: A week of vacation in Bellingham to see my folks, TBNC, Grandmother,
       Grandaddy, and Auntie Min.

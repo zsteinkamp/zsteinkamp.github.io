@@ -42,7 +42,7 @@ entry:
       races at the Hellyer Park Velodrome.  There are beginner lessons on Saturday
       mornings too.  We met up with the Kohlers for a pizza picnic, then a night of
       racing."
-    primary_photo_url: http://farm9.static.flickr.com/8311/7908347874_0fce7fcd6c_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8311/7908347874_0fce7fcd6c_m.jpg
     pub_date: '2012-08-31 12:42:37 -0700'
     title: Hellyer Park Velodrome
     id: '72157631355229774'

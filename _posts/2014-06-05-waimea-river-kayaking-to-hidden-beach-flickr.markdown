@@ -16,7 +16,7 @@ entry:
     title: Waimea River Kayaking to Hidden Beach
     link: http://www.flickr.com/photos/thenobot/sets/72157645023541002/
     primary_photo_id: '14375868803'
-    primary_photo_url: http://farm3.static.flickr.com/2936/14375868803_11106c0fc2_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2936/14375868803_11106c0fc2_m.jpg
     photos:
     - pub_date: '2014-06-05 01:11:45 -0700'
       thumb_url: http://farm4.static.flickr.com/3865/14355700115_e0aa8172ac_s.jpg

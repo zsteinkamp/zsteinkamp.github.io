@@ -159,7 +159,7 @@ entry:
     primary_photo_id: '7815526178'
     description: We celebrated three birthdays pivoting around the number &quot;4&quot;
       at Kanta's house last night.
-    primary_photo_url: http://farm9.static.flickr.com/8285/7815526178_c1304489c3_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8285/7815526178_c1304489c3_m.jpg
     pub_date: '2012-08-18 12:39:15 -0700'
     title: Birthdays 4
     id: '72157631142446630'

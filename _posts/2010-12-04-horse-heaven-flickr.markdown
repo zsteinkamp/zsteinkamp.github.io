@@ -29,7 +29,7 @@ entry:
       id: '5233050119'
     primary_photo_id: '5233049041'
     link: http://www.flickr.com/photos/thenobot/sets/72157625405821675/
-    primary_photo_url: http://farm6.static.flickr.com/5243/5233049041_15d0418739_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5243/5233049041_15d0418739_m.jpg
     description: A nice 6 miler today -- up and down Horse Heaven trail.
     title: Horse Heaven
     id: '72157625405821675'

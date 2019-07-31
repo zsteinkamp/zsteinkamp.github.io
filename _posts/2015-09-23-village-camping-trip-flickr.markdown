@@ -13,7 +13,7 @@ entry:
     title: Village Camping Trip
     pub_date: '2015-09-23 12:14:21 -0700'
     description: 
-    primary_photo_url: http://farm1.static.flickr.com/573/21155003274_8e3845e809_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/573/21155003274_8e3845e809_m.jpg
     photos:
     - title: 
       description: 

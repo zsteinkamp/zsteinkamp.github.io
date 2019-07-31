@@ -68,7 +68,7 @@ entry:
       Peak, Rattlesnake Flats, Bluff Trail. What a satisfying day for a run in this
       beautiful place. \n\n<a href=\"https://www.strava.com/activities/493605728\"
       rel=\"nofollow\">www.strava.com/activities/493605728</a>"
-    primary_photo_url: http://farm2.static.flickr.com/1517/24400209914_df4c2283d8_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1517/24400209914_df4c2283d8_m.jpg
     id: '72157664027469559'
   created_at: '2016-02-16 05:19:12'
   updated_at: '2016-02-16 05:19:12'

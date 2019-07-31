@@ -46,7 +46,7 @@ entry:
     title: Marina's Walden West Return
     description: Marina spent the week at overnight Science Camp at Walden West in
       Saratoga. She had the time of her life!
-    primary_photo_url: http://farm2.static.flickr.com/1654/24877338184_f01627438b_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1654/24877338184_f01627438b_m.jpg
     id: '72157665396557906'
   created_at: '2016-03-25 05:11:04'
   updated_at: '2016-03-25 05:11:04'

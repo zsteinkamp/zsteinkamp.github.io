@@ -36,7 +36,7 @@ entry:
       id: '14017949316'
       thumb_url: http://farm3.static.flickr.com/2910/14017949316_f0085a0ff3_s.jpg
     pub_date: '2014-04-27 04:55:47 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7454/14037876252_e314dbeb09_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7454/14037876252_e314dbeb09_m.jpg
     link: http://www.flickr.com/photos/thenobot/sets/72157644364478491/
     num_photos: 5
     primary_photo_id: '14037876252'

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4449036467'
     link: http://www.flickr.com/photos/thenobot/sets/72157623660584844/
-    primary_photo_url: http://farm3.static.flickr.com/2789/4449036467_cfb7ae9387_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2789/4449036467_cfb7ae9387_m.jpg
     pub_date: '2010-03-20 13:28:08 -0700'
     description: There was a great opportunity this evening to see the ISS.  In San
       Jose, it passed directly overhead at magnitude -3.2.

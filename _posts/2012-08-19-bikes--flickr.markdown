@@ -73,7 +73,7 @@ entry:
     num_photos: 12
     primary_photo_id: '7818077688'
     description: The girls and I took their bikes and the Aerobie to a park this morning.
-    primary_photo_url: http://farm9.static.flickr.com/8428/7818077688_a51181f602_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8428/7818077688_a51181f602_m.jpg
     pub_date: '2012-08-19 02:53:33 -0700'
     title: Bikes!
     id: '72157631147748644'

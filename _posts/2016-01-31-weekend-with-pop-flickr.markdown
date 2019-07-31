@@ -52,7 +52,7 @@ entry:
     description: Pop Steinkamp came down this way to go to a car swap meet, and so
       we got to spend some time with him! We went to see Lupe the Wooly Mammoth sculpture,
       played by the Guadalupe River, and had a surprise visit from Auntie Deb.
-    primary_photo_url: http://farm2.static.flickr.com/1445/24537102859_6acec5e7cc_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1445/24537102859_6acec5e7cc_m.jpg
     id: '72157664271096352'
   created_at: '2016-02-08 23:48:27'
   updated_at: '2016-02-08 23:48:27'

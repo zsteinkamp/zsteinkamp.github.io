@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2794735916'
     link: http://www.flickr.com/photos/thenobot/sets/72157606934918265/
-    primary_photo_url: http://farm4.static.flickr.com/3056/2794735916_433bbf3e2f_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3056/2794735916_433bbf3e2f_m.jpg
     pub_date: '2008-08-24 10:22:58 -0700'
     description: Some couch-fun for the sisters.
     id: '72157606934918265'

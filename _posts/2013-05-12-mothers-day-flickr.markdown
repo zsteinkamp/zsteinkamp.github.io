@@ -12,7 +12,7 @@ entry:
       came too!
     primary_photo_id: '8733059525'
     link: http://www.flickr.com/photos/thenobot/sets/72157633482739558/
-    primary_photo_url: http://farm8.static.flickr.com/7304/8733059525_48b21367e9_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7304/8733059525_48b21367e9_m.jpg
     pub_date: '2013-05-12 08:35:48 -0700'
     description: We celebrated Mother's Day at Kanta's house.  Cheryl, Ashu, and Sienna
       came too!

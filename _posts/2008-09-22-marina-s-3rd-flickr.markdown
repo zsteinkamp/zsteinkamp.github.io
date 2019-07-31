@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2881375118'
     link: http://www.flickr.com/photos/thenobot/sets/72157607440102872/
-    primary_photo_url: http://farm4.static.flickr.com/3030/2881375118_e6d03b2573_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3030/2881375118_e6d03b2573_m.jpg
     pub_date: '2008-09-22 04:16:28 -0700'
     description: Marina had some friends over today for a birthday party!
     id: '72157607440102872'

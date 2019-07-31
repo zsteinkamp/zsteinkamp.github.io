@@ -33,7 +33,7 @@ entry:
     num_photos: 4
     primary_photo_id: '8111123185'
     description: 
-    primary_photo_url: http://farm9.static.flickr.com/8047/8111123185_86c3024c98_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8047/8111123185_86c3024c98_m.jpg
     pub_date: '2012-10-21 07:33:36 -0700'
     title: Front Yard Photoshoot
     id: '72157631824496648'

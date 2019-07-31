@@ -69,7 +69,7 @@ entry:
     primary_photo_id: '7277219472'
     description: I hustled up, then took my time coming down everyone's favorite peak!  Ok,
       well it's just my favorite peak.
-    primary_photo_url: http://farm8.static.flickr.com/7227/7277219472_365ec7f7b9_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7227/7277219472_365ec7f7b9_m.jpg
     pub_date: '2012-05-25 12:48:54 -0700'
     title: Mission Peak Again!
     id: '72157629913003132'

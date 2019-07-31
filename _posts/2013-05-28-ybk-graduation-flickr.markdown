@@ -13,7 +13,7 @@ entry:
       graduation ceremony. Thanks Marci for the photos!
     title: YBK Graduation
     link: http://www.flickr.com/photos/thenobot/sets/72157633777479592/
-    primary_photo_url: http://farm6.static.flickr.com/5325/8874770174_2fd42e6b1d_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5325/8874770174_2fd42e6b1d_m.jpg
     photos:
     - pub_date: '2013-05-28 13:47:17 -0700'
       description: 

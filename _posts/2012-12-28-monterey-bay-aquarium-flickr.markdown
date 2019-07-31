@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632371016898
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8352/8320451510_0dba30031c_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8352/8320451510_0dba30031c_m.jpg
     pub_date: '2012-12-28 07:00:02 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632371016898/
     description: We (and the rest of the Bay Area it seems) drove down to Monterey

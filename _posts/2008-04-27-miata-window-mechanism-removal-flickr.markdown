@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2447286453'
     link: http://www.flickr.com/photos/thenobot/sets/72157604770588751/
-    primary_photo_url: http://farm4.static.flickr.com/3047/2447286453_3ae0025bf9_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3047/2447286453_3ae0025bf9_m.jpg
     pub_date: '2008-04-27 06:23:43 -0700'
     description: Photos showing how to make removable windows in your Spec Miata.
     id: '72157604770588751'

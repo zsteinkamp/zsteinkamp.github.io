@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632288896933
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8359/8289483391_b5bbbf45e1_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8359/8289483391_b5bbbf45e1_m.jpg
     pub_date: '2012-12-19 09:55:30 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632288896933/
     description: We took another ride on the Niles-Sunol Holiday Train this year.  It's

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2805155240'
     link: http://www.flickr.com/photos/thenobot/sets/72157606986506376/
-    primary_photo_url: http://farm4.static.flickr.com/3042/2805155240_4ae2456fba_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3042/2805155240_4ae2456fba_m.jpg
     pub_date: '2008-08-27 13:23:58 -0700'
     description: Naomi got her first bath today.  It's a team effort.
     id: '72157606986506376'

@@ -14,7 +14,7 @@ entry:
     title: Graduation
     description: 
     pub_date: '2016-06-07 02:23:32 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7412/27282977030_927da7d882_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7412/27282977030_927da7d882_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7412/27282977030_927da7d882_s.jpg
       title: 

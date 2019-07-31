@@ -58,7 +58,7 @@ entry:
       id: '5024007423'
     primary_photo_id: '5024613964'
     pub_date: '2010-09-23 07:05:49 -0700'
-    primary_photo_url: http://farm5.static.flickr.com/4151/5024613964_12be239b6c_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4151/5024613964_12be239b6c_m.jpg
     description: 
     title: Chicago for Business
     id: '72157624908975711'

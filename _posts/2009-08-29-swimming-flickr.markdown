@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3870573631'
     link: http://www.flickr.com/photos/thenobot/sets/72157622061235441/
-    primary_photo_url: http://farm3.static.flickr.com/2645/3870573631_e308b4a892_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2645/3870573631_e308b4a892_m.jpg
     pub_date: '2009-08-29 07:47:44 -0700'
     description: Fun at Dave and Tammi's on a really hot day.
     id: '72157622061235441'

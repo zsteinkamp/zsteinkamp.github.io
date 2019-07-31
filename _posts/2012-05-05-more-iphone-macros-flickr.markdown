@@ -39,7 +39,7 @@ entry:
     primary_photo_id: '7001306736'
     description: I took a quick trip through the backyard this afternoon with my iPhone
       and 10x B&amp;L Hastings loupe.  The small world is amazingly detailed!
-    primary_photo_url: http://farm8.static.flickr.com/7074/7001306736_8466f668d8_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7074/7001306736_8466f668d8_m.jpg
     pub_date: '2012-05-05 09:00:47 -0700'
     title: More iPhone Macros
     id: '72157629975847277'

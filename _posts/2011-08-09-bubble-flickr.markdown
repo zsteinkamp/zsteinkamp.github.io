@@ -11,7 +11,7 @@ entry:
     num_photos: 3
     link: http://www.flickr.com/photos/thenobot/sets/72157627405878696/
     primary_photo_id: '6030701057'
-    primary_photo_url: http://farm7.static.flickr.com/6088/6030701057_b4266b11ca_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6088/6030701057_b4266b11ca_m.jpg
     pub_date: '2011-08-08 11:56:47 -0700'
     description: Bubble is our new hen.  She's a cross between a Sultan and a Silkie.
     title: Bubble

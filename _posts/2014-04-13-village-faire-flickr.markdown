@@ -14,7 +14,7 @@ entry:
       turned out to buy and sell and share their wares.
     title: Village Faire
     link: http://www.flickr.com/photos/thenobot/sets/72157643926874584/
-    primary_photo_url: http://farm8.static.flickr.com/7408/13837634305_200b3ef536_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7408/13837634305_200b3ef536_m.jpg
     photos:
     - pub_date: '2014-04-13 05:14:19 -0700'
       description: 

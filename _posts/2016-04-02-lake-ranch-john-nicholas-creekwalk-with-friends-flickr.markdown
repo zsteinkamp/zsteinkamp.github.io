@@ -13,7 +13,7 @@ entry:
     title: Lake Ranch / John Nicholas Creekwalk With Friends
     pub_date: '2016-04-02 04:21:45 -0700'
     description: A little Saturday morning hike to our favorite salamander hangout.
-    primary_photo_url: http://farm2.static.flickr.com/1585/25595488923_5a5f342937_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1585/25595488923_5a5f342937_m.jpg
     photos:
     - title: Dirt Slide
       description: All the girls had orange bottoms after this one.

@@ -14,7 +14,7 @@ entry:
     title: Ohlone Explorations
     pub_date: '2016-04-16 03:06:54 -0700'
     description: 
-    primary_photo_url: http://farm2.static.flickr.com/1554/25884667294_404526dd63_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1554/25884667294_404526dd63_m.jpg
     photos:
     - thumb_url: http://farm2.static.flickr.com/1554/25884667294_404526dd63_s.jpg
       title: 

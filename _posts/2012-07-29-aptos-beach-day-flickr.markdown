@@ -84,7 +84,7 @@ entry:
     primary_photo_id: '7744179244'
     description: We drove down to Aptos to drop Nate off with Sherry, Hirendra, Aki,
       and Nimale.  What followed was a great day enjoying the beach and friends.
-    primary_photo_url: http://farm8.static.flickr.com/7256/7744179244_27d7d6258e_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7256/7744179244_27d7d6258e_m.jpg
     pub_date: '2012-07-29 08:30:51 -0700'
     title: Aptos Beach Day
     id: '72157630980353246'

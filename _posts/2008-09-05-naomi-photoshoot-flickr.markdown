@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2830981199'
     link: http://www.flickr.com/photos/thenobot/sets/72157607129192706/
-    primary_photo_url: http://farm4.static.flickr.com/3059/2830981199_97930a8404_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3059/2830981199_97930a8404_m.jpg
     pub_date: '2008-09-05 04:32:16 -0700'
     description: I got out the &quot;real&quot; camera to take some photos of our
       new girl.

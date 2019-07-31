@@ -14,7 +14,7 @@ entry:
     title: Castle Rock
     pub_date: '2016-08-27 05:20:31 -0700'
     description: Pop, the girls and some friends took a hike in Castle Rock!
-    primary_photo_url: http://farm8.static.flickr.com/7649/28658366054_5bb4a3bc67_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7649/28658366054_5bb4a3bc67_m.jpg
     photos:
     - thumb_url: http://farm9.static.flickr.com/8463/29247186786_ee29aaafe3_s.jpg
       title: Friends

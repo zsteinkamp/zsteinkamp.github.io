@@ -60,7 +60,7 @@ entry:
     primary_photo_id: '25446455052'
     title: Sanborn to El Sereno
     description: 
-    primary_photo_url: http://farm2.static.flickr.com/1573/25446455052_eeb4db41be_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1573/25446455052_eeb4db41be_m.jpg
     id: '72157665487338406'
   created_at: '2016-03-25 05:10:58'
   updated_at: '2016-03-25 05:10:58'

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3210684029'
     link: http://www.flickr.com/photos/thenobot/sets/72157612718920425/
-    primary_photo_url: http://farm4.static.flickr.com/3342/3210684029_077b623fb5_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3342/3210684029_077b623fb5_m.jpg
     pub_date: '2009-01-19 02:46:28 -0800'
     description: Marina's first day of swimming lessons.  She had a great time!
     id: '72157612718920425'

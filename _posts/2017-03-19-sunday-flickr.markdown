@@ -14,7 +14,7 @@ entry:
     title: Sunday
     pub_date: '2017-03-19 06:56:32 -0700'
     description: 
-    primary_photo_url: http://farm4.static.flickr.com/3713/33541539625_4ba2d61f9b_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3713/33541539625_4ba2d61f9b_m.jpg
     photos:
     - thumb_url: http://farm4.static.flickr.com/3713/33541539625_4ba2d61f9b_s.jpg
       media: photo

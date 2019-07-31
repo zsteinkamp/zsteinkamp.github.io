@@ -12,7 +12,7 @@ entry:
     description: 
     title: Palm Springs
     link: http://www.flickr.com/photos/thenobot/sets/72157641377759114/
-    primary_photo_url: http://farm4.static.flickr.com/3718/12706472343_90cbb7af88_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3718/12706472343_90cbb7af88_m.jpg
     photos:
     - pub_date: '2013-12-26 09:18:03 -0800'
       description: 

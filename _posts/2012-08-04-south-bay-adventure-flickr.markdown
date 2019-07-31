@@ -71,7 +71,7 @@ entry:
       out for an adventure.  We walked around the baylands in Alviso, then had lunch
       at Maria Elenas, then found the Visotor's Center at NASA AMES was a great place
       to explore!
-    primary_photo_url: http://farm9.static.flickr.com/8306/7744194652_ff06d130ea_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8306/7744194652_ff06d130ea_m.jpg
     pub_date: '2012-08-04 04:51:06 -0700'
     title: South Bay Adventure
     id: '72157630980381386'

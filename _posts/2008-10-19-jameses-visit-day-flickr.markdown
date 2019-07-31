@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2960853172'
     link: http://www.flickr.com/photos/thenobot/sets/72157608222785734/
-    primary_photo_url: http://farm4.static.flickr.com/3001/2960853172_85df1878ba_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3001/2960853172_85df1878ba_m.jpg
     pub_date: '2008-10-19 07:22:46 -0700'
     description: Stella and her folks came to visit us.  Some pictures of her in here,
       as well as Naomi starting to want to stand and reach out for things.

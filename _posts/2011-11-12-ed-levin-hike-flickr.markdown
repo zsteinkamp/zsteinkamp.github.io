@@ -70,7 +70,7 @@ entry:
     description: Took a nice walk on Saturday from Sandy Wool Lake.  Blazed a trail
       straight to Monument Peak.  Took the trail most of the way down.  Mostly overcast
       and foggy which made it seem like more of an adventure.
-    primary_photo_url: http://farm7.static.flickr.com/6100/6338540376_e3e0bccec0_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6100/6338540376_e3e0bccec0_m.jpg
     pub_date: '2011-11-12 02:27:02 -0800'
     title: Ed Levin Hike
     id: '72157627988012911'

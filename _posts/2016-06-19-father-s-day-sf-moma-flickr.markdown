@@ -26,7 +26,7 @@ entry:
       to head to the lounge at the Palace Hotel for a little refreshment. $4.50 club
       soda never tasted so good! All in all a very satisfying day for this father.
     pub_date: '2016-06-19 08:14:25 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7570/27750430726_8cb3386680_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7570/27750430726_8cb3386680_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7295/27684214342_b580ed5a78_s.jpg
       title: Hand and flowers

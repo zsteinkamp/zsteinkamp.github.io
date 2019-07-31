@@ -85,7 +85,7 @@ entry:
     primary_photo_id: '26192778046'
     title: Mission Peak / Maguire Peaks Marathon
     description: 
-    primary_photo_url: http://farm2.static.flickr.com/1614/26192778046_4b0b8430c4_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1614/26192778046_4b0b8430c4_m.jpg
     id: '72157666668524486'
   created_at: '2016-04-12 05:12:22'
   updated_at: '2016-04-12 05:12:22'

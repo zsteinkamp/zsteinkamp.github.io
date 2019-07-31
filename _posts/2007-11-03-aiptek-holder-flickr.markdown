@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2139262077'
     link: http://www.flickr.com/photos/thenobot/sets/72157603555853029/
-    primary_photo_url: http://farm3.static.flickr.com/2359/2139262077_40b1c9a8bb_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2359/2139262077_40b1c9a8bb_m.jpg
     pub_date: '2007-11-03 12:13:09 -0700'
     description: Keeping an Aiptek A-HD steady enough for in-car use
     id: '72157603555853029'

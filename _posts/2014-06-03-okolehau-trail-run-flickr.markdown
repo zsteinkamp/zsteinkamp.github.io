@@ -21,7 +21,7 @@ entry:
     title: Okolehau Trail Run
     link: http://www.flickr.com/photos/thenobot/sets/72157644587792027/
     primary_photo_id: '14336711211'
-    primary_photo_url: http://farm4.static.flickr.com/3846/14336711211_cc85df5c0a_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3846/14336711211_cc85df5c0a_m.jpg
     photos:
     - pub_date: '2014-06-03 00:46:10 -0700'
       thumb_url: http://farm4.static.flickr.com/3846/14336711211_cc85df5c0a_s.jpg

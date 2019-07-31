@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4952383149'
     link: http://www.flickr.com/photos/thenobot/sets/72157624742369789/
-    primary_photo_url: http://farm5.static.flickr.com/4128/4952383149_704d2df639_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4128/4952383149_704d2df639_m.jpg
     description: |-
       This guy was in the fridge on a piece of lettuce.  We took it out after a bit and it came back to life.
 

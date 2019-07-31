@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4980100843'
     link: http://www.flickr.com/photos/thenobot/sets/72157624809952841/
-    primary_photo_url: http://farm5.static.flickr.com/4145/4980100843_46e62e055a_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4145/4980100843_46e62e055a_m.jpg
     pub_date: '2010-09-11 06:54:28 -0700'
     description: I had a really neat walk through Ed Levin and across some private
       property with awesome trails, trees, and streams.

@@ -17,7 +17,7 @@ entry:
       this awesome park. From one ridge, we could see Martinez, Concord, the Delta,
       Mt. Diablo, Mission Peak, Moffett Field, Mt. Umunhum, and San Francisco.
     pub_date: '2016-06-18 00:36:13 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7520/27786205805_f98c33bbfd_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7520/27786205805_f98c33bbfd_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7520/27786205805_f98c33bbfd_s.jpg
       title: 

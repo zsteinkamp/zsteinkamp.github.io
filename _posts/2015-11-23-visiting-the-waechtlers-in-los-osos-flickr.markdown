@@ -15,7 +15,7 @@ entry:
     description: The girls and I drove down to Los Osos to have some sister/brother/cousin
       time. Em, Mark, Ruby, and Ginger certainly know how to have a great time and
       generously shared that with us.
-    primary_photo_url: http://farm6.static.flickr.com/5794/23266977106_710924f019_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5794/23266977106_710924f019_m.jpg
     photos:
     - title: Bike Ride to Back Bay
       description: 

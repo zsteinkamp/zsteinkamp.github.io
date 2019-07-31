@@ -228,7 +228,7 @@ entry:
     primary_photo_id: '7343879022'
     description: Arti and I went to Palm Springs for Derek and Ann Larie's wedding.  We
       had a few days to explore too...
-    primary_photo_url: http://farm8.static.flickr.com/7245/7343879022_ccdb5234d8_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7245/7343879022_ccdb5234d8_m.jpg
     pub_date: '2012-06-02 13:08:02 -0700'
     title: Palm Springs
     id: '72157630000850563'

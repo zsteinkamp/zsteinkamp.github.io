@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3718546867'
     link: http://www.flickr.com/photos/thenobot/sets/72157621291526367/
-    primary_photo_url: http://farm4.static.flickr.com/3656/3718546867_95bbe40b1c_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3656/3718546867_95bbe40b1c_m.jpg
     pub_date: '2009-07-13 11:18:04 -0700'
     description: We moved Moose and Dopey into their real house today.  Look inside
       for pictures of the making of The Coop as well as the move-in celebration.

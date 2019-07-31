@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2835390826'
     link: http://www.flickr.com/photos/thenobot/sets/72157607155095855/
-    primary_photo_url: http://farm4.static.flickr.com/3185/2835390826_8a7cac5cb0_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3185/2835390826_8a7cac5cb0_m.jpg
     pub_date: '2008-09-06 11:32:41 -0700'
     description: Who knew a little fly could look so cool?
     id: '72157607155095855'

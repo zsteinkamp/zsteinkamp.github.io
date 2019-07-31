@@ -71,7 +71,7 @@ entry:
       id: '5288476782'
     primary_photo_id: '5287871913'
     id: '72157625665326494'
-    primary_photo_url: http://farm6.static.flickr.com/5050/5287871913_00facc65b3_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5050/5287871913_00facc65b3_m.jpg
   created_at: '2010-12-24 17:35:07'
   updated_at: '2010-12-24 17:35:07'
   pub_date: '2010-12-24 05:41:32'

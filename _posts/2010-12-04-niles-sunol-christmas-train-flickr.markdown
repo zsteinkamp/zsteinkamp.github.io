@@ -35,7 +35,7 @@ entry:
       id: '5233653350'
     primary_photo_id: '5233061569'
     link: http://www.flickr.com/photos/thenobot/sets/72157625405849067/
-    primary_photo_url: http://farm6.static.flickr.com/5042/5233061569_c78fe92c05_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5042/5233061569_c78fe92c05_m.jpg
     description: We rode the train from Niles to Sunol and back this evening with
       Nani.  Marina made a friend along the way.
     title: Niles-Sunol Christmas Train

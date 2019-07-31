@@ -11,7 +11,7 @@ entry:
     num_photos: 31
     link: http://www.flickr.com/photos/thenobot/sets/72157627479679506/
     primary_photo_id: '6063763324'
-    primary_photo_url: http://farm7.static.flickr.com/6065/6063763324_f999ac623d_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6065/6063763324_f999ac623d_m.jpg
     pub_date: '2011-08-19 05:33:30 -0700'
     description: We had friends, family, and a Fairy named Miss Jingle come over to
       celebrate Naomi's third birthday.

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3982204452'
     link: http://www.flickr.com/photos/thenobot/sets/72157622392598453/
-    primary_photo_url: http://farm4.static.flickr.com/3507/3982204452_14b1e9a5aa_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3507/3982204452_14b1e9a5aa_m.jpg
     pub_date: '2009-10-03 03:23:22 -0700'
     description: Hoedown in Los Altos...
     id: '72157622392598453'

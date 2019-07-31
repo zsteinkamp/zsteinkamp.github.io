@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157626338447325
   data:
-    primary_photo_url: http://farm6.static.flickr.com/5261/5603842567_7393ed160b_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5261/5603842567_7393ed160b_m.jpg
     pub_date: '2011-04-09 04:04:44 -0700'
     link: http://www.flickr.com/photos/thenobot/sets/72157626338447325/
     title: Mission Peak with Marina

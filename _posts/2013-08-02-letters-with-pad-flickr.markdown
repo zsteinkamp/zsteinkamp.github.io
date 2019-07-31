@@ -12,7 +12,7 @@ entry:
     description: 
     title: Letters With Pad
     link: http://www.flickr.com/photos/thenobot/sets/72157634972064141/
-    primary_photo_url: http://farm8.static.flickr.com/7320/9462437900_37e1ba3380_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7320/9462437900_37e1ba3380_m.jpg
     photos:
     - pub_date: '2013-08-02 02:17:16 -0700'
       description: 

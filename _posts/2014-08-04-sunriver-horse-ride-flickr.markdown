@@ -15,7 +15,7 @@ entry:
     title: Sunriver Horse Ride
     link: http://www.flickr.com/photos/thenobot/sets/72157646309409613/
     primary_photo_id: '14853023854'
-    primary_photo_url: http://farm4.static.flickr.com/3912/14853023854_b41a198b9e_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3912/14853023854_b41a198b9e_m.jpg
     photos:
     - pub_date: '2014-08-04 06:47:39 -0700'
       thumb_url: http://farm4.static.flickr.com/3887/14668953487_986a0fcdff_s.jpg

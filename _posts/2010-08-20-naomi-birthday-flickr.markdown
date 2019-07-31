@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4930636385'
     link: http://www.flickr.com/photos/thenobot/sets/72157624691590029/
-    primary_photo_url: http://farm5.static.flickr.com/4076/4930636385_ef1a3d9072_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4076/4930636385_ef1a3d9072_m.jpg
     pub_date: '2010-08-20 04:37:14 -0700'
     description: We celebrated Naomi's 2nd birthday all day long!
     id: '72157624691590029'

@@ -12,7 +12,7 @@ entry:
     description: 
     title: Naomi's Birthday Party
     link: http://www.flickr.com/photos/thenobot/sets/72157635237359442/
-    primary_photo_url: http://farm8.static.flickr.com/7369/9594034857_a8ca1368a5_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7369/9594034857_a8ca1368a5_m.jpg
     photos:
     - pub_date: '2013-08-25 03:45:36 -0700'
       description: 

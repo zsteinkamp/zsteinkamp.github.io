@@ -12,7 +12,7 @@ entry:
     num_photos: 10
     link: http://www.flickr.com/photos/thenobot/sets/72157627300646955/
     primary_photo_id: '6039407224'
-    primary_photo_url: http://farm7.static.flickr.com/6140/6039407224_1a8f4b185a_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6140/6039407224_1a8f4b185a_m.jpg
     pub_date: '2011-08-13 03:26:05 -0700'
     description: Did a hike today from Ohlone up and over the peak, down and across
       the Grove Trail, then off-trail to Mission Ridge to explore the 1998 slide area.  There

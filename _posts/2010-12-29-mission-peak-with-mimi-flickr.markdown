@@ -33,7 +33,7 @@ entry:
     primary_photo_id: '5311006930'
     link: http://www.flickr.com/photos/thenobot/sets/72157625716689536/
     title: Mission Peak with Mimi
-    primary_photo_url: http://farm6.static.flickr.com/5245/5311006930_797109677e_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5245/5311006930_797109677e_m.jpg
     description: Mimi and I took a hike up the peak.  Up the peak trail, then crossed
       over to the south side and halfway up Mt. Allison, then down Horse Heaven trail.
     id: '72157625716689536'

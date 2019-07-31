@@ -14,7 +14,7 @@ entry:
       home!  This was a fun way to have a party.
     title: Marina's Birthday at Camp Fashionista
     link: http://www.flickr.com/photos/thenobot/sets/72157635898251023/
-    primary_photo_url: http://farm4.static.flickr.com/3822/9942584175_5b18cb28c8_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3822/9942584175_5b18cb28c8_m.jpg
     photos:
     - pub_date: '2013-09-25 06:43:37 -0700'
       description: Most of the girls in the party are excited to get started.

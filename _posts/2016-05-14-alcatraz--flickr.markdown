@@ -183,7 +183,7 @@ entry:
       pub_date: '2016-05-14 11:44:14 -0700'
       id: '26986206326'
       title: 
-    primary_photo_url: http://farm8.static.flickr.com/7384/26986206376_90ac23037b_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7384/26986206376_90ac23037b_m.jpg
     id: '72157668100277682'
     excerpt: ''
     title: Alcatraz!

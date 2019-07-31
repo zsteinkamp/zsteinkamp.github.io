@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3014946950'
     link: http://www.flickr.com/photos/thenobot/sets/72157608780425685/
-    primary_photo_url: http://farm4.static.flickr.com/3138/3014946950_a133e96301_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3138/3014946950_a133e96301_m.jpg
     pub_date: '2008-11-08 13:33:56 -0800'
     description: We were about to dump this pitcher of fruity iced-tea that we forgot
       in the fridge when I reached for the macro lens...

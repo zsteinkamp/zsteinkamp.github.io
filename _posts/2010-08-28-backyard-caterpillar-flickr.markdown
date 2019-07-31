@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4940117848'
     link: http://www.flickr.com/photos/thenobot/sets/72157624836701806/
-    primary_photo_url: http://farm5.static.flickr.com/4141/4940117848_61e43b5863_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4141/4940117848_61e43b5863_m.jpg
     pub_date: '2010-08-28 10:43:26 -0700'
     description: Marina found this GIANT caterpillar climbing on one of the grape
       plants in the backyard.

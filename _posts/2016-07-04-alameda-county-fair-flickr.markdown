@@ -14,7 +14,7 @@ entry:
     title: Alameda County Fair
     pub_date: '2016-07-04 05:53:11 -0700'
     description: 
-    primary_photo_url: http://farm8.static.flickr.com/7513/28092695965_86bfc9834a_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7513/28092695965_86bfc9834a_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7513/28092695965_86bfc9834a_s.jpg
       title: 

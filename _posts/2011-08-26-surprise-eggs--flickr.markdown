@@ -25,7 +25,7 @@ entry:
     description: Bubble has been hiding something from us.  Marina found her egg stash
       in an unused planting pot on the side yard.  There were 9 eggs total ... we
       left one for her to take care of.
-    primary_photo_url: http://farm7.static.flickr.com/6205/6081107065_f29efda747_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6205/6081107065_f29efda747_m.jpg
     pub_date: '2011-08-25 12:19:57 -0700'
     title: Surprise Eggs!
     id: '72157627520468758'

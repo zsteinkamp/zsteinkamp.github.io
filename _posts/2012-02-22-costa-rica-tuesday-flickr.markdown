@@ -93,7 +93,7 @@ entry:
     num_photos: 16
     primary_photo_id: '6772938848'
     title: Costa Rica Tuesday
-    primary_photo_url: http://farm8.static.flickr.com/7061/6772938848_36fa887d04_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7061/6772938848_36fa887d04_m.jpg
     pub_date: '2012-02-21 08:47:42 -0800'
     description: "We got up at about 6:45am to get ready and be at breakfast at 7am.
       \ Our itinerary for today was a stand-up paddle boarding lesson at 8am, then

@@ -11,7 +11,7 @@ entry:
     num_photos: 58
     link: http://www.flickr.com/photos/thenobot/sets/72157626347176959/
     primary_photo_id: '5608477286'
-    primary_photo_url: http://farm6.static.flickr.com/5102/5608477286_eb0a2d5b1d_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5102/5608477286_eb0a2d5b1d_m.jpg
     pub_date: '2011-04-10 04:27:44 -0700'
     description: We celebrated Vishal and Pranav's soon-to-be new son today with food,
       dancing, singing and general good times.  Congratulations to the parents to

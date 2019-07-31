@@ -11,7 +11,7 @@ entry:
     primary_photo_id: '15935791618'
     link: http://www.flickr.com/photos/thenobot/sets/72157649958887991/
     description: 
-    primary_photo_url: http://farm8.static.flickr.com/7477/15935791618_a5355e8bed_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7477/15935791618_a5355e8bed_m.jpg
     photos:
     - description: 
       pub_date: '2014-12-26 02:40:31 -0800'

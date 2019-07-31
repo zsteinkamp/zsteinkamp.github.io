@@ -16,7 +16,7 @@ entry:
       This afternoon, the girls and I went to the pumpkin patch down the street. They had lots of unique pumpkins (orange, warty, white, grey, gourds), a petting zoon, a cow tractor ride, hampster balls, and they show movies every evening. Awesome! We will be back every day until Halloween.
 
       After we picked out a couple of pumpkins, we drove up the street to the Lake Ranch trailhead for a quick, steep hike up to Lake Ranch Reservoir. Along the way we collected acorns. We got to share the lake with a family of 6 deer, lots of mallard ducks, and an egret or two. Naomi briefly lost a flip flop in the mud. It was a beautiful quiet evening up there as long as nobody was hollering about lost flip flops. :)
-    primary_photo_url: http://farm1.static.flickr.com/619/21336109953_d990eb9a5e_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/619/21336109953_d990eb9a5e_m.jpg
     photos:
     - title: Fancy Pumpkin
       description: 

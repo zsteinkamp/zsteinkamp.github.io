@@ -152,7 +152,7 @@ entry:
     num_photos: 26
     primary_photo_id: '6921698999'
     title: Costa Rica Wednesday
-    primary_photo_url: http://farm8.static.flickr.com/7051/6921698999_0d34dba348_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7051/6921698999_0d34dba348_m.jpg
     pub_date: '2012-02-22 03:58:06 -0800'
     description: "We got up at 6:30 for an early breakfast so we could be on the way
       to the Cabo Blanco nature preserve by 7am.  After bagels, fresh fruit, and coffee,

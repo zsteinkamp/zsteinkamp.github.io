@@ -133,7 +133,7 @@ entry:
       from Sunol Regional Park, I blazed a trail up a steep hill overlooking the reservoir,
       then descended to the spillway, across the dam, and along the stream behind
       the dam.
-    primary_photo_url: http://farm7.static.flickr.com/6179/6225041170_ebbd2b569d_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6179/6225041170_ebbd2b569d_m.jpg
     pub_date: '2011-10-08 03:07:03 -0700'
     title: Calaveras Dam Explorations
     id: '72157627849165662'

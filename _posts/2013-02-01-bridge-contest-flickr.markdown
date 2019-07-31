@@ -12,7 +12,7 @@ entry:
       build a bridge using 100 popsicle sticks.
     primary_photo_id: '8438869168'
     link: http://www.flickr.com/photos/thenobot/sets/72157632673389744/
-    primary_photo_url: http://farm9.static.flickr.com/8377/8438869168_e6b93ffc4a_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8377/8438869168_e6b93ffc4a_m.jpg
     pub_date: '2013-02-01 02:03:13 -0800'
     description: "To celebrate the 100th day of 2nd grade, Marina's teacher had each
       student build a bridge using 100 popsicle sticks.  We looked at photos of bridges

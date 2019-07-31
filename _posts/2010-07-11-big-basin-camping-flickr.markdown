@@ -10,7 +10,7 @@ entry:
   data:
     link: http://www.flickr.com/photos/thenobot/sets/72157624532927384/
     primary_photo_id: '4806894017'
-    primary_photo_url: http://farm5.static.flickr.com/4139/4806894017_e9916e0dd2_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4139/4806894017_e9916e0dd2_m.jpg
     description: We went with Kelly, Saul, and their girls for a fun few days at Big
       Basin.
     pub_date: '2010-07-11 08:31:24 -0700'

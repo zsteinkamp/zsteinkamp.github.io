@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4145063453'
     link: http://www.flickr.com/photos/thenobot/sets/72157622906972946/
-    primary_photo_url: http://farm3.static.flickr.com/2681/4145063453_12aedce10c_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2681/4145063453_12aedce10c_m.jpg
     pub_date: '2009-11-29 05:50:09 -0800'
     description: No kites allowed!
     id: '72157622906972946'

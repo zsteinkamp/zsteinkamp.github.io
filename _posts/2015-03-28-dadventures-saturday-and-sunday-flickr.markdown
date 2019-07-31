@@ -11,7 +11,7 @@ entry:
     num_photos: 8
     link: http://www.flickr.com/photos/thenobot/sets/72157651624619785/
     primary_photo_id: '16933118296'
-    primary_photo_url: http://farm9.static.flickr.com/8688/16933118296_e4e4a7e09c_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8688/16933118296_e4e4a7e09c_m.jpg
     description: Some miscellaneous photos from a fun weekend with the girls while
       Arti was away at a conference. Really great to be able to focus on these beauties.
     pub_date: '2015-03-28 03:32:03 -0700'

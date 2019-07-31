@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4953354576'
     link: http://www.flickr.com/photos/thenobot/sets/72157624743234793/
-    primary_photo_url: http://farm5.static.flickr.com/4087/4953354576_0095aa7930_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4087/4953354576_0095aa7930_m.jpg
     pub_date: '2004-11-28 06:45:02 -0800'
     description: 
     id: '72157624743234793'

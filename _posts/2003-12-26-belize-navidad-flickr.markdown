@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4952689154'
     link: http://www.flickr.com/photos/thenobot/sets/72157624866236072/
-    primary_photo_url: http://farm5.static.flickr.com/4147/4952689154_7f14563580_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4147/4952689154_7f14563580_m.jpg
     description: We took a trip to a tiny island called Southwater Caye off the coast
       of Belize.
     pub_date: '2003-12-25 21:20:07 -0800'

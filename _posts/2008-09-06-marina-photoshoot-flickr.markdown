@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2835388648'
     link: http://www.flickr.com/photos/thenobot/sets/72157607151447212/
-    primary_photo_url: http://farm4.static.flickr.com/3118/2835388648_f8ae33eb90_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3118/2835388648_f8ae33eb90_m.jpg
     pub_date: '2008-09-06 11:21:20 -0700'
     description: Some time with Marina and the telephoto lenses on the new swingset.
     id: '72157607151447212'

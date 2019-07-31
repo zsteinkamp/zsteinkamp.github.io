@@ -14,7 +14,7 @@ entry:
     title: Richie's Peninsula Tour Co.
     pub_date: '2016-07-03 10:52:56 -0700'
     description: 
-    primary_photo_url: http://farm8.static.flickr.com/7404/27812425690_deddb244bb_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7404/27812425690_deddb244bb_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7404/27812425690_deddb244bb_s.jpg
       title: 

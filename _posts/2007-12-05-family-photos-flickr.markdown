@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2090396222'
     link: http://www.flickr.com/photos/thenobot/sets/72157603385077060/
-    primary_photo_url: http://farm3.static.flickr.com/2119/2090396222_58d9824034_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2119/2090396222_58d9824034_m.jpg
     pub_date: '2007-12-05 10:05:33 -0800'
     description: We hired a photographer (Liz Cantu - photo2217@yahoo.com) to come
       take pictures of us for a Christmas card.  Here are the best ones...

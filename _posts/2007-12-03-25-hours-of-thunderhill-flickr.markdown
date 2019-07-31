@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2084453420'
     link: http://www.flickr.com/photos/thenobot/sets/72157603363008708/
-    primary_photo_url: http://farm3.static.flickr.com/2270/2084453420_844862d409_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2270/2084453420_844862d409_m.jpg
     pub_date: '2007-12-03 01:20:14 -0800'
     description: I was a crewmember for the MPME / Modified Magazine / TC Design /
       Molecule Labs Scion tC in the 25 Hours of Thunderhill race.

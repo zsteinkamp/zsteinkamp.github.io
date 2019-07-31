@@ -66,7 +66,7 @@ entry:
       the rides, especially the Fruit Basket roller coaster.  The girls also spent
       quite a bit of time with the goats and other farm animals.  We missed our SF
       friends today though!
-    primary_photo_url: http://farm7.static.flickr.com/6152/6134807696_090c67d207_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6152/6134807696_090c67d207_m.jpg
     pub_date: '2011-09-10 05:40:52 -0700'
     title: Happy Hollow
     id: '72157627641200598'

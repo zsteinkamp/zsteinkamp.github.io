@@ -60,7 +60,7 @@ entry:
     primary_photo_id: '23295191094'
     title: SJ Walkabout
     description: Have camera, will travel around San Jose at night.
-    primary_photo_url: http://farm1.static.flickr.com/652/23295191094_66a580f5f1_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/652/23295191094_66a580f5f1_m.jpg
     id: '72157662567023331'
   created_at: '2015-12-23 09:58:07'
   updated_at: '2015-12-23 09:58:07'

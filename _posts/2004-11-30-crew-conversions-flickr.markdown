@@ -58,7 +58,7 @@ entry:
     num_photos: 9
     primary_photo_id: '6067887753'
     description: A silly Photoshop project from 2005.
-    primary_photo_url: http://farm7.static.flickr.com/6079/6067887753_439dd18676_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6079/6067887753_439dd18676_m.jpg
     pub_date: '2004-11-29 09:40:48 -0800'
     title: Crew Conversions
     id: '72157627489558212'

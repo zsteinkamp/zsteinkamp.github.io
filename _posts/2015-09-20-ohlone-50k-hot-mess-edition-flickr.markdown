@@ -131,7 +131,7 @@ entry:
       id: '21399156480'
       pub_date: '2015-09-20 09:14:34 -0700'
       title: 
-    primary_photo_url: http://farm1.static.flickr.com/615/21399150360_3cc46603aa_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/615/21399150360_3cc46603aa_m.jpg
     num_photos: 13
     excerpt: ''
     primary_photo_id: '21399150360'

@@ -14,7 +14,7 @@ entry:
     title: Sanborn Stream Adventure
     pub_date: '2017-01-15 03:20:38 -0800'
     description: Set them free in a beautiful and fun place and watch the magic.
-    primary_photo_url: http://farm1.static.flickr.com/360/31522624593_ffc8c0bffc_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/360/31522624593_ffc8c0bffc_m.jpg
     photos:
     - thumb_url: http://farm1.static.flickr.com/360/31522624593_ffc8c0bffc_s.jpg
       media: photo

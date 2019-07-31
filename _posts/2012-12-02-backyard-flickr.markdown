@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632153803763
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8487/8239935320_8224564f59_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8487/8239935320_8224564f59_m.jpg
     pub_date: '2012-12-02 07:40:34 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632153803763/
     description: Some photos from the backyard.

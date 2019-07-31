@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2582917302'
     link: http://www.flickr.com/photos/thenobot/sets/72157605632178126/
-    primary_photo_url: http://farm4.static.flickr.com/3159/2582917302_47e7faa3a8_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3159/2582917302_47e7faa3a8_m.jpg
     pub_date: '2008-06-15 04:25:11 -0700'
     description: Garage fun.
     id: '72157605632178126'

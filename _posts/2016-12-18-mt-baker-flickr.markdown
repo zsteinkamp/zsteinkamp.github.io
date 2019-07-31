@@ -15,7 +15,7 @@ entry:
     pub_date: '2016-12-18 06:56:56 -0800'
     description: We went up to Mt. Baker Sunday morning to check out the snow and
       get the girls a ski lesson.
-    primary_photo_url: http://farm1.static.flickr.com/524/31619235061_7311edd091_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/524/31619235061_7311edd091_m.jpg
     photos:
     - thumb_url: http://farm1.static.flickr.com/375/31734986975_2e0d790d19_s.jpg
       media: photo

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2412824214'
     link: http://www.flickr.com/photos/thenobot/sets/72157604529892043/
-    primary_photo_url: http://farm4.static.flickr.com/3150/2412824214_d957b1afb9_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3150/2412824214_d957b1afb9_m.jpg
     pub_date: '2008-04-13 07:12:48 -0700'
     description: SCCA Vintage, BMW Club Racing, and Spec Miata Challenge
     id: '72157604529892043'

@@ -54,7 +54,7 @@ entry:
     primary_photo_id: '5295289340'
     link: http://www.flickr.com/photos/thenobot/sets/72157625554414393/
     title: "MontanÌ\x83a de Oro"
-    primary_photo_url: http://farm6.static.flickr.com/5162/5295289340_fc8cc649bb_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5162/5295289340_fc8cc649bb_m.jpg
     description: Pop and I took a walk up in the hills.  I would come to this park
       quite a bit when I was in school here.
     id: '72157625554414393'

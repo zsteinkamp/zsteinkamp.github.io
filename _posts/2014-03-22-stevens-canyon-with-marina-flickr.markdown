@@ -13,7 +13,7 @@ entry:
       and I headed to the hills with our bikes.
     title: Stevens Canyon with Marina
     link: http://www.flickr.com/photos/thenobot/sets/72157642761238985/
-    primary_photo_url: http://farm8.static.flickr.com/7023/13340806663_b8afda6fb8_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7023/13340806663_b8afda6fb8_m.jpg
     photos:
     - pub_date: '2014-03-22 06:18:35 -0700'
       description: 

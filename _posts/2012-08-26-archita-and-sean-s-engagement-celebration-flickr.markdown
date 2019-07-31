@@ -91,7 +91,7 @@ entry:
       of course the parents took the opportunity to celebrate their engagement with
       the family.  Great to meet Sean this weekend!  We're happy he's joining the
       Sood/Sud clan.
-    primary_photo_url: http://farm9.static.flickr.com/8447/7868689090_b906428a2f_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8447/7868689090_b906428a2f_m.jpg
     pub_date: '2012-08-26 05:33:50 -0700'
     title: Archita and Sean's Engagement Celebration
     id: '72157631262370162'

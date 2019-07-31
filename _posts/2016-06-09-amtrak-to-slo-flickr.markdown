@@ -15,7 +15,7 @@ entry:
     description: Naomi and I took the train down to visit cousins in Los Osos. Adventure
       abounds!
     pub_date: '2016-06-09 03:03:12 -0700'
-    primary_photo_url: http://farm8.static.flickr.com/7409/27517031901_bba1e0906e_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7409/27517031901_bba1e0906e_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7409/27517031901_bba1e0906e_s.jpg
       title: The train arrives!

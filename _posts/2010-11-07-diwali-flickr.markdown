@@ -12,7 +12,7 @@ entry:
     primary_photo_id: '5154854208'
     description: Fun time with Nani, Ashu and Cheryl.  If you're Indian and you love
       to party, have a happy happy happy happy Diwali!
-    primary_photo_url: http://farm5.static.flickr.com/4152/5154854208_d911207e59_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4152/5154854208_d911207e59_m.jpg
     title: Diwali
     num_photos: 6
     pub_date: '2010-11-06 12:00:16 -0700'

@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632352419944
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8221/8313109066_72baaf323c_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8221/8313109066_72baaf323c_m.jpg
     pub_date: '2012-12-25 03:29:03 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632352419944/
     description: Fun at home with Kanta, Ashu, Cheryl, and Sienna.  Vishal, Pranav,

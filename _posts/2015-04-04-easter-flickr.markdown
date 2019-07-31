@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157651787090455
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8726/17046740082_4310ecc920_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8726/17046740082_4310ecc920_m.jpg
     photos:
     - description: Thanks Mimi for the rug!
       pub_date: '2015-04-04 09:52:56 -0700'

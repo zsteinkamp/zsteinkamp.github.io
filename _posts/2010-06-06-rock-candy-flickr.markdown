@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4680585545'
     link: http://www.flickr.com/photos/thenobot/sets/72157624103894287/
-    primary_photo_url: http://farm2.static.flickr.com/1297/4680585545_a306f3060a_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1297/4680585545_a306f3060a_m.jpg
     pub_date: '2010-06-06 00:57:33 -0700'
     description: Marina and I made Rock Candy
     id: '72157624103894287'

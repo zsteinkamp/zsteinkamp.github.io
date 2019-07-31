@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2142804202'
     link: http://www.flickr.com/photos/thenobot/sets/72157603560555816/
-    primary_photo_url: http://farm3.static.flickr.com/2043/2142804202_c039c8be2d_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2043/2142804202_c039c8be2d_m.jpg
     pub_date: '2007-12-27 08:21:57 -0800'
     description: Ryan and I set up monitors and whiteboards in our new office in San
       Francisco.

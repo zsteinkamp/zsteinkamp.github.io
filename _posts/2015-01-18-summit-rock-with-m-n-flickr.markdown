@@ -16,7 +16,7 @@ entry:
       a great little park! We hiked for a couple of miles total and there was a great
       boulder garden for the girls to play on. They both slept soundly in the car
       after we left. :)
-    primary_photo_url: http://farm8.static.flickr.com/7488/16311351931_f77f31fb5f_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7488/16311351931_f77f31fb5f_m.jpg
     photos:
     - description: 
       pub_date: '2015-01-18 03:05:44 -0800'

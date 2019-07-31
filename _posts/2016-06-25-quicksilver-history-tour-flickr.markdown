@@ -72,7 +72,7 @@ entry:
     description: Photos from an 5:30am start at Almaden Quicksilver park, where Jeff
       and Nina showed me some of the more historical sites. We covered 15 miles and
       about 2900 feet of climbing on a beautiful morning.
-    primary_photo_url: http://farm8.static.flickr.com/7621/27806747002_cd209199da_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7621/27806747002_cd209199da_m.jpg
     id: '72157670244791835'
   created_at: '2016-06-26 05:26:31'
   updated_at: '2016-06-26 05:26:31'

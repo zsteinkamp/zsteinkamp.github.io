@@ -17,7 +17,7 @@ entry:
       time in the ocean and in the pools at the Honua Kai resort, but also watched
       the Ulalena show at the Maui Theatre, hiked around the Iao Needle, Drove the
       long way around the island, and spent time with good friends.
-    primary_photo_url: http://farm8.static.flickr.com/7306/28484374935_c0fbf845aa_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7306/28484374935_c0fbf845aa_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7729/27868766793_f83810da1c_s.jpg
       title: Swing chairs at Ma'alaea General Store

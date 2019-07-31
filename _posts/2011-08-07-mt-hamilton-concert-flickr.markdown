@@ -11,7 +11,7 @@ entry:
     num_photos: 16
     link: http://www.flickr.com/photos/thenobot/sets/72157627250247281/
     primary_photo_id: '6016663911'
-    primary_photo_url: http://farm7.static.flickr.com/6124/6016663911_0fc78e2e5a_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6124/6016663911_0fc78e2e5a_m.jpg
     pub_date: '2011-08-06 11:22:33 -0700'
     description: Arti got us VIP tickets to an event up on Mt. Hamilton -- a tour
       of the facility, dinner, a concert, and telescope viewing.  Awesome!

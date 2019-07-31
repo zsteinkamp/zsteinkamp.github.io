@@ -15,7 +15,7 @@ entry:
       swimming, riding, discovering, and of course eating.
     title: Bellingham and Birch Bay
     link: http://www.flickr.com/photos/thenobot/sets/72157634978628056/
-    primary_photo_url: http://farm4.static.flickr.com/3738/9459742745_cf4aa295ba_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3738/9459742745_cf4aa295ba_m.jpg
     photos:
     - pub_date: '2013-07-31 13:09:20 -0700'
       description: 

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4819107151'
     link: http://www.flickr.com/photos/thenobot/sets/72157624436410715/
-    primary_photo_url: http://farm5.static.flickr.com/4101/4819107151_f124e15ebc_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4101/4819107151_f124e15ebc_m.jpg
     pub_date: '2010-07-21 11:41:58 -0700'
     description: I went straight from work to hike up Mt. Allison and Mission Peak
       last night.  Total distance was ~10 miles.  Sandwich dinner at Mt. Allison was

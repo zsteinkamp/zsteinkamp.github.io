@@ -45,7 +45,7 @@ entry:
       href='/20110213-threepeak.kmz'>Download the KMZ file to view the route in Google
       Earth</a>.
     primary_photo_id: '5443446602'
-    primary_photo_url: http://farm6.static.flickr.com/5213/5443446602_8cc033649d_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5213/5443446602_8cc033649d_m.jpg
     id: '72157626043124910'
     title: Threepeak
     num_photos: 9

@@ -42,7 +42,7 @@ entry:
     primary_photo_id: '5310998402'
     link: http://www.flickr.com/photos/thenobot/sets/72157625591175011/
     title: Cal Skate
-    primary_photo_url: http://farm6.static.flickr.com/5250/5310998402_4b9025cbdc_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5250/5310998402_4b9025cbdc_m.jpg
     description: Our new favorite place.  Marina and I brought our skates for some
       serious counterclockwise fun!  We even won the &quot;dot game&quot; and she
       got a coupon for free admission.  Cal Skate rocks!

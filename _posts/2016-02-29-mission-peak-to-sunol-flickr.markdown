@@ -16,7 +16,7 @@ entry:
       Club Nina hit the popular trail up to the Mission Peak summit, then descended to Sunol Regional Park. Then we turned around and did it all in reverse! Great to spend time with Nina, Jeremy, Larry, Jeff, and new friend Huy. Keep on rocking guys!
 
       <a href="https://www.strava.com/activities/504830196" rel="nofollow">www.strava.com/activities/504830196</a>
-    primary_photo_url: http://farm2.static.flickr.com/1538/25082213800_9e220aaae3_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1538/25082213800_9e220aaae3_m.jpg
     photos:
     - title: Peak Pano
       description: 

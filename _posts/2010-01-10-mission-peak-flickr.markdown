@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4264464381'
     link: http://www.flickr.com/photos/thenobot/sets/72157623061276257/
-    primary_photo_url: http://farm5.static.flickr.com/4049/4264464381_a8c55404cd_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4049/4264464381_a8c55404cd_m.jpg
     pub_date: '2010-01-10 06:48:53 -0800'
     description: I did the old standard Fremont hike today.  When I was talking to
       a guy and his son at Hidden Valley, I realized that it's been 25 years since

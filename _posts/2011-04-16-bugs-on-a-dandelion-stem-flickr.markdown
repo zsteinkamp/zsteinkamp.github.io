@@ -16,7 +16,7 @@ entry:
     num_photos: 1
     primary_photo_id: '5622808131'
     description: 
-    primary_photo_url: http://farm6.static.flickr.com/5305/5622808131_9451b07207_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5305/5622808131_9451b07207_m.jpg
     pub_date: '2011-04-15 11:13:26 -0700'
     title: Bugs on a Dandelion Stem
     id: '72157626381785437'

@@ -11,7 +11,7 @@ entry:
     num_photos: 8
     link: http://www.flickr.com/photos/thenobot/sets/72157651222394939/
     primary_photo_id: '16763742367'
-    primary_photo_url: http://farm9.static.flickr.com/8701/16763742367_7c3f13573d_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8701/16763742367_7c3f13573d_m.jpg
     description: Great run today near Nani's house on the Thermalito Trail. Perfect
       warm and cool air, green grass, wildflowers, a giant herd of sheep, Sinbad Creek,
       meditation on a hillside. Took my time today and loved it.

@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157644323165789
   data:
-    primary_photo_url: http://farm6.static.flickr.com/5311/14030604819_147bcf4a23_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5311/14030604819_147bcf4a23_m.jpg
     link: http://www.flickr.com/photos/thenobot/sets/72157644323165789/
     num_photos: 11
     description: "It was a fantastic day for the O50K run.  Great weather, excellent

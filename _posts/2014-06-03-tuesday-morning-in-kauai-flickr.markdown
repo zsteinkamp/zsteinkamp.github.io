@@ -16,7 +16,7 @@ entry:
     title: Tuesday Morning in Kauai
     link: http://www.flickr.com/photos/thenobot/sets/72157644588399457/
     primary_photo_id: '14153633869'
-    primary_photo_url: http://farm6.static.flickr.com/5484/14153633869_335aa6dacc_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5484/14153633869_335aa6dacc_m.jpg
     photos:
     - pub_date: '2014-06-02 23:15:38 -0700'
       thumb_url: http://farm4.static.flickr.com/3852/14338666902_ebe3a5967c_s.jpg

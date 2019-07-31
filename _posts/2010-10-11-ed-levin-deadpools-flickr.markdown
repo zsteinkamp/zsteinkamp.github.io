@@ -37,7 +37,7 @@ entry:
       id: '5070403578'
     primary_photo_id: '5069794111'
     pub_date: '2010-10-10 12:47:28 -0700'
-    primary_photo_url: http://farm5.static.flickr.com/4124/5069794111_1a2005e599_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4124/5069794111_1a2005e599_m.jpg
     description: I took a walk mostly off the trails in Ed Levin and came across the
       bones from three cows.
     title: Ed Levin Deadpools

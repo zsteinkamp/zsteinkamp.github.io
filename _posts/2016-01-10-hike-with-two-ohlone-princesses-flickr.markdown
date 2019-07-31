@@ -16,7 +16,7 @@ entry:
       lure of things off the trail was too strong. We fed a horse, looked at an old
       Ohlone Indian grinding stone, and made some cow friends. This was the right
       way to spend the morning!
-    primary_photo_url: http://farm2.static.flickr.com/1509/23675057274_09f4f4bb59_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1509/23675057274_09f4f4bb59_m.jpg
     photos:
     - title: 
       description: 

@@ -45,7 +45,7 @@ entry:
     primary_photo_id: '25944567205'
     title: Ohlone to Sunol Backpack Area
     description: 
-    primary_photo_url: http://farm2.static.flickr.com/1482/25944567205_0c7b648a70_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1482/25944567205_0c7b648a70_m.jpg
     id: '72157666211774715'
   created_at: '2016-03-25 05:10:53'
   updated_at: '2016-03-25 05:10:53'

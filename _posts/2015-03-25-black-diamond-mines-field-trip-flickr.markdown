@@ -11,7 +11,7 @@ entry:
     num_photos: 10
     link: http://www.flickr.com/photos/thenobot/sets/72157651606152181/
     primary_photo_id: '16748796547'
-    primary_photo_url: http://farm8.static.flickr.com/7618/16748796547_7a107f40a5_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7618/16748796547_7a107f40a5_m.jpg
     description: I got to chaperone a school field trip with Marina's class to the
       Black Diamond Mines Regional Preserve in Antioch. Initially a coal mine, eventually
       it was converted to a sand mine. The regional park district gives tours of a

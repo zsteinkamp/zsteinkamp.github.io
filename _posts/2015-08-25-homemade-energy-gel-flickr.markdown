@@ -50,7 +50,7 @@ entry:
     primary_photo_id: '20689388340'
     excerpt: ''
     pub_date: '2015-08-25 01:17:43 -0700'
-    primary_photo_url: http://farm6.static.flickr.com/5692/20689388340_17599ae8e7_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5692/20689388340_17599ae8e7_m.jpg
     id: '72157657337736298'
     title: Homemade Energy Gel
   created_at: '2015-08-25 20:27:15'

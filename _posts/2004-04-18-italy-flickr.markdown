@@ -580,7 +580,7 @@ entry:
     num_photos: 189
     title: Italy
     primary_photo_id: '4953314034'
-    primary_photo_url: http://farm5.static.flickr.com/4147/4953314034_1d529d6cc6_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4147/4953314034_1d529d6cc6_m.jpg
     pub_date: '2003-04-17 13:11:28 -0700'
     id: '72157624743249895'
     description: 

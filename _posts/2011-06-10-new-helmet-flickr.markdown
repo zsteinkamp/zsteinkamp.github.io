@@ -11,7 +11,7 @@ entry:
     num_photos: 3
     link: http://www.flickr.com/photos/thenobot/sets/72157626801384313/
     primary_photo_id: '5816913288'
-    primary_photo_url: http://farm3.static.flickr.com/2298/5816913288_9ec59e7d02_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2298/5816913288_9ec59e7d02_m.jpg
     pub_date: '2011-06-09 10:39:23 -0700'
     description: After five years with the Pyrotect helmet, I got an HJC Si-12.  It's
       a lot lighter than the Pyrotect, and with a SA2005 rating, it will be good for

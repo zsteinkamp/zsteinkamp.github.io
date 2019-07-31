@@ -60,7 +60,7 @@ entry:
     description: The girls found this mantis on a lavender bush in the front yard.  It
       was patient enough for me to get some photos of it.  Afterward, the girls climbed
       up the magnolia tree.
-    primary_photo_url: http://farm7.static.flickr.com/6163/6256090126_0d13852298_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6163/6256090126_0d13852298_m.jpg
     pub_date: '2011-10-17 10:32:22 -0700'
     title: Front Yard Mantis and Girls
     id: '72157627794654975'

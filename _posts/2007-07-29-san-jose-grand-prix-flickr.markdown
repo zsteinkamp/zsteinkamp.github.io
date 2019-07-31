@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '948398786'
     link: http://www.flickr.com/photos/thenobot/sets/72157601093432137/
-    primary_photo_url: http://farm2.static.flickr.com/1231/948398786_639094f1a7_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1231/948398786_639094f1a7_m.jpg
     pub_date: '2007-07-29 07:19:18 -0700'
     description: A behind-the scenes look at the 2007 SJGP.
     id: '72157601093432137'

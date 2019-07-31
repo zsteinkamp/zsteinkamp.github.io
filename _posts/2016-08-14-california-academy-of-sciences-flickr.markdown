@@ -20,7 +20,7 @@ entry:
       and a rainforest we could walk through. Highly recommended way to spend the
       day!
     pub_date: '2016-08-14 14:10:15 -0700'
-    primary_photo_url: http://farm9.static.flickr.com/8645/28993893945_9ecbfb97f5_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8645/28993893945_9ecbfb97f5_m.jpg
     photos:
     - thumb_url: http://farm9.static.flickr.com/8858/28374526874_6c40473768_s.jpg
       title: 

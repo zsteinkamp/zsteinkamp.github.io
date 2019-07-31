@@ -18,7 +18,7 @@ entry:
       We took BART into the city from Fremont, then it was a quick walk to the Hyatt Regency to check out that awesome hotel, and its views and elevators. We then made a beeline to Enjoy Vegetarian for a very tasty lunch (&quot;the best Chinese food I've ever had!&quot; said Marina), then did a lot of shopping. The girls were on a parasol mission, and that mission was accomplished. Another trip back through the Hyatt for a bathroom break and some hot chocolate, then back on the train.
 
       It was a really fun day that felt like we were a world away, but still in our own neighborhood.
-    primary_photo_url: http://farm2.static.flickr.com/1608/24160826785_e50318bc02_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1608/24160826785_e50318bc02_m.jpg
     photos:
     - title: Love these girls
       description: 

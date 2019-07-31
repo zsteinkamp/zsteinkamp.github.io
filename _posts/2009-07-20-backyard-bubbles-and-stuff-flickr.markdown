@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3745744559'
     link: http://www.flickr.com/photos/thenobot/sets/72157621777709252/
-    primary_photo_url: http://farm3.static.flickr.com/2603/3745744559_d85c1510fc_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2603/3745744559_d85c1510fc_m.jpg
     pub_date: '2009-07-20 11:07:14 -0700'
     description: Potpourri
     id: '72157621777709252'

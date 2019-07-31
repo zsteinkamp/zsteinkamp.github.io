@@ -12,7 +12,7 @@ entry:
     description: The TBNCAZ running club hit up Mt. Bachelor on a warm Tuesday. The
       trail goes from the Sunrise parking lot to the trail summit, climbing about
       2500 feet in 3 miles. Super fun! Route data at http://app.strava.com/activities/175943873.
-    primary_photo_url: http://farm6.static.flickr.com/5596/14840891802_18c89eee14_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5596/14840891802_18c89eee14_m.jpg
     photos:
     - description: 
       title: Nate and Chloe

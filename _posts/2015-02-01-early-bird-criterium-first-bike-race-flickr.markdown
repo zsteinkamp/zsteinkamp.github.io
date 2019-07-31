@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157648268674744
   data:
-    primary_photo_url: http://farm8.static.flickr.com/7322/16239052817_75d4848fe4_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7322/16239052817_75d4848fe4_m.jpg
     link: http://www.flickr.com/photos/thenobot/sets/72157648268674744/
     title: Early Bird Criterium - First Bike Race
     description: |-

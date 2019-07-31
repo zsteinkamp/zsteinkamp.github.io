@@ -31,7 +31,7 @@ entry:
       parking lot, then up and over Black Mountain.  It was really foggy at the top
       and on the west side of the mountain, but then it started clearing on my way
       back.  4500 total vertical feet, 3h15m.
-    primary_photo_url: http://farm9.static.flickr.com/8445/7908484548_b92bb40b8b_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8445/7908484548_b92bb40b8b_m.jpg
     pub_date: '2012-09-01 02:55:52 -0700'
     title: Rhus Ridge to Black Mountain
     id: '72157631355536884'

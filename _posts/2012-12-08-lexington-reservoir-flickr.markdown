@@ -8,7 +8,7 @@ entry:
   source: flickr
   uid: 72157632203134542
   data:
-    primary_photo_url: http://farm9.static.flickr.com/8079/8255479443_9b78e15fea_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8079/8255479443_9b78e15fea_m.jpg
     pub_date: '2012-12-08 07:05:11 -0800'
     link: http://www.flickr.com/photos/thenobot/sets/72157632203134542/
     description: The girls and I took a short drive to the Lexington Reservoir today.  We

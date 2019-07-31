@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3508885465'
     link: http://www.flickr.com/photos/thenobot/sets/72157617720913061/
-    primary_photo_url: http://farm4.static.flickr.com/3321/3508885465_ae10fd8a82_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3321/3508885465_ae10fd8a82_m.jpg
     pub_date: '2009-05-06 11:52:58 -0700'
     description: A new (old) car!
     id: '72157617720913061'

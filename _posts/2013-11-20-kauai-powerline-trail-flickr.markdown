@@ -127,7 +127,7 @@ entry:
     title: Kauai Powerline Trail
     id: '72157637896241655'
     pub_date: '2013-11-20 01:32:01 -0800'
-    primary_photo_url: http://farm6.static.flickr.com/5528/10973376364_db62c5d24e_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5528/10973376364_db62c5d24e_m.jpg
   created_at: '2013-11-25 04:52:01'
   updated_at: '2013-11-25 05:05:15'
   pub_date: '2013-11-20 09:32:01'

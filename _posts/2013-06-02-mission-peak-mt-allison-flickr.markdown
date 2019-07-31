@@ -19,7 +19,7 @@ entry:
       I caught up to him walking on the road back to the car.  We chatted for a bit about MP and running and O50K and went on our separate ways.
     title: Mission Peak / Mt. Allison
     link: http://www.flickr.com/photos/thenobot/sets/72157633911004433/
-    primary_photo_url: http://farm4.static.flickr.com/3734/8932972557_ddd64733e4_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3734/8932972557_ddd64733e4_m.jpg
     photos:
     - pub_date: '2013-06-02 13:07:07 -0700'
       description: First time running all the way up MP - no walking or stopping.

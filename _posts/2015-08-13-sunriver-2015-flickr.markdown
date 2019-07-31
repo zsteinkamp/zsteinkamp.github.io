@@ -11,7 +11,7 @@ entry:
     num_photos: 46
     link: http://www.flickr.com/photos/thenobot/sets/72157654884638774/
     primary_photo_id: '19935292353'
-    primary_photo_url: http://farm6.static.flickr.com/5762/19935292353_711ed8e0c7_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5762/19935292353_711ed8e0c7_m.jpg
     description: "This summer tradition has stayed fresh and fun every year. \n\nThis
       time around, awesome cousin Angie joined us for most of the trip. She's now
       an honorary Steinkamp. Sister Emily and girls came too, which was a long awaited

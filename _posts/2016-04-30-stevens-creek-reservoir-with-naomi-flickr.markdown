@@ -14,7 +14,7 @@ entry:
     title: Stevens Creek Reservoir with Naomi
     description: 
     pub_date: '2016-04-30 05:18:33 -0700'
-    primary_photo_url: http://farm2.static.flickr.com/1620/26463430660_7ee786857f_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1620/26463430660_7ee786857f_m.jpg
     photos:
     - thumb_url: http://farm2.static.flickr.com/1620/26463430660_7ee786857f_s.jpg
       title: 

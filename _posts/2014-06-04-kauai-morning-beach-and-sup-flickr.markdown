@@ -15,7 +15,7 @@ entry:
     title: Kauai Morning, Beach, and SUP
     link: http://www.flickr.com/photos/thenobot/sets/72157645020043584/
     primary_photo_id: '14162134330'
-    primary_photo_url: http://farm6.static.flickr.com/5075/14162134330_b5aca37fe4_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5075/14162134330_b5aca37fe4_m.jpg
     photos:
     - pub_date: '2014-06-03 23:20:47 -0700'
       thumb_url: http://farm4.static.flickr.com/3875/14347859244_de8ed60fc5_s.jpg

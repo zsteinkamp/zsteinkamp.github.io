@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2787828466'
     link: http://www.flickr.com/photos/thenobot/sets/72157606893684513/
-    primary_photo_url: http://farm4.static.flickr.com/3285/2787828466_154e1cdb95_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3285/2787828466_154e1cdb95_m.jpg
     pub_date: '2008-08-22 04:28:14 -0700'
     description: She's here, all 9lbs 14ozs.
     id: '72157606893684513'

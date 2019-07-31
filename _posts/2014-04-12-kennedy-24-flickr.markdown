@@ -13,7 +13,7 @@ entry:
       <a href="http://app.strava.com/activities/129562738" rel="nofollow">app.strava.com/activities/129562738</a>
     title: Kennedy 24
     link: http://www.flickr.com/photos/thenobot/sets/72157643859105583/
-    primary_photo_url: http://farm6.static.flickr.com/5586/13806524405_fc15289780_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5586/13806524405_fc15289780_m.jpg
     photos:
     - pub_date: '2014-04-12 01:37:22 -0700'
       description: 

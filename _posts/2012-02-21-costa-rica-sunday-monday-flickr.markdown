@@ -155,7 +155,7 @@ entry:
       thumb_url: http://farm8.static.flickr.com/7069/6917158143_26cf7eb172_s.jpg
     num_photos: 28
     primary_photo_id: '6913768985'
-    primary_photo_url: http://farm8.static.flickr.com/7061/6913768985_82deeca49d_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7061/6913768985_82deeca49d_m.jpg
     title: Costa Rica Sunday/Monday
     pub_date: '2012-02-20 08:47:37 -0800'
     description: "<h3>Sunday</h3>\nGetting to Costa Rica was an adventure in itself.

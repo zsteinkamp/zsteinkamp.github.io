@@ -60,7 +60,7 @@ entry:
     description: Marina and Arti ran in a race this morning, then we came home and
       got ready for Ashu, Cheryl, and Kanta to come over to celebrate three birthdays
       and Rakhi.
-    primary_photo_url: http://farm7.static.flickr.com/6190/6068294266_1b3c5482c2_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6190/6068294266_1b3c5482c2_m.jpg
     pub_date: '2011-08-21 01:11:41 -0700'
     title: Morning Race, Birthdays, Rakhi
     id: '72157627489275638'

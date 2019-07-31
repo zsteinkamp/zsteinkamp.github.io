@@ -17,7 +17,7 @@ entry:
       Beto showed us around Henry Cowell Redwoods State Park. Talk about variety! We started in a poison oak grove, then shifted to lush ferns and redwoods, climbing a sandy trail to a foggy lookout tower (with tasty water fountain), down a rocky trail back to redwoods, down to the San Lorenzo River for a thrilling knee-deep crossing, up the river, then crossing back where we saw a Pacific Lamprey attached to a rock. Back through giant clover fields and giant redwood fairy rings to the car. It's really a fantastic place that is easy to get to and has tons of trails for exploring.
 
       <a href="https://www.strava.com/activities/554476949" rel="nofollow">www.strava.com/activities/554476949</a>
-    primary_photo_url: http://farm2.static.flickr.com/1720/26533405361_f6bd2cf484_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1720/26533405361_f6bd2cf484_m.jpg
     photos:
     - thumb_url: http://farm2.static.flickr.com/1516/25996034063_a01902863d_s.jpg
       title: Beto zooms by ferns.

@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3187814307'
     link: http://www.flickr.com/photos/thenobot/sets/72157612398203781/
-    primary_photo_url: http://farm4.static.flickr.com/3438/3187814307_9771cb766a_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3438/3187814307_9771cb766a_m.jpg
     pub_date: '2009-01-11 02:07:09 -0800'
     description: Marina's palette from last night's art project.
     id: '72157612398203781'

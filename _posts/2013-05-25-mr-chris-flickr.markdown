@@ -11,7 +11,7 @@ entry:
     excerpt: ''
     primary_photo_id: '8828270542'
     link: http://www.flickr.com/photos/thenobot/sets/72157633649010693/
-    primary_photo_url: http://farm6.static.flickr.com/5350/8828270542_d5e36bfe22_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5350/8828270542_d5e36bfe22_m.jpg
     pub_date: '2013-05-25 02:27:11 -0700'
     description: "Mr. Chris is the newest member of our family.  He's five years old,
       and was rescued as a kitten. \n\nHe was pretty nervous when Joanne of the 13th

@@ -34,7 +34,7 @@ entry:
     primary_photo_id: '6974155034'
     description: I found a bee on my car today, so I brought it inside to take some
       pictures of it.  Pictures are from an iPhone 4 and 10x B&amp;L Hastings Loupe.
-    primary_photo_url: http://farm8.static.flickr.com/7051/6974155034_4424966556_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7051/6974155034_4424966556_m.jpg
     pub_date: '2012-04-27 01:19:44 -0700'
     title: Bee
     id: '72157629551063476'

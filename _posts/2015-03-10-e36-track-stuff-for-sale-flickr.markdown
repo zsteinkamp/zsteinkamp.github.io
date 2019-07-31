@@ -11,7 +11,7 @@ entry:
     num_photos: 7
     link: http://www.flickr.com/photos/thenobot/sets/72157650829717667/
     primary_photo_id: '16780690961'
-    primary_photo_url: http://farm9.static.flickr.com/8679/16780690961_0a8897d715_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8679/16780690961_0a8897d715_m.jpg
     description: 
     pub_date: '2015-03-10 15:14:24 -0700'
     title: E36 Track Stuff For Sale

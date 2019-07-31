@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3071652705'
     link: http://www.flickr.com/photos/thenobot/sets/72157610529557386/
-    primary_photo_url: http://farm4.static.flickr.com/3214/3071652705_b6ba4d77e5_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3214/3071652705_b6ba4d77e5_m.jpg
     pub_date: '2008-11-30 02:20:00 -0800'
     description: We had our photographer friend Liz Cantu (http://convincedphotography.com/)
       come over today to take some family photos.

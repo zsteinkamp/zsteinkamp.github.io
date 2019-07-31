@@ -11,7 +11,7 @@ entry:
     num_photos: 13
     link: http://www.flickr.com/photos/thenobot/sets/72157627002737132/
     primary_photo_id: '5851914994'
-    primary_photo_url: http://farm6.static.flickr.com/5154/5851914994_a7c7219203_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5154/5851914994_a7c7219203_m.jpg
     pub_date: '2011-06-19 13:14:26 -0700'
     description: A father's day dinner hike from the Stanford Ave parking lot, up
       Horse Heaven Trail, then taking a detour about 3/4 of the way up to beeline

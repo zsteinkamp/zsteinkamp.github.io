@@ -14,7 +14,7 @@ entry:
     title: Biking Around the Bay
     description: 
     pub_date: '2016-04-30 11:34:34 -0700'
-    primary_photo_url: http://farm2.static.flickr.com/1532/26742617245_0791ebc069_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1532/26742617245_0791ebc069_m.jpg
     photos:
     - thumb_url: http://farm2.static.flickr.com/1532/26742617245_0791ebc069_s.jpg
       title: No Tresspassing

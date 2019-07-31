@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3435023241'
     link: http://www.flickr.com/photos/thenobot/sets/72157616677572722/
-    primary_photo_url: http://farm4.static.flickr.com/3582/3435023241_c2a1fb8d91_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3582/3435023241_c2a1fb8d91_m.jpg
     pub_date: '2009-04-12 04:01:23 -0700'
     description: Backyard fun with eggs and stuff.
     id: '72157616677572722'

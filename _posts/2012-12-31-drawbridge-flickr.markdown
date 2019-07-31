@@ -12,7 +12,7 @@ entry:
       to take some photos...
     primary_photo_id: '8330668789'
     link: http://www.flickr.com/photos/thenobot/sets/72157632398454252/
-    primary_photo_url: http://farm9.static.flickr.com/8221/8330668789_535ac9205a_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8221/8330668789_535ac9205a_m.jpg
     pub_date: '2012-12-31 03:48:14 -0800'
     description: "I set out on my bike today from the Alviso Marina to go to <a href=\"http://en.wikipedia.org/wiki/Drawbridge,_California\">Drawbridge,
       CA</a>.\n\nDrawbridge is a ghost town in the marshland between Alviso and Fremont.

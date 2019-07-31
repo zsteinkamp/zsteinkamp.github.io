@@ -12,7 +12,7 @@ entry:
     title: Rose Peak
     link: http://www.flickr.com/photos/thenobot/sets/72157626825000630/
     primary_photo_id: '5767816963'
-    primary_photo_url: http://farm3.static.flickr.com/2707/5767816963_a2e84ba95a_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2707/5767816963_a2e84ba95a_m.jpg
     pub_date: '2011-05-27 02:12:48 -0700'
     description: I walked from Sunol Regional Park to the top of Rose Peak and back,
       which is about 20 miles round trip.  Rose Peak is the highest accessible point

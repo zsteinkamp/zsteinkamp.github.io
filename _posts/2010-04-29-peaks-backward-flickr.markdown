@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4564237743'
     link: http://www.flickr.com/photos/thenobot/sets/72157623835759573/
-    primary_photo_url: http://farm4.static.flickr.com/3541/4564237743_b23b4545cc_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3541/4564237743_b23b4545cc_m.jpg
     pub_date: '2010-04-29 13:23:17 -0700'
     description: Starting from Ohlone, I walked to Ed Levin county park in Milpitas.
     id: '72157623835759573'

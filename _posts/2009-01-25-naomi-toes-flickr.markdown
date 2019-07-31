@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3226015050'
     link: http://www.flickr.com/photos/thenobot/sets/72157612975685258/
-    primary_photo_url: http://farm4.static.flickr.com/3398/3226015050_4c91673426_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3398/3226015050_4c91673426_m.jpg
     pub_date: '2009-01-25 00:12:34 -0800'
     description: Naomi has really been into her toes for the last week.
     id: '72157612975685258'

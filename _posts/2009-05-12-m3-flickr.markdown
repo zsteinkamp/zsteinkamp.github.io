@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3527639888'
     link: http://www.flickr.com/photos/thenobot/sets/72157618069754440/
-    primary_photo_url: http://farm3.static.flickr.com/2236/3527639888_904bdce248_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2236/3527639888_904bdce248_m.jpg
     pub_date: '2009-05-12 12:01:56 -0700'
     description: I got the car back from Tony and Ramon today.  It purrs and handles!
     id: '72157618069754440'

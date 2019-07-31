@@ -11,7 +11,7 @@ entry:
     num_photos: 6
     link: http://www.flickr.com/photos/thenobot/sets/72157627199731283/
     primary_photo_id: '5994864864'
-    primary_photo_url: http://farm7.static.flickr.com/6126/5994864864_5c4b6f13dd_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6126/5994864864_5c4b6f13dd_m.jpg
     pub_date: '2011-07-30 01:41:12 -0700'
     description: 9.5 mile hike in Ed Levin County Park.  I started on the Tularcitos
       trail, then took a right onto the Agua Caliente trail for a bit, then went off-trail

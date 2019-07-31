@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4684419778'
     link: http://www.flickr.com/photos/thenobot/sets/72157624111122275/
-    primary_photo_url: http://farm5.static.flickr.com/4054/4684419778_1439e106e4_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4054/4684419778_1439e106e4_m.jpg
     pub_date: '2010-05-30 06:19:01 -0700'
     description: We drove up to Arcata to see my cousin get married.  I had the honor
       of being the official photog.  Here are my favorite of the 1,600 shots I took

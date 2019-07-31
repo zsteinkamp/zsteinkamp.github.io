@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3358376360'
     link: http://www.flickr.com/photos/thenobot/sets/72157615266382125/
-    primary_photo_url: http://farm4.static.flickr.com/3433/3358376360_36feaa86e1_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3433/3358376360_36feaa86e1_m.jpg
     pub_date: '2009-03-15 08:16:38 -0700'
     description: Bugs and flowers.  Marina is all about bugs these days.
     id: '72157615266382125'

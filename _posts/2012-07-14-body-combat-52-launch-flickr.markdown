@@ -220,7 +220,7 @@ entry:
     description: Arti teaches Body Combat, a type of cardio kickboxing.  Her and her
       friends/coworkers Marci, Malena, and Donna launched the latest release of the
       series this morning.  Don't mess with these ladies!
-    primary_photo_url: http://farm9.static.flickr.com/8018/7570425124_eb3295998c_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8018/7570425124_eb3295998c_m.jpg
     pub_date: '2012-07-14 03:18:08 -0700'
     title: Body Combat 52 Launch
     id: '72157630576643060'

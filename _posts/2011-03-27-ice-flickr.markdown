@@ -24,7 +24,7 @@ entry:
     primary_photo_id: '5562320911'
     link: http://www.flickr.com/photos/thenobot/sets/72157626235014137/
     title: Ice
-    primary_photo_url: http://farm6.static.flickr.com/5264/5562320911_070432a5a3_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5264/5562320911_070432a5a3_m.jpg
     description: Some pictures of ice for Mr. Ho.
     id: '72157626235014137'
     pub_date: '2011-03-26 10:38:50 -0700'

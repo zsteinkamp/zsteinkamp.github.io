@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '1793111392'
     link: http://www.flickr.com/photos/thenobot/sets/72157602764530240/
-    primary_photo_url: http://farm3.static.flickr.com/2060/1793111392_106cdc9570_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2060/1793111392_106cdc9570_m.jpg
     pub_date: '2007-09-22 08:45:07 -0700'
     description: We celebrated two birthdays at Nani's house today.  Marina turned
       2 and Pranav is just a bit older!

@@ -64,7 +64,7 @@ entry:
     primary_photo_id: '6889875730'
     description: The girls and I took a chilly morning hike to Castle Rock, then had
       some hot chocolate to warm up afterward.
-    primary_photo_url: http://farm8.static.flickr.com/7208/6889875730_01c8a258e5_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7208/6889875730_01c8a258e5_m.jpg
     pub_date: '2012-04-01 02:51:00 -0700'
     title: Castle Rock
     id: '72157629717845603'

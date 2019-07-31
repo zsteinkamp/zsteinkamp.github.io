@@ -13,7 +13,7 @@ entry:
       had a good time and covered 13.5 miles / 3150 ft climb in 3h22m. '
     title: Ed Levin to Mission Peak
     link: http://www.flickr.com/photos/thenobot/sets/72157634034073824/
-    primary_photo_url: http://farm4.static.flickr.com/3799/8999681025_8d2a2a114f_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3799/8999681025_8d2a2a114f_m.jpg
     photos:
     - pub_date: '2013-06-09 02:29:00 -0700'
       description: Best view of MP.

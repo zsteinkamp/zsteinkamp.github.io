@@ -11,7 +11,7 @@ entry:
     num_photos: 49
     link: http://www.flickr.com/photos/thenobot/sets/72157627158139613/
     primary_photo_id: '5976220901'
-    primary_photo_url: http://farm7.static.flickr.com/6129/5976220901_8b1bdb3f0f_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6129/5976220901_8b1bdb3f0f_m.jpg
     pub_date: '2011-07-21 01:35:54 -0700'
     description: We flew to Eugene then drove to Sunriver, OR to spend 5 days with
       TBNC, Mimi, and Pop.  What a place!  We saw beautiful scenery, volcanic activity,

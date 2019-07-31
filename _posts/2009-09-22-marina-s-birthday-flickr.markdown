@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '3947091832'
     link: http://www.flickr.com/photos/thenobot/sets/72157622437201698/
-    primary_photo_url: http://farm3.static.flickr.com/2563/3947091832_c4d7846a20_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2563/3947091832_c4d7846a20_m.jpg
     pub_date: '2009-09-21 23:55:07 -0700'
     description: Marina turned 4 today so we had a party!
     id: '72157622437201698'

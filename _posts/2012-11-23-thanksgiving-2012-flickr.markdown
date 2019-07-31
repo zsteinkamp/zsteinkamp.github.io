@@ -129,7 +129,7 @@ entry:
     primary_photo_id: '8216381254'
     description: Thanks Cheryl and Ashu for hosting the whole family for Thanksgiving.  It
       was a delicious and fun night!
-    primary_photo_url: http://farm9.static.flickr.com/8350/8216381254_6a94322d70_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8350/8216381254_6a94322d70_m.jpg
     pub_date: '2012-11-22 11:06:36 -0800'
     title: Thanksgiving 2012
     id: '72157632090702533'

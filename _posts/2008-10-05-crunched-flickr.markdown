@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2917865838'
     link: http://www.flickr.com/photos/thenobot/sets/72157607780858821/
-    primary_photo_url: http://farm4.static.flickr.com/3123/2917865838_04f4831063_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3123/2917865838_04f4831063_m.jpg
     pub_date: '2008-10-05 14:22:41 -0700'
     description: Derek had an &quot;eventful&quot; race today at Laguna.  Though it
       looks bad, it really is just the door, rear quarterpanel, and hardtop that need

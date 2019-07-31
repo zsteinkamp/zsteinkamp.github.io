@@ -14,7 +14,7 @@ entry:
     title: 'MP: Bovine Attack!'
     pub_date: '2016-06-30 12:49:50 -0700'
     description: 
-    primary_photo_url: http://farm8.static.flickr.com/7099/27399057313_c2d016c949_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7099/27399057313_c2d016c949_m.jpg
     photos:
     - thumb_url: http://farm8.static.flickr.com/7099/27399057313_c2d016c949_s.jpg
       title: 

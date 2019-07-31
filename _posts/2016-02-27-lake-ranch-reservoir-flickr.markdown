@@ -192,7 +192,7 @@ entry:
     description: After a fun sleepover last night, I took the girls and two of their
       friends on a hike up the Lake Ranch Trail to the reservoir. Lots to see and
       do along the way, but the highlights were definitely the salamanders and ladybugs.
-    primary_photo_url: http://farm2.static.flickr.com/1675/25198033942_f26eb2c9d1_m.jpg
+    primary_photo_url: https://farm2.static.flickr.com/1675/25198033942_f26eb2c9d1_m.jpg
     id: '72157662827401654'
   created_at: '2016-02-27 22:50:55'
   updated_at: '2016-02-27 22:50:55'

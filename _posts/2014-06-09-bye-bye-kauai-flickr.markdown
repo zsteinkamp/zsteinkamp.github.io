@@ -15,7 +15,7 @@ entry:
     title: Bye Bye Kauai
     link: http://www.flickr.com/photos/thenobot/sets/72157644681434359/
     primary_photo_id: '14198055159'
-    primary_photo_url: http://farm3.static.flickr.com/2897/14198055159_c5ab18ef4a_m.jpg
+    primary_photo_url: https://farm3.static.flickr.com/2897/14198055159_c5ab18ef4a_m.jpg
     photos:
     - pub_date: '2014-06-09 01:03:17 -0700'
       thumb_url: http://farm3.static.flickr.com/2897/14198055159_c5ab18ef4a_s.jpg

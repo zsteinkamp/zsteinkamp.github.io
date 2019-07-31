@@ -22,7 +22,7 @@ entry:
       href=\"http://app.strava.com/activities/67084059\" rel=\"nofollow\">app.strava.com/activities/67084059</a>\n"
     title: Double Dippin' Mt. Allison
     link: http://www.flickr.com/photos/thenobot/sets/72157634634995971/
-    primary_photo_url: http://farm6.static.flickr.com/5340/9284759951_a19f861357_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5340/9284759951_a19f861357_m.jpg
     photos:
     - pub_date: '2013-07-14 02:14:28 -0700'
       description: On bike.

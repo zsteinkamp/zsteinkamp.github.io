@@ -95,7 +95,7 @@ entry:
     primary_photo_id: '5131705653'
     title: Mission Peak Slide
     id: '72157625155779071'
-    primary_photo_url: http://farm5.static.flickr.com/4033/5131705653_56e85dc3f0_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4033/5131705653_56e85dc3f0_m.jpg
   created_at: '2010-10-31 22:08:53'
   updated_at: '2010-10-31 22:08:53'
   pub_date: '2010-10-30 21:12:44'

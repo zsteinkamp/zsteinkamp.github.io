@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '4327227286'
     link: http://www.flickr.com/photos/thenobot/sets/72157623339383864/
-    primary_photo_url: http://farm5.static.flickr.com/4072/4327227286_d13a892d26_m.jpg
+    primary_photo_url: https://farm5.static.flickr.com/4072/4327227286_d13a892d26_m.jpg
     pub_date: '2010-01-31 02:02:14 -0800'
     description: Pop and I went up Mission Peak on a beautiful January morning.  We
       took the &quot;normal&quot; path up to Hidden Valley, then cut across to Horse

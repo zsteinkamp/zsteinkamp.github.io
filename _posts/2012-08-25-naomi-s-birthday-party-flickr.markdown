@@ -124,7 +124,7 @@ entry:
     primary_photo_id: '7868645484'
     description: We celebrated Naomi's 4th birthday at home with some friends.  Everyone
       had a lot of fun!
-    primary_photo_url: http://farm8.static.flickr.com/7259/7868645484_8630c4f87a_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7259/7868645484_8630c4f87a_m.jpg
     pub_date: '2012-08-25 05:34:31 -0700'
     title: Naomi's Birthday Party
     id: '72157631262274264'

@@ -41,7 +41,7 @@ entry:
       up and over Mission Peak then off-trail up Mt. Allison.  Returned via the &quot;Ranch
       Trail&quot; which leads to Mill Creek Road, then picked up the Peak Trail back
       to Ohlone where the two come close together.
-    primary_photo_url: http://farm7.static.flickr.com/6199/6087210808_d86d296e33_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6199/6087210808_d86d296e33_m.jpg
     pub_date: '2011-08-27 02:09:25 -0700'
     title: Ridge / Ranch Hike
     id: '72157627408712287'

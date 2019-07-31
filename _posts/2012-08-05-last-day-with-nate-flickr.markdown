@@ -29,7 +29,7 @@ entry:
     primary_photo_id: '7744207710'
     description: I showed Nate the hard way up Mission Peak, then we had to take him
       to the airport (sniff, sniff).
-    primary_photo_url: http://farm9.static.flickr.com/8299/7744207710_54dc4395c3_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8299/7744207710_54dc4395c3_m.jpg
     pub_date: '2012-08-05 09:15:42 -0700'
     title: Last Day With Nate
     id: '72157630980402572'

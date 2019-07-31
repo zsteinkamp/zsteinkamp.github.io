@@ -410,7 +410,7 @@ entry:
       up the coast a bit, and across the island on the Powerline Trail.  We visited
       Waimea Canyon and kayaked up the Wailua River then hiked to Secret Falls.  This
       was a vacation where we didn't want to come back home!
-    primary_photo_url: http://farm8.static.flickr.com/7295/10915235875_cd8872d73c_m.jpg
+    primary_photo_url: https://farm8.static.flickr.com/7295/10915235875_cd8872d73c_m.jpg
     id: '72157637783433963'
     num_photos: 77
   created_at: '2013-11-25 04:52:19'

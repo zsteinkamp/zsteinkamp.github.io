@@ -14,7 +14,7 @@ entry:
     title: Lake Padden
     pub_date: '2016-12-24 02:06:32 -0800'
     description: 
-    primary_photo_url: http://farm1.static.flickr.com/680/31048829203_cf2f54d73e_m.jpg
+    primary_photo_url: https://farm1.static.flickr.com/680/31048829203_cf2f54d73e_m.jpg
     photos:
     - thumb_url: http://farm1.static.flickr.com/680/31048829203_cf2f54d73e_s.jpg
       media: photo

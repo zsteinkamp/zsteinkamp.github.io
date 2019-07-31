@@ -176,7 +176,7 @@ entry:
       id: '5267622061'
     primary_photo_id: '5268225692'
     link: http://www.flickr.com/photos/thenobot/sets/72157625489687799/
-    primary_photo_url: http://farm6.static.flickr.com/5002/5268225692_d6d3871930_m.jpg
+    primary_photo_url: https://farm6.static.flickr.com/5002/5268225692_d6d3871930_m.jpg
     description: We took a trip to Phoenix to see the Collins/Bardar clan, then took
       a road trip to the Grand Canyon and Sedona.  Bobby!  Cindy!
     title: Grand Canyon

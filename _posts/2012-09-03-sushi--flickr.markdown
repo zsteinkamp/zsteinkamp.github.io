@@ -26,7 +26,7 @@ entry:
       especially since you can prep pretty much everything way in advance.  Surprise
       new favorite ingredients: fried garlic slices, shiitakes sautÃ©ed in rice vinegar
       and soy sauce, and crushed wasabi peas.'
-    primary_photo_url: http://farm9.static.flickr.com/8042/7918483190_416612547e_m.jpg
+    primary_photo_url: https://farm9.static.flickr.com/8042/7918483190_416612547e_m.jpg
     pub_date: '2012-09-02 10:42:18 -0700'
     title: Sushi!
     id: '72157631377502672'

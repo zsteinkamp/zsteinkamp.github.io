@@ -38,7 +38,7 @@ entry:
     num_photos: 5
     primary_photo_id: '6279330732'
     description: Marina and Naomi had some fun this evening sharing a swing.
-    primary_photo_url: http://farm7.static.flickr.com/6225/6279330732_d38f00a29e_m.jpg
+    primary_photo_url: https://farm7.static.flickr.com/6225/6279330732_d38f00a29e_m.jpg
     pub_date: '2011-10-24 16:06:30 -0700'
     title: Double Swing
     id: '72157627973266100'

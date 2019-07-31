@@ -10,7 +10,7 @@ entry:
   data:
     primary_photo_id: '2801639277'
     link: http://www.flickr.com/photos/thenobot/sets/72157606974851998/
-    primary_photo_url: http://farm4.static.flickr.com/3013/2801639277_9bf75f166a_m.jpg
+    primary_photo_url: https://farm4.static.flickr.com/3013/2801639277_9bf75f166a_m.jpg
     pub_date: '2008-08-26 12:33:25 -0700'
     description: We threw Marina a party for her promotion to Big Sister!
     id: '72157606974851998'
