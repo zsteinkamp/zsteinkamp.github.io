@@ -14,7 +14,6 @@ entry:
   pub_date: '2019-08-10 21:09:30'
   disabled: 0
 ---
-## Abstract
 Interviewing is hard, on both sides. The skills of an interviewer are often overlooked in software development, and people are usually left on their own when it comes time to interview a potential teammate or coworker. This does everyone a disservice.
 
 This document outlines a framework and a set of principles to be used when interviewing, hopefully to bring calm, structure, and excellence to the hiring process.
