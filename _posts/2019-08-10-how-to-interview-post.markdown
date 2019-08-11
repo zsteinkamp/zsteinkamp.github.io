@@ -30,7 +30,8 @@ As an interviewer, you must be on board with the following ideals in order for t
 Talk with the hiring manager about what they feel are important attributes for this position. Is it a manager or IC role? What is the composition of the existing team? What important technologies should they know? What are some important areas the hiring manager wants you to focus on?
 
 If you are the hiring manager, understand what each interviewer brings to the table. Be very clear with them what you would like them to focus on. Use your interviewing team to get the best, most accurate and broad assessment of each candidate.
-Make a Plan
+
+## Make a Plan
 Most software developers I know are nervous going into interviews. This nervousness is usually due to not really having an agenda for the interview. They see the 45 minutes with the candidate as an improvisational performance, and most programmers wilt in such circumstances.
 
 The way to mitigate this is to draw up an agenda for the interview. To do that, first sync up with the hiring manager to understand if there are any specific focus areas they want you to cover. This is a good time to have a chat about the nature of the position we are trying to fill, what the required skills or personality traits are for the position. This will give you guidance about other areas to probe with the candidate.
@@ -77,15 +78,16 @@ The hiring manager may have assigned some soft questions to you to ask. Ask them
 
 ## Technical Questions
 A good technical question allows the candidate to demonstrate understanding, not just knowledge. For example, rather than asking the candidate to list the states of a TCP connection, ask them to explain why TCP connections have different states. Drill into candidate answers with more "why?" questions rather than "what?" questions.
-System Design Questions
-Ask the candidate to use the whiteboard to describe either a distributed system they have worked on (P3/P4), or give them an application to design (P4/P5). In both cases, they should be able to give a concrete implementation rather than just a logical diagram.
+
+## System Design Questions
+Ask the candidate to use the whiteboard to describe either a distributed system they have worked on (mid-level), or give them an application to design (senior-level). In both cases, they should be able to give a concrete implementation rather than just a logical diagram.
 
 ## Coding Problems
 No programmer in their job codes on a whiteboard with a critical audience scrutinizing their every move. Therefore, if you are doing a coding question, have a laptop handy for the candidate to work on. Ideally the laptop would have several different popular text editors installed. Choose a problem or task to work together on, and you will not only learn how the candidate solves problems, but you will get a chance to see how they are to actually work with.
 
 If the candidate is remote, then use a site like [collabedit.com](https://collabedit.com/) to open a shared workspace that both of you can see and type in.
 
-A good coding question doesn't have a magic answer. It is a simple problem that allows the candidate to demonstrate they know how to be a programmer. It will have many many possible solutions. The interviewer will be well versed in the problem and several of its solutions, and will ask the candidate about compromises or tradeoffs in a solution. Some examples are in the Appendix at the bottom of this document. Please add your favorite questions!
+A good coding question doesn't have a magic answer. It is a simple problem that allows the candidate to demonstrate they know how to be a programmer. It will have many many possible solutions. The interviewer will be well versed in the problem and several of its solutions, and will ask the candidate about compromises or tradeoffs in a solution. Some examples are in the Appendix at the bottom of this document.
 
 ## Candidate's Questions
 The questions a candidate asks can tell so much about what they value in a job. If they are only asking about technical stack but they are interviewing for a lead or manager role, that is a big red flag. Give the candidate a comfortable space where they can ask any question to you about anything related to the job or company, and give them an honest answer.
@@ -110,15 +112,15 @@ Immediately after the interview, write down your assessment of the interview. If
 
 In your written feedback, indicate your clear "hire" or "no hire" recommendation. "Maybe" means "no-hire", though there may be times when your hire recommendation may be contingent on other information other interviewers gather. Do your best to choose, though.
 
-When writing 20/20 feedback clearly indicate:
-You have an understanding of the role that you are interviewing the candidate for.
-You have clearly assessed the candidate against appropriate criteria (job description & competency area).
-Your rating supports your hiring recommendation.
-What questions you asked the candidate and how they answered.
-The candidate's strengths and weaknesses - do any of the weaknesses prevent us from moving forward with an offer? If not, please describe why.
+When writing feedback clearly indicate:
+* You have an understanding of the role that you are interviewing the candidate for.
+* You have clearly assessed the candidate against appropriate criteria (job description & competency area).
+* Your rating supports your hiring recommendation.
+* What questions you asked the candidate and how they answered.
+* The candidate's strengths and weaknesses - do any of the weaknesses prevent us from moving forward with an offer? If not, please describe why.
 
 ## Debriefs
-Hiring is a critical activity in business. Any critical business activity deserves careful deliberation and open communication. Interview debriefs are the opportunity to discuss the candidate's fit for the position and team. More often than not, important anecdotes or observations from the interviews come out in the debrief meeting that were not in the written feedback. Attendance at debriefs are mandatory for all interviewers. It is where the hire / no-hire decision is made.
+Hiring is a critical activity in business. Any critical business activity deserves careful deliberation and open communication. Interview debriefs are the opportunity to discuss the candidate's fit for the position and team. More often than not, important anecdotes or observations from the interviews come out in the debrief meeting that were not in the written feedback. Attendance at debriefs is mandatory for all interviewers. It is where the hire / no-hire decision is made.
 
 Open the debrief with a quick thumbs up/down vote, where everyone shows their thumb orientation simultaneously. This keeps people from "going with the crowd" or "going with the VP". Take a count, then go around the room to discuss.
 
