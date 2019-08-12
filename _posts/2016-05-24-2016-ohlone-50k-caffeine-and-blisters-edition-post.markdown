@@ -17,11 +17,11 @@ entry:
 ---
 Well, the 2016 Ohlone 50K is in the tie-dyed goodie bag. This year was such an experience in learning, growth, and overcoming adversity.
 
-The story starts toward the end of last year when I started running with "Club Nina" -- a loosely organized group of about 20 local trail crazies led by the gregarious and motivated Nina G. My routine went from "a couple short neighborhood runs during the week and a weekend trail run" to "pre-dawn weekday trail runs with Nina and friends and a longer weekend run." My weekly mileage went from 20 to 30 to 40 through this year, still only running three days a week. Since we were running trails, we were running hills, so my weekly elevation more than doubled too. Nina and I are well matched, not only in pace, but in our motivation for trail running. Feeling like a part of nature and observing its ever changing faces is a big part of why we choose to do this. Nina's enthusiasm for miles, feet, and nature photos have kept me honest in training for this race. Other friends in Club Nina share this zeal too, and so we all get along really well. It's been a real pleasure to get to know some of these folks like Beto, Jeremy, Jamey, Donnie, Paul, Alex, Larry, Matt, Jeff, Jeff, Tim, and others, and I hope that continues.
+The story starts toward the end of last year when I started running with a loosely organized group of about 20 local trail crazies. My routine went from "a couple short neighborhood runs during the week and a weekend trail run" to "pre-dawn weekday trail runs with friends and a longer weekend run." My weekly mileage went from 20 to 30 to 40 through this year, still only running three days a week. Since we were running trails, we were running hills, so my weekly elevation more than doubled too. It's been a real pleasure to get to know some of these folks like Beto, Jeremy, Jamey, Donnie, Paul, Alex, Larry, Matt, Jeff, Jeff, Tim, and others, and I hope that continues.
 
 Ok, back to the race...
 
-I've cut out most caffeine from my routine, which has the added benefit of making me really sensitive (in a good way!) to full-power coffee. Out of bed at 5am, popped a couple of ibuprofen to ensure my ankle that I rolled two days before on an easy taper run stayed pain-free, and into the kitchen to hit my secret stash of caffienated coffee. Nina came over at 6:45am, and I was feeling GOOD. I knew at that point that this would be a great racing day.
+I've cut out most caffeine from my routine, which has the added benefit of making me really sensitive (in a good way!) to full-power coffee. Out of bed at 5am, popped a couple of ibuprofen to ensure my ankle that I rolled two days before on an easy taper run stayed pain-free, and into the kitchen to hit my secret stash of caffienated coffee. I was feeling GOOD. I knew at that point that this would be a great racing day.
 
 We drove to near the trailhead and hiked up to the registration/start line. It's always so awesome to feel the energy of so many fellow trail crazies before Ohlone. It's the toughest 50K in this area, and so people are simultaneously excited and scared.
 
@@ -87,11 +87,7 @@ I got to meet race co-director Chiping Fu at the finish as he handed me my finis
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/thenobot/27139705291/in/datetaken-public/" title="Co-Race Director Chihping"><img src="https://c4.staticflickr.com/8/7132/27139705291_8181975493_c.jpg" width="800" height="536" alt="Co-Race Director Chihping" class="img-responsive"></a>
 
-I met Nina's sister Vinh too, who was there to drive us back to the start in Fremont. I said hi to BJB who was chilling with his post-race beer in a comfortable chair. He looked like he had been there for a while -- in fact he finished almost an hour earlier. He took first place in our 40-49 age group, even after running the Quicksilver 100K the prior weekend. Amazing!
-
-I hobbled over to the BBQ area find a cold drink and a cool place to wait for Nina to finish. Just after I filled a cup with ice water, I heard some cheering from the folks watching the finish. I looked over to see none other than Nina coming through the finish with a huge smile on her face! I yelped with delight, and ran over to welcome her. She was only a couple of minutes behind me, and was the first woman to finish -- in her first 50K ever! Double Amazing!
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/thenobot/26603570033/in/datetaken-public/" title="Trail Partners"><img src="https://c2.staticflickr.com/8/7719/26603570033_3f8076fcff_c.jpg" width="800" height="535" alt="Trail Partners" class="img-responsive"></a>
+I said hi to BJB who was chilling with his post-race beer in a comfortable chair. He looked like he had been there for a while -- in fact he finished almost an hour earlier. He took first place in our 40-49 age group, even after running the Quicksilver 100K the prior weekend. Amazing!
 
 We sat in the grass and relaxed and chatted for another hour or so with new and old friends. Vinh was so sweet to bring us food and drinks and give us a ride back to the car in Fremont. All of the people working at the aid stations, the people who marked the course in prior days, and the crew at the finish selflessly give their time to make for a first-class experience for the racers. Thanks for that!
 
