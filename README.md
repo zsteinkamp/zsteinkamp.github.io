@@ -24,3 +24,6 @@ Docker-compose is a layer on top of Docker that allows you to run several Docker
 This project requires Ruby-2.5 and a package called Jekyll to be installed. Rather than requiring you to install this on your computer to do development, it includes a Dockerfile that contains instructions to automatically set up a container within a Linux virtual machine on your computer with these dependencies. It mounts the current directory from your host system into the computer and runs a process that watches for changes in that mounted directory to trigger an automatic rebuild of your site.
 
 This way, you can use any editor on your host system (vim, MS Code, emacs, Sublime, notepad.exe) to edit files that are mounted into the Linux environment.
+
+## Deploying
+Run `jekyll build` in the container and then copy the `public/` directory to your favorite webserver.
