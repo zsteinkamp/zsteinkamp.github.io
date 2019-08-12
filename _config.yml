@@ -35,10 +35,11 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - entries.yml
+  - .entries.yml
   - docker-compose.yml
   - Dockerfile
-  - make_posts.rb
+  - .make_posts.rb
+  - _disabled/
   - Gemfile
   - Gemfile.lock
   - node_modules

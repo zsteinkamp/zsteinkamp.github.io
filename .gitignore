@@ -1,4 +1,6 @@
 public
 .sass-cache
 .jekyll-metadata
-_foo
+_disabled
+.entries.yml
+.make_posts.rb
