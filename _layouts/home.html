@@ -55,7 +55,7 @@ layout: default
         </h3>
         {%- if post.entry.data.description -%}
           {{ post.entry.data.description | strip_html | truncate: 200 }}
-        {%- elsif post.entry.data.description -%}
+        {%- elsif post.entry.data.excerpt -%}
           {{ post.entry.data.excerpt | strip_html | truncate: 200 }}
         {%- else -%}
           {{ post.content | strip_html | truncate: 200 }}
