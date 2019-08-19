@@ -19,8 +19,8 @@ h5.job-date {
   margin-bottom: 0;
 }
 </style>
-[zack@steinkamp.us](mailto:zack@steinkamp.us)  
-[http://steinkamp.us/](http://steinkamp.us)  
+[zack@steinkamp.us](mailto:zack@steinkamp.us)
+[http://steinkamp.us/](http://steinkamp.us)
 San Jose, California
 
 About
