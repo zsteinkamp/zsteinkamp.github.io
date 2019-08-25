@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Systems of Working - The Role of Leadership
-date: '2019-08-11 23:09:30'
+date: '2019-08-24 23:09:30'
 categories: post
 entry:
   source: post
   data:
     thumb_url: ''
     title: Systems of Working - The Role of Leadership
-    excerpt: 'As a software development team, we should be relentness in our pursuit of efficiency. Not only in our algorithms, but more importantly in how our team gets work done. This document describes what I have learned in this area over the last 20 years.'
 ---
 There are as many systems of working as there are development teams. One
 important dimension in evaluating a system of working is identifying the role
