@@ -9,7 +9,7 @@ entry:
     thumb_url: ''
     title: On Dates
 ---
-There is a direct connection between distance to a commitment date and team morale.  The further out a given commitment is made, the more toxic that commitment is to the organization. Your job as the leader or member of a team is to ensure that team is as functional as possible and remains as functional into the future. You can do your part in ensuring the functionality, happiness, and productivity of your team by working outside the bounds of a due date.
+There is a direct connection between distance to a commitment date and team morale.  The further out a given commitment is made, the more toxic that commitment is to the organization. Your job as the leader or member of a team is to ensure that team is as functional as possible and remains as functional into the future. You can do your part in ensuring the functionality, happiness, and productivity of your team by reshaping your commitments away from far-future due dates.
 
 First, let's look at some typical scenarios:
 
@@ -19,7 +19,7 @@ In the real world, the final destination is a moving target. Perhaps the expecta
 By making a commitment far in the future, the team sets out on a course, blindly marching to the originally understood destination. If the team or organization is not aware of the actual moving target, where the team lands on that promised date is quite likely not where they should actually be. If they continue the original course, they will deliver the wrong thing. If they take an approach of learning and adapting in order to deliver the right thing, that original date commitment is most likely wrong.
 
 ### Over-Aggressive Commitment / Procrastination
-These are two sides of a similar situation, and both lead to team burnout and low quality. In this scenario, a delivery commitment is made and the team works at a normal or easy pace for the first 80% of the time commitment, typically finishing 50% of the project. The remaining 20% of the project duration is spent working nights and weekends and taking shortcuts to deliver the rest of the project on time. Perhaps this sounds familiar?
+These are two sides of a similar situation, and both lead to team burnout and low quality. In this scenario, a delivery commitment is made and the team works at a normal or easy pace for the first 80% of the time commitment, typically finishing 50% of the project. The remaining 20% of the project calendar is spent working nights and weekends and taking shortcuts to deliver the rest of the project on time. Perhaps this sounds familiar?
 
 Those nights and weekends are not yours to take from your team. That is your team members' valuable recharge time, time to connect with friends and family, and time to persue personal interests that are not your company's software project. By taking this recharge time from them, you are also taking away their enthusiasm to do their work. Believe it or not, software engineers are humans first.
 
@@ -37,11 +37,11 @@ Do everything in your capacity to __stop__ agreeing to dates far in the future. 
 
 You must begin __now__ to shape the relationships and commitments you make outside your team. It's important to have a roadmap or strategy sketched out before embarking on any large project, but that strategy needs to be re-evaluated on a regular and frequent basis to make sure it is correct in the present environment.
 
-Take your customers along with you on the journey. Help them understand the reality of the world of moving targets. Do not fall into the trrap of people leaning on you to perfectly predict the future. That is an unreasonable expectation, and you should not set yourself and your team up for failure like that.
+Take your customers along with you on the journey. Help them understand the reality of the world of moving targets. Do not fall into the trap of people leaning on you to perfectly predict the future. That is an unreasonable expectation, and you should not set yourself and your team up for failure like that.
 
 You will undoubtedly be pressed to name a date where the project will be "feature complete". Refuse to answer this question.
 
-Instead, make your customers and/or stakeholders a partner in your endeavor. __Do__ set up regular check-ins of progress, level setting, and goal alignment. Show them incremental progress. Help them understand the challenges your team is facing. Ask them for their help in resolving those challenges. Get their input on the team's priorities. (But make it clear that the team makes the final prioritization.)
+Instead, make your customers and/or stakeholders a partner in your endeavor. __Do__ set up regular check-ins of progress, level setting, and goal alignment. Show them incremental progress. Help them understand the challenges your team is facing. Ask them for their help in resolving those challenges. Get their input on the team's priorities. (But make it clear that the team makes the final prioritization.) Help your customer understand that they are getting value sooner, and the end product will be better.
 
 Invite your customers and stakeholders to your retrospectives so they can get to know your new, better, mode of working and expectaions setting. Help them see that their involvement at this level helps you deliver the most important value in the best order to them.
 
