@@ -35,9 +35,9 @@ If you are the hiring manager, understand what each interviewer brings to the ta
 ## Make a Plan
 Most software developers I know are nervous going into interviews. They see the 45 minutes with the candidate as an improvisational performance, and most (introvert) programmers wilt in such circumstances.
 
-The way to mitigate this nervousness is to draw up an agenda for the interview. To do that, first sync up with the hiring manager to understand if there are any specific focus areas they want you to cover. This is a good time to have a chat about the nature of the position they are trying to fill, and what the required skills or personality traits are for the position. Thwill give you guidance about other areas to probe with the candidate.
+The way to mitigate this nervousness is to draw up an agenda for the interview. To do that, first sync up with the hiring manager to understand if there are any specific focus areas they want you to cover. This is a good time to have a chat about the nature of the position they are trying to fill, and what the required skills or personality traits are for the position. This will give you guidance about other areas to probe with the candidate.
 
-From there, write down your agenda and bring it with you to the interview, using wall clock times so you don't have to do math on the fly in the interview. In the interview, have a way to easily keep an eye on time. Use your phone's clock as a last resort, and if you do, explain to the interviewee that you are just using your phone to keep track of time.
+From there, write down your agenda and bring it with you to the interview, using wall clock time so you don't have to do math on the fly in the interview. In the interview, have a way to easily keep an eye on time. Use your phone's clock as a last resort, and if you do, explain to the interviewee that you are just using your phone to keep track of time.
 
 Here is a typical agenda I will follow for a 45 minute non-coding interview, starting at 2pm:
 * 2:00 - 2:05 introduction

@@ -47,4 +47,12 @@ Invite your customers and stakeholders to your retrospectives so they can get to
 
 A stakeholder who feels like they are a partner in your teams' journey, who is receiving valuable incremental progress at regular intervals, who is involved in helping the team understand what is needed and when, will naturally stop pressing for dates far in the future. They will now understand and appreciate that the team faces unpredictable challenges and that they are __necessarily__ chasing a moving target. They know that they are a key ally in identifying the movement of that target and enjoy their helpful position in the team.
 
+## But wait! My dates are set in stone!
+*sigh* Yes, sometimes the date is totally immovable. Perhaps it's an industry conference, a public product launch, or there is a scheduled marketing blitz. These are factors that are decided and booked long in advance. The three variables in software delivery are capacity (team size), delivery date, and scope (feature set).
+
+If you have already forged a partnership with your customers/stakeholders, shaping the relationship so that they understand the incremental nature of software delivery, hopefully the scope of delivery at that due date is variable. This way, you can have your same high-performing team focused on delivering the most important features first. The due date is simply a point on the team's timeline where the value they have already delivered is shown.
+
+If the date is fixed and the scope is fixed, then you had better scale the team to the appropriate size, far enough in advance for the new members to become efficient, to hit the target. This situation is a justifiably wasteful one, since you will need to over-provision the team to guarantee the delivery. Otherwise, brace for a low quality / burnout situation.
+
+## Conclusion
 By eliminating the wasteful act of commiting to long-term dates, you will be maximizing your team's happiness, quality of output, accuracy of output, and deliver value far sooner. These are virtues of a high-functioning team.
