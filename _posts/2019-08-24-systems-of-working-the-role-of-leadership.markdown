@@ -13,6 +13,8 @@ There are as many systems of working as there are development teams. One
 important dimension in evaluating a system of working is identifying the role
 of leadership in the team.
 
+Here are a few systems of working that you may encounter in the wild:
+
 ### In this corner: Command and Control
 On one end of the leadership scale is what I call "Command and Control". This
 is the typical single-leader taskmaster model. In this system of working, there
@@ -70,3 +72,5 @@ Drawbacks:
 * Requires a mature, capable team (most are!)
 
 In my experience, this servant-led model yields the happiest, most productive teams that fit in with normal work culture.
+
+What team do you want to lead? What kind of leader do you want to be?

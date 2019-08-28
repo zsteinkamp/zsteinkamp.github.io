@@ -46,12 +46,12 @@ the team operates. What worked yesterday may not work today. Tomorow may bring
 new learning or innovation that brings us toward better efficiency. It is our
 job to identify these opportunities to improve efficiency and act on them.
 
-Be courageous, bold, and confident. Don't be afraid to experiment. It is all in
-the name of maximizing value.
-
 ## Regular Team Retrospectives
 Meet regularly as a team to discuss what is or is not efficient about your
 current way of working. Identify bottlenecks in the design. Suggest changes and
 commit to trying them before the next meeting. By dedicating a short time to
 this kind of healthy self-reflection, you will ensure your team is working
 in the way that is optimal to them and their environment.
+
+Be courageous, bold, and confident. Don't be afraid to experiment. It is all in
+the name of maximizing your team's value.
