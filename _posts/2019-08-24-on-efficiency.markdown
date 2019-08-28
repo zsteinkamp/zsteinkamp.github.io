@@ -41,7 +41,6 @@ more efficient. Similarly, a team who is at maximum efficiency within the
 constraints of one system of working may be more or less efficient in a
 different system of working.
 
-## Constant Evolution
 Our jobs as members of a team are to maintain a vigilance of skepticism for how
 the team operates. What worked yesterday may not work today. Tomorow may bring
 new learning or innovation that brings us toward better efficiency. It is our
