@@ -3,12 +3,37 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: No Surrender
+  date: March 2019
+  description:
+  - This song is just about inner resolve in the face of outside forces. The main vocal sample is from <a href="https://youtu.be/0BZ0LiIboSQ?t=895">J Rick's Against the Clock</a> video, in parallel with a vocoder. The other vocal parts are a one-note sample of Blixa Bargled from Einsturzende Neubauten's "Die Interimsliebenden", as well as a sample of the <a href="https://www.youtube.com/watch?v=r3pTaSe4c-s">amazing singing of Hamlet Gonashvili</a>. The initial sound is (believe it or not) a plucked rubber band wrapped around a plastic container through a filter whose cutoff is modulated by an envelope follower sidechained to a drum loop. The guitar part was just a sample of me strumming Marina's ukulele once, but played back at different pitches. This song is the biggest example for me of making my own loops ... I started another project and layered up some instruments and effects and just recorded several minutes of doing wacky things with the effects. I imported that audio into this project and chose several interesting sections from that. It was very liberating creatively, and I think leads to something more interesting that what I normally do. The clangy drums in the second half of the song are from a binaural recording I did of hitting a metal thing against my copper sink, then sliced up and sequenced.
+  soundcloudId: 770440822
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/no-surrender
+  spotifyUrl: https://open.spotify.com/track/5AejpEFudKqfaeI9KjDmaj?si=E5mSuQVVSASWg6WnGR-uXw
+
+- title: Hokkaido
+  date: February 2019
+  description:
+  - In March, 2011 a huge tsunami struck the east coast of Japan, killing 20,000 people and causing an explosion at a nuclear power plant. There are a ton of videos on YouTube, taken by people living near the coast, of this event. I fell into a rabbit hole of these videos and was struck at the sheer power nature has. Houses and buildings getting swept away like they were nothing. The intro of this song is a composite of maybe 10 different recordings, layered up with some extra white noise to build the feeling of this terrible event. It cuts suddenly to pure quiet, aside from the sound of the local crows and running water. The song moves to a mourning period, which grows increasingly organized, then intense rebuilding, then life continues with a new perspective, not forgetting the memories of what and who was lost.
+  soundcloudId: 753053392
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/hokkaido
+  spotifyUrl: https://open.spotify.com/track/3hJrhKw0TNQ0uXYJEQ4kV6?si=N70Swnb-QRGPD1fqLt1-RQ
+
+- title: A Field Trip
+  date: December 2019
+  description:
+  - I keep starting projects intended to be some kind of dark Dub-Techno. But they invariably evolve to something like this. I had lots of fun sequencing a 303 line for this one, inspired by Orbital's Diversions-era (1991) work. This one uses some samples from a German YouTube video, as well as the same field recording from Vasona's intro.
+  soundcloudId: 744766399
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/a-field-trip
+  spotifyUrl:
+
 - title: Purity of Essence
   date: November 2019
   description:
   - The title comes from the scribbles of the mad General Ripper from Dr. Strangelove. Samples from that movie as well as the Jonestown "Death Tape". Explores the idea of breaking free from mind control.
   soundcloudId: 708604996
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/purity-of-essence
+  spotifyUrl: https://open.spotify.com/track/78jeZQn5inm1wohnmSYXVR?si=Gcwc4wQBTEiy8y353VZ-Jw
 
 - title: Time Always Moving
   date: October 2019
@@ -16,6 +41,7 @@ data:
   - Vocal samples from a talk from Dalai Lama. Singing by me and Bahar. Opening chord from the outro chord of Robert Glasper's take on Smells Like Teen Spirit.
   soundcloudId: 691111939
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/time-always-moving
+  spotifyUrl: https://open.spotify.com/track/1N1trMh6PVjFgL0uU9XovG?si=w-peoDD2Qw2MhNLVwVhK2A
 
 - title: Mirror Image
   date: September 2019
@@ -23,13 +49,15 @@ data:
   - Samples from an episode of the Twilight Zone of the same name. Very proud of the "shit" break.
   soundcloudId: 682541162
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/mirror-image
+  spotifyUrl: https://open.spotify.com/track/1DQDhCnbBXnjURk1uxUMVS?si=GtvUi6HOSeKAzQ8TZt3nKg
 
 - title: On The Scene
   date: July 2019
   description:
-  - Most vocal samples from an a capella version of Michael Jackson's Billie Jean, if you can believe it.j
+  - Most vocal samples from an a capella version of Michael Jackson's Billie Jean, if you can believe it.
   soundcloudId: 652334420
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/on-the-scene
+  spotifyUrl: https://open.spotify.com/track/6KmKrQSlGWluHMxIRtfyPN?si=QOqNwVifT2GADQroXfTiPQ
 
 - title: Vii
   date: July 2019
@@ -37,6 +65,7 @@ data:
   - Ariana Grande provides the belted note that moves from a fake male to female persona.
   soundcloudId: 648844877
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/vii
+  spotifyUrl: https://open.spotify.com/track/6AJP1gmjxb9Dfv9qB12iSz?si=xPTRZKJ5TpGa13OsvS9yJA
 
 - title: Rf5
   date: June 2019
@@ -44,6 +73,7 @@ data:
   - Pretty unremarkable song. Vocals by me.
   soundcloudId: 634287117
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/rf5
+  spotifyUrl: https://open.spotify.com/track/7jKD7Q9lUzA1xBieGHL4jh?si=Ce2G1iRHTEGv44zV1xn1gA
 
 - title: Seven
   date: May 2019
@@ -51,6 +81,7 @@ data:
   - Naomi wrote a poem for her 5th grade class that blew me away. I had her read it and used those samples as the basis of this song.
   soundcloudId: 616882305
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/seven
+  spotifyUrl: https://open.spotify.com/track/6oocwvCRt2G1lLO1k8DT67?si=4I56wcCxQ3iEs4xc-l4PpA
 
 - title: Vasona
   date: April 2019
@@ -58,6 +89,7 @@ data:
   - Opening samples of some kids hiking on a field trip in Sunol Regional Wilderness.
   soundcloudId: 610034571
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/vasona
+  spotifyUrl: https://open.spotify.com/track/2SqC6l6xNPGSdoYuC1aekU?si=BmD9Imj7QhKtjzOLKoMSyA
 
 - title: Staying
   date: March 2019
@@ -65,13 +97,15 @@ data:
   - More samples from Sunol Regional Wilderness, made with Sennheiser binaural mics.
   soundcloudId: 591695475
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/staying
+  spotifyUrl: https://open.spotify.com/track/7fMxXEn8naoBgxLITazbWA?si=3RCo9Om6SWaR0iELdqi9pw
 
 - title: Clos3
   date: March 2019
   description:
-  - My attempt at making a minimal dub techno song. Submitted to DFRNT's Insight Podcast, and played in episode 170 :)
+  - My attempt at making a minimal dub techno song. Submitted to DFRNT's Insight Podcast, and <a href="http://insightpodcast.com/episode/insight-podcast-171/">played in episode 171</a> :)
   soundcloudId: 582495174
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/close3
+  spotifyUrl: https://open.spotify.com/track/5vace7Am2MuiQpZ7vvK8oF?si=eBagRHpiQWaanKuJsyAPHQ
 
 - title: Gus
   date: February 2019
@@ -79,6 +113,7 @@ data:
   - Inspired by Biggi from Gus Gus' video tutorial on how he makes one of their sound effects. Took it from there.
   soundcloudId: 577186392
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/gus
+  spotifyUrl: https://open.spotify.com/track/7gxCuBR8arTQ0OOJ9NaJyw?si=n9sqCmogSL-8DxVeWchjTA
 
 - title: Hogan's Gambit
   date: January 2019
@@ -87,7 +122,7 @@ data:
   soundcloudId: 565725144
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/hogans-gambit
   itunesUrl: https://itunes.apple.com/us/album/metalkit-a-single/1446704940
-  spotifyUrl:
+  spotifyUrl: https://open.spotify.com/track/46jMHrEdfVgqUaL3bK0Nxo?si=nUu4x5ybQmuNW7wfm1X3AQ
 
 - title: Metalkit-A
   date: December 2018
@@ -96,7 +131,7 @@ data:
   soundcloudId: 544240356
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/metalkit-a
   itunesUrl: https://itunes.apple.com/us/album/metalkit-a-single/1446704940
-  spotifyUrl:
+  spotifyUrl: https://open.spotify.com/track/2aNhUan9pkRfjjbYd7OT5L?si=fSPYz-4WRcaqPeHlWzNT_A
 
 - title: Sea of Love
   date: October 2018
@@ -347,7 +382,7 @@ data:
   <div>
     {{song.title}} on
     <a href="{{song.bandcampUrl}}">Bandcamp</a> /
-    <a href="{{song.itunesUrl}}">iTunes</a> /
+    <!-- <a href="{{song.itunesUrl}}">iTunes</a> / -->
     <a href="{{song.spotifyUrl}}">Spotify</a>
   </div>
 </div>
