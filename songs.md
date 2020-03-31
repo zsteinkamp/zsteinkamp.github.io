@@ -3,8 +3,14 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
-- title: No Surrender
+- title: Shelter
   date: March 2019
+  description:
+  - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by Hainbach's "Isolation Loops" project, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persion music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beatin places.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/shelter
+
+- title: No Surrender
+  date: March 2020
   description:
   - This song is just about inner resolve in the face of outside forces. The main vocal sample is from <a href="https://youtu.be/0BZ0LiIboSQ?t=895">J Rick's Against the Clock</a> video, in parallel with a vocoder. The other vocal parts are a one-note sample of Blixa Bargled from Einsturzende Neubauten's "Die Interimsliebenden", as well as a sample of the <a href="https://www.youtube.com/watch?v=r3pTaSe4c-s">amazing singing of Hamlet Gonashvili</a>. The initial sound is (believe it or not) a plucked rubber band wrapped around a plastic container through a filter whose cutoff is modulated by an envelope follower sidechained to a drum loop. The guitar part was just a sample of me strumming Marina's ukulele once, but played back at different pitches. This song is the biggest example for me of making my own loops ... I started another project and layered up some instruments and effects and just recorded several minutes of doing wacky things with the effects. I imported that audio into this project and chose several interesting sections from that. It was very liberating creatively, and I think leads to something more interesting that what I normally do. The clangy drums in the second half of the song are from a binaural recording I did of hitting a metal thing against my copper sink, then sliced up and sequenced.
   soundcloudId: 770440822
@@ -12,7 +18,7 @@ data:
   spotifyUrl: https://open.spotify.com/track/5AejpEFudKqfaeI9KjDmaj?si=E5mSuQVVSASWg6WnGR-uXw
 
 - title: Hokkaido
-  date: February 2019
+  date: February 2020
   description:
   - In March, 2011 a huge tsunami struck the east coast of Japan, killing 20,000 people and causing an explosion at a nuclear power plant. There are a ton of videos on YouTube, taken by people living near the coast, of this event. I fell into a rabbit hole of these videos and was struck at the sheer power nature has. Houses and buildings getting swept away like they were nothing. The intro of this song is a composite of maybe 10 different recordings, layered up with some extra white noise to build the feeling of this terrible event. It cuts suddenly to pure quiet, aside from the sound of the local crows and running water. The song moves to a mourning period, which grows increasingly organized, then intense rebuilding, then life continues with a new perspective, not forgetting the memories of what and who was lost.
   soundcloudId: 753053392
