@@ -6,7 +6,7 @@ data:
 - title: Shelter
   date: March 2019
   description:
-  - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by Hainbach's "Isolation Loops" project, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persion music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beatin places.
+  - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by Hainbach's "Isolation Loops" project, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persian music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beatin places.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/shelter
 
 - title: No Surrender
@@ -382,14 +382,17 @@ data:
   <h4 class="songdate">{{song.date}}</h4>
   <h1>{{song.title}}</h1>
   {%- for paragraph in song.description -%}
-  <p>{{paragraph}}</p>
+    <p>{{paragraph}}</p>
   {%- endfor -%}
-  <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{song.soundcloudId}}&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&visual=true" ></iframe>
+  {%- if song.soundcloudId -%}
+    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{song.soundcloudId}}&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&visual=true" ></iframe>
+  {%- endif -%}
   <div>
     {{song.title}} on
-    <a href="{{song.bandcampUrl}}">Bandcamp</a> /
-    <!-- <a href="{{song.itunesUrl}}">iTunes</a> / -->
-    <a href="{{song.spotifyUrl}}">Spotify</a>
+    <a href="{{song.bandcampUrl}}">Bandcamp</a>
+    {%- if song.spotifyUrl -%}
+      / <a href="{{song.spotifyUrl}}">Spotify</a>
+    {%- endif -%}
   </div>
 </div>
 {%- endfor -%}
