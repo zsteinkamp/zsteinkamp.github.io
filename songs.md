@@ -3,11 +3,23 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Herbie
+  date: April 2020
+  description:
+  - I don't have many heroes, but Herbie is one of them, and has been since I was a kid. The first music I ever purchased was a cassette of his album "Future Shock", which contained the absolutely mind blowing song <a href="https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So?si=xC2QaUDiT-CYLOJbcu39Qg">Rockit</a>. At the time I had no idea of Herbie's importance in the world of music, just that it was the coolest, most future-facing stuff I had ever heard. As I got older, I started to hear and appreciate more of his music, especially his work in the early 70s and with Miles Davis in the 60s. My mind was even more blown when I learned that one of my other favorite musicians, Bill Laswell, played bass on Rockit. :mind blown:
+ - I was lucky enough to see him live in Oakland in 2018. Have a look at someone else's video of one of the songs from that performance <a href="https://www.youtube.com/watch?v=2DoHL5flufI">here</a>.
+ - In 2017, Herbie gave a series of lectures on "The Ethics of Jazz" at Harvard University. Listening to him really exposed his depth of character to me. The <a href="https://youtu.be/awboZv5IiTE?t=630">lecture the vocals this song borrows from</a> is Herbie talking about how people are oftentimes reduced to one or two characteristics, usually related to their career or main hobby. His point is that a person is much more than this veneer, and by understanding and exploring our own complexity and nuance, we can unlock so many more possibilities in life.
+ - Jump to 26:30 hear him play some magic on the piano. :)
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/herbie
+  soundcloudId: 794092843
+
 - title: Shelter
-  date: March 2019
+  date: March 2020
   description:
   - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by <a href="https://hainbach.bandcamp.com/album/isolation-loops-soundpack">Hainbach's "Isolation Loops" project</a>, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persian music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beat in places.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/shelter
+  soundcloudId: 787799830
+  spotifyUrl: https://open.spotify.com/track/4iULUi1CGxvHashkEriRhz?si=Ni7IZaF8Que9ssC5gzBSJA
 
 - title: No Surrender
   date: March 2020
