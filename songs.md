@@ -22,12 +22,12 @@ data:
   - In 2017, Herbie gave a series of lectures on "The Ethics of Jazz" at Harvard University. Listening to him really exposed his depth of character to me. The <a href="https://youtu.be/awboZv5IiTE?t=630">lecture the vocals this song borrows from</a> is Herbie talking about how people are oftentimes reduced to one or two characteristics, usually related to their career or main hobby. His point is that a person is much more than this veneer, and by understanding and exploring our own complexity and nuance, we can unlock so many more possibilities in life.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/herbie
   soundcloudId: 794092843
+  spotifyUrl: https://open.spotify.com/track/0DB9RpIciLAjusvGRTR2ww?si=J4LQkUB_SlOySqjsvYBNOw
 
 - title: Shelter
   date: March 2020
   description:
   - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by <a href="https://hainbach.bandcamp.com/album/isolation-loops-soundpack">Hainbach's "Isolation Loops" project</a>, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persian music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beat in places.
-  soundcloudId: 787799830
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/shelter
   soundcloudId: 787799830
   spotifyUrl: https://open.spotify.com/track/4iULUi1CGxvHashkEriRhz?si=Ni7IZaF8Que9ssC5gzBSJA
