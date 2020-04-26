@@ -44,7 +44,7 @@ data:
   date: February 2020
   description:
   - In March, 2011 a huge tsunami struck the east coast of Japan, killing 20,000 people and causing an explosion at a nuclear power plant. There are a ton of videos on YouTube, taken by people living near the coast, of this event. I fell into a rabbit hole of these videos and was struck at the sheer power nature has. Houses and buildings getting swept away like they were nothing. The intro of this song is a composite of maybe 10 different recordings, layered up with some extra white noise to build the feeling of this terrible event. It cuts suddenly to pure quiet, aside from the sound of the local crows and running water. The song moves to a mourning period, which grows increasingly organized, then intense rebuilding, then life continues with a new perspective, not forgetting the memories of what and who was lost.
-  soundcloudId: 753053392
+  bandcampId: 398151403
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/hokkaido
   spotifyUrl: https://open.spotify.com/track/3hJrhKw0TNQ0uXYJEQ4kV6?si=N70Swnb-QRGPD1fqLt1-RQ
 
@@ -52,7 +52,7 @@ data:
   date: December 2019
   description:
   - I keep starting projects intended to be some kind of dark Dub-Techno. But they invariably evolve to something like this. I had lots of fun sequencing a 303 line for this one, inspired by Orbital's Diversions-era (1991) work. This one uses some samples from a German YouTube video, as well as the same field recording from Vasona's intro.
-  soundcloudId: 744766399
+  bandcampId: 3058084611
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/a-field-trip
   spotifyUrl:
 
@@ -60,7 +60,7 @@ data:
   date: November 2019
   description:
   - The title comes from the scribbles of the mad General Ripper from Dr. Strangelove. Samples from that movie as well as the Jonestown "Death Tape". Explores the idea of breaking free from mind control.
-  soundcloudId: 708604996
+  bandcampId: 860875510
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/purity-of-essence
   spotifyUrl: https://open.spotify.com/track/78jeZQn5inm1wohnmSYXVR?si=Gcwc4wQBTEiy8y353VZ-Jw
 
@@ -68,7 +68,7 @@ data:
   date: October 2019
   description:
   - Vocal samples from a talk from Dalai Lama. Singing by me and Bahar. Opening chord from the outro chord of Robert Glasper's take on Smells Like Teen Spirit.
-  soundcloudId: 691111939
+  bandcampId: 3447973436
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/time-always-moving
   spotifyUrl: https://open.spotify.com/track/1N1trMh6PVjFgL0uU9XovG?si=w-peoDD2Qw2MhNLVwVhK2A
 
@@ -76,7 +76,7 @@ data:
   date: September 2019
   description:
   - Samples from an episode of the Twilight Zone of the same name. Very proud of the "shit" break.
-  soundcloudId: 682541162
+  bandcampId: 1084104089
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/mirror-image
   spotifyUrl: https://open.spotify.com/track/1DQDhCnbBXnjURk1uxUMVS?si=GtvUi6HOSeKAzQ8TZt3nKg
 
@@ -84,7 +84,7 @@ data:
   date: July 2019
   description:
   - Most vocal samples from an a capella version of Michael Jackson's Billie Jean, if you can believe it.
-  soundcloudId: 652334420
+  bandcampId: 1816838587
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/on-the-scene
   spotifyUrl: https://open.spotify.com/track/6KmKrQSlGWluHMxIRtfyPN?si=QOqNwVifT2GADQroXfTiPQ
 
@@ -92,7 +92,7 @@ data:
   date: July 2019
   description:
   - Ariana Grande provides the belted note that moves from a fake male to female persona.
-  soundcloudId: 648844877
+  bandcampId: 2219388604
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/vii
   spotifyUrl: https://open.spotify.com/track/6AJP1gmjxb9Dfv9qB12iSz?si=xPTRZKJ5TpGa13OsvS9yJA
 
@@ -100,7 +100,7 @@ data:
   date: June 2019
   description:
   - Pretty unremarkable song. Vocals by me.
-  soundcloudId: 634287117
+  bandcampId: 4265322575
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/rf5
   spotifyUrl: https://open.spotify.com/track/7jKD7Q9lUzA1xBieGHL4jh?si=Ce2G1iRHTEGv44zV1xn1gA
 
@@ -108,7 +108,7 @@ data:
   date: May 2019
   description:
   - Naomi wrote a poem for her 5th grade class that blew me away. I had her read it and used those samples as the basis of this song.
-  soundcloudId: 616882305
+  bandcampId: 2714087663
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/seven
   spotifyUrl: https://open.spotify.com/track/6oocwvCRt2G1lLO1k8DT67?si=4I56wcCxQ3iEs4xc-l4PpA
 
@@ -116,7 +116,7 @@ data:
   date: April 2019
   description:
   - Opening samples of some kids hiking on a field trip in Sunol Regional Wilderness.
-  soundcloudId: 610034571
+  bandcampId: 3872026873
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/vasona
   spotifyUrl: https://open.spotify.com/track/2SqC6l6xNPGSdoYuC1aekU?si=BmD9Imj7QhKtjzOLKoMSyA
 
@@ -124,7 +124,7 @@ data:
   date: March 2019
   description:
   - More samples from Sunol Regional Wilderness, made with Sennheiser binaural mics.
-  soundcloudId: 591695475
+  bandcampId: 1247069892
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/staying
   spotifyUrl: https://open.spotify.com/track/7fMxXEn8naoBgxLITazbWA?si=3RCo9Om6SWaR0iELdqi9pw
 
@@ -132,7 +132,7 @@ data:
   date: March 2019
   description:
   - My attempt at making a minimal dub techno song. Submitted to DFRNT's Insight Podcast, and <a href="http://insightpodcast.com/episode/insight-podcast-171/">played in episode 171</a> :)
-  soundcloudId: 582495174
+  bandcampId: 3257246113
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/close3
   spotifyUrl: https://open.spotify.com/track/5vace7Am2MuiQpZ7vvK8oF?si=eBagRHpiQWaanKuJsyAPHQ
 
@@ -408,7 +408,7 @@ data:
     <p>{{paragraph}}</p>
   {%- endfor -%}
   {%- if song.bandcampId -%}
-    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track={{song.bandcampId}}/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
+    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track={{song.bandcampId}}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
   {%- endif -%}
   {%- if song.soundcloudId -%}
     <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{song.soundcloudId}}&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&visual=true" ></iframe>
