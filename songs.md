@@ -3,13 +3,23 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Notes Roar
+  date: April 2020
+  description:
+  - In trying my best to make the most of all the time at home, I had an idea to use Ableton Live's "Resonators" effect to make noises. This song was mostly an exercise in sound-making but the sounds were too neat to just leave alone.
+  - The Resonators effect gives you a set of five oscillators that are excited by input audio at a certain frequency and make noise. By using the Max4Live device called <a href="https://www.maxforlive.com/library/device/3084/bcresonctrl">bcResonCtrl</a>, you can have MIDI notes control the pitches of the resonators. I also used some generative devices to get started with some odd chords, and laid down a single track of chords that feeds 4 tracks of resonators. With this setup, you can spend a LOT of time having fun making noises with objects, drums, and singing into a mic and having it come out music.
+  - This song has a sample from an interview with Miles Davis where he was asked about a big collaboration he had mentioned in an earlier interview, but it never happened because it was "too heavy".
+  - The rest of the tracks are sounds made by me -- vocals, percussion, synths, etc.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/notes-roar
+  bandcampId: 2566341123
+
 - title: Herbie
   date: April 2020
   description:
   - I don't have many heroes, but Herbie is one of them, and has been since I was a kid. The first music I ever purchased was a cassette of his album "Future Shock", which contained the absolutely mind blowing song <a href="https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So?si=xC2QaUDiT-CYLOJbcu39Qg">Rockit</a>. At the time I had no idea of Herbie's importance in the world of music, just that it was the coolest, most future-facing stuff I had ever heard. As I got older, I started to hear and appreciate more of his music, especially his work in the early 70s and with Miles Davis in the 60s. My mind was even more blown when I learned that one of my other favorite musicians, Bill Laswell, played bass on Rockit. :mind blown:
- - I was lucky enough to see him live in Oakland in 2018. Have a look at someone else's video of one of the songs from that performance <a href="https://www.youtube.com/watch?v=2DoHL5flufI">here</a>.
- - In 2017, Herbie gave a series of lectures on "The Ethics of Jazz" at Harvard University. Listening to him really exposed his depth of character to me. The <a href="https://youtu.be/awboZv5IiTE?t=630">lecture the vocals this song borrows from</a> is Herbie talking about how people are oftentimes reduced to one or two characteristics, usually related to their career or main hobby. His point is that a person is much more than this veneer, and by understanding and exploring our own complexity and nuance, we can unlock so many more possibilities in life.
- - Jump to 26:30 hear him play some magic on the piano. :)
+  - I was lucky enough to see him live in Oakland in 2018. Have a look at someone else's video of one of the songs from that performance <a href="https://www.youtube.com/watch?v=2DoHL5flufI">here</a>.
+  - In 2017, Herbie gave a series of lectures on "The Ethics of Jazz" at Harvard University. Listening to him really exposed his depth of character to me. The <a href="https://youtu.be/awboZv5IiTE?t=630">lecture the vocals this song borrows from</a> is Herbie talking about how people are oftentimes reduced to one or two characteristics, usually related to their career or main hobby. His point is that a person is much more than this veneer, and by understanding and exploring our own complexity and nuance, we can unlock so many more possibilities in life.
+  - Jump to 26:30 hear him play some magic on the piano. :)
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/herbie
   soundcloudId: 794092843
 
@@ -396,6 +406,9 @@ data:
   {%- for paragraph in song.description -%}
     <p>{{paragraph}}</p>
   {%- endfor -%}
+  {%- if song.bandcampId -%}
+    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track={{song.bandcampId}}/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
+  {%- endif -%}
   {%- if song.soundcloudId -%}
     <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{song.soundcloudId}}&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&visual=true" ></iframe>
   {%- endif -%}
