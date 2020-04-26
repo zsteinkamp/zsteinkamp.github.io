@@ -21,7 +21,7 @@ data:
   - I was lucky enough to see him live in Oakland in 2018. Have a look at someone else's video of one of the songs from that performance <a href="https://www.youtube.com/watch?v=2DoHL5flufI">here</a>.
   - In 2017, Herbie gave a series of lectures on "The Ethics of Jazz" at Harvard University. Listening to him really exposed his depth of character to me. The <a href="https://youtu.be/awboZv5IiTE?t=630">lecture the vocals this song borrows from</a> is Herbie talking about how people are oftentimes reduced to one or two characteristics, usually related to their career or main hobby. His point is that a person is much more than this veneer, and by understanding and exploring our own complexity and nuance, we can unlock so many more possibilities in life.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/herbie
-  soundcloudId: 794092843
+  bandcampId: 3082610381
   spotifyUrl: https://open.spotify.com/track/0DB9RpIciLAjusvGRTR2ww?si=J4LQkUB_SlOySqjsvYBNOw
 
 - title: Shelter
@@ -29,14 +29,14 @@ data:
   description:
   - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by <a href="https://hainbach.bandcamp.com/album/isolation-loops-soundpack">Hainbach's "Isolation Loops" project</a>, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persian music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beat in places.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/shelter
-  soundcloudId: 787799830
+  bandcampId: 97429605
   spotifyUrl: https://open.spotify.com/track/4iULUi1CGxvHashkEriRhz?si=Ni7IZaF8Que9ssC5gzBSJA
 
 - title: No Surrender
   date: March 2020
   description:
   - This song is just about inner resolve in the face of outside forces. The main vocal sample is from <a href="https://youtu.be/0BZ0LiIboSQ?t=895">J Rick's Against the Clock</a> video, in parallel with a vocoder. The other vocal parts are a one-note sample of Blixa Bargled from Einsturzende Neubauten's "Die Interimsliebenden", as well as a sample of the <a href="https://www.youtube.com/watch?v=r3pTaSe4c-s">amazing singing of Hamlet Gonashvili</a>. The initial sound is (believe it or not) a plucked rubber band wrapped around a plastic container through a filter whose cutoff is modulated by an envelope follower sidechained to a drum loop. The guitar part was just a sample of me strumming Marina's ukulele once, but played back at different pitches. This song is the biggest example for me of making my own loops ... I started another project and layered up some instruments and effects and just recorded several minutes of doing wacky things with the effects. I imported that audio into this project and chose several interesting sections from that. It was very liberating creatively, and I think leads to something more interesting that what I normally do. The clangy drums in the second half of the song are from a binaural recording I did of hitting a metal thing against my copper sink, then sliced up and sequenced.
-  soundcloudId: 770440822
+  bandcampId: 3477469473
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/no-surrender
   spotifyUrl: https://open.spotify.com/track/5AejpEFudKqfaeI9KjDmaj?si=E5mSuQVVSASWg6WnGR-uXw
 
