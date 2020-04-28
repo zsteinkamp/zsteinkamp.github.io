@@ -76,7 +76,7 @@ data:
 - title: Mirror Image
   date: September 2019
   description:
-  - Samples from an episode of the Twilight Zone of the same name. Very proud of the "shit" break.
+  - Samples from an episode of the Twilight Zone of the same name. Very proud of the "shit" break. The intro drums and hihats are from <a href="https://youtu.be/vPBirt1YhuM?t=310">Jacob Collier's awesome Tiny Desk Concert</a>.
   bandcampId: 1084104089
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/mirror-image
   spotifyUrl: https://open.spotify.com/track/1DQDhCnbBXnjURk1uxUMVS?si=GtvUi6HOSeKAzQ8TZt3nKg
