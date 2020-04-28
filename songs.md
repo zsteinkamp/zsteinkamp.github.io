@@ -12,6 +12,7 @@ data:
   - The rest of the tracks are sounds made by me -- vocals, percussion, synths, etc.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/notes-roar
   bandcampId: 2566341123
+  spotifyUrl: https://open.spotify.com/track/0kPTEsYm3jpDcoP3378UdU?si=VQVfbuAqTEq3NPp0mVoAxg
 
 - title: Herbie
   date: April 2020
