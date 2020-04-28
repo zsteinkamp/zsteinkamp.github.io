@@ -416,9 +416,9 @@ data:
   {%- endif -%}
   <div>
     {{song.title}} on
-    <a href="{{song.bandcampUrl}}">Bandcamp</a>
+    <a href="{{song.bandcampUrl}}">Bandcamp</a> 
     {%- if song.spotifyUrl -%}
-      / <a href="{{song.spotifyUrl}}">Spotify</a>
+    &nbsp;/ <a href="{{song.spotifyUrl}}">Spotify</a>
     {%- endif -%}
   </div>
 </div>
