@@ -68,7 +68,7 @@ data:
 - title: Time Always Moving
   date: October 2019
   description:
-  - Vocal samples from a talk from Dalai Lama. Singing by me and Bahar. Opening chord from the outro chord of Robert Glasper's take on Smells Like Teen Spirit.
+  - Vocal samples from a talk from Dalai Lama. Singing by me and Bahar. Opening chord from the outro chord of <a href="https://www.youtube.com/watch?v=WudaLBOCrBE">Robert Glasper's take on Smells Like Teen Spirit</a>.
   bandcampId: 3447973436
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/time-always-moving
   spotifyUrl: https://open.spotify.com/track/1N1trMh6PVjFgL0uU9XovG?si=w-peoDD2Qw2MhNLVwVhK2A
@@ -84,7 +84,7 @@ data:
 - title: On The Scene
   date: July 2019
   description:
-  - Most vocal samples from an a capella version of Michael Jackson's Billie Jean, if you can believe it.
+  - Most vocal samples from an a capella version of Michael Jackson's Billie Jean, if you can believe it. It's amazing to me that I can remove his pitch variation, shift to another key, slow it down or speed it up, and there is still so much character in his voice.
   bandcampId: 1816838587
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/on-the-scene
   spotifyUrl: https://open.spotify.com/track/6KmKrQSlGWluHMxIRtfyPN?si=QOqNwVifT2GADQroXfTiPQ
@@ -124,7 +124,7 @@ data:
 - title: Staying
   date: March 2019
   description:
-  - More samples from Sunol Regional Wilderness, made with Sennheiser binaural mics.
+  - More samples from Sunol Regional Wilderness, made with Sennheiser binaural mics. Bahar and I had fun clapping at each other next to the old green barn.
   bandcampId: 1247069892
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/staying
   spotifyUrl: https://open.spotify.com/track/7fMxXEn8naoBgxLITazbWA?si=3RCo9Om6SWaR0iELdqi9pw
@@ -132,7 +132,7 @@ data:
 - title: Clos3
   date: March 2019
   description:
-  - My attempt at making a minimal dub techno song. Submitted to DFRNT's Insight Podcast, and <a href="http://insightpodcast.com/episode/insight-podcast-171/">played in episode 171</a> :)
+  - My attempt at making a minimal dub techno song. Submitted to DFRNT's Insight Podcast, and <a href="http://insightpodcast.com/episode/insight-podcast-171/">played in episode 171</a>. :)
   bandcampId: 3257246113
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/close3
   spotifyUrl: https://open.spotify.com/track/5vace7Am2MuiQpZ7vvK8oF?si=eBagRHpiQWaanKuJsyAPHQ
@@ -169,6 +169,7 @@ data:
   - A while back I was running by the railroad tracks near my house and had the idea to use a sample from the Honeydrippers' version of Sea of Love, specifically the "I" in "I want to tell you...". The way Robert Plant sang that has so much character, I thought it could be the basis of something else. I took more samples than that from the song and made something very different from it.
   - Bahar sent me a recording she made of the parrots that live in our neighborhood, and that became the intro.
   - The main melody sound is a note sampled from the Stylophone that Derek gave me many years ago. Other sounds are egg shakers I keep at my music desk, the squeaky shelf that seems to get play in all my songs, and other synth sounds I made.
+  - The song is about Bahar and I and the feelings we share.
   soundcloudId: 511853454
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/sea-of-love
   itunesUrl: https://itunes.apple.com/us/album/sea-of-love-single/1438590052
