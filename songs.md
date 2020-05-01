@@ -404,7 +404,7 @@ data:
 {%- for song in page.data -%}
 <div class="song">
   <h4 class="songdate">{{song.date}}</h4>
-  <h1>{{song.title}}</h1>
+  <h1><a name="{{ song.title | downcase | replace: " ", "-" | replace: "'", "" }}"></a>{{song.title}}</h1>
   {%- for paragraph in song.description -%}
     <p>{{paragraph}}</p>
   {%- endfor -%}
