@@ -413,6 +413,7 @@ data:
   line-height:36px;
 }
 </style>
+<p>One of my hobbies is music-making. I like to record sounds and make instruments out of them, or design new sounds with synthesizers. I used to have a room full of equipment, but now I just use a laptop and some external MIDI controllers. If you use Spotify, you can <a href="https://open.spotify.com/playlist/5s96egT8OPl3O3bMlk04qp?si=idq446saSgiDHgX43wsONw">add my playlist</a>, which I keep up to date with new music I release. I post new songs here, along with a short description of the origin and construction of the song.</p>
 {%- for song in page.data -%}
 <div class="song">
   <h4 class="songdate">{{song.date}}</h4>
