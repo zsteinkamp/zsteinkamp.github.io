@@ -3,6 +3,17 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Thay
+  date: May 2020
+  description:
+  - This song was just music before there were any words on top of it. I set out to make an ambient piece with no beats, but I just can't help myself. After making the initial pad sound (piano reverb tail -- the oldest trick in the ambient book), I sequenced a fun kick pattern with some filtered delay on it, and the rest just took shape from there.
+  - This song uses resonators some more, particularly in the 2nd half. To me, the squelchy resonator noises represent our internal fight against calm and ease.
+  - The vocal is from a <a href="https://www.youtube.com/watch?v=XHvtIcaD194">guided meditation</a> from Zen master <a href="https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh">Thich Nhat Hanh</a>, who is also known as <i>Thay</i> or Teacher. I think we can all use some calm/ease these days.
+  - I think Thich's words are both simple and profound:<em><blockquote>Breathing in, I know I'm breathing in.<br/>Breathing out, I kknow I'm breathing out.<br/>In, out.<br/><br/>Breathing in, I notice that my in-breath has become deep.<br/>Breathing out, I notice that my out-breath has become slow.<br/>Deep, slow. Enjoy.<br/><br/>Breathing in, I calm my body and my mind.<br/>Breathing out, I ease everything.<br/>Calm, ease.<br/><br/>Breathing in, I smile.<br/>Nothing is as important as my peace; my joy.<br/>I smile through everything.<br/>Even my through my suffering; through my difficulties.<br/>Breathing out, I release; I let go.<br/>This is a practice of freedom.<br/>Smile, release.</blockquote></em>
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/thay
+  bandcampId: 2957555474
+  spotifyUrl: https://open.spotify.com/track/3hpAtl32IR9tn1GyeKGxhk?si=K8HVCk5ORP29MEyjxqrNbw
+
 - title: Notes Roar
   date: April 2020
   description:
