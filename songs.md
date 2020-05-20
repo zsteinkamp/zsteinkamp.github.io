@@ -3,6 +3,13 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: NGC1277
+  date: May 2020
+  description:
+  - The title refers to a galaxy that was once thought to revolve around a supermassive black hole. The software plugin <a href="https://valhalladsp.com/shop/reverb/valhalla-supermassive/">Supermassive from Valhalla DSP</a> was released today for free. It's amazing. I used some different techniques than normal for this track, namely chopping a resampled recording into 1-2 bar chunks and mapping them to sampler keys. The source sound was a simple Operator patch put through Supermassive then to OTT. I like how this song is less normal than what I normally do.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/ngc1277
+  bandcampId: 1661168569
+
 - title: Thay
   date: May 2020
   description:
