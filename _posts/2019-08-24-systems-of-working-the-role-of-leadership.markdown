@@ -51,15 +51,17 @@ Drawbacks:
 * Other parts of the organization (Finance, HR, other dev teams) may not know how to work with such a team.
 * At its extreme, the role of the people-manager becomes unclear, especially regarding reviews and compensation.
 
-### Somewhere in the middle: Servant-Lead Team
-At some point between these two extremes is a model that I call a "Servant-Led
-Team". This is a team with a manager whose top concern is simply the
-empowerment of their team. Empowerment has many contexts -- in technical
-decisions, roles and responsibilities, work style, hours, communication
-mechanisms, tools, policies, etc. This is the model where the org chart looks
-more like a tree, where the trunk, limbs, and branches exist only to position
-the leaves and flowers for maximum effectiveness. The manager is judged on the
-improvement vector of their team and their team's ability to satisfy the needs of the business.
+### Somewhere in the middle: People Garden
+At some point between these two extremes is a model that I call a "People
+Garden". This is a team with a manager (gardener) whose top concern is simply
+the growth of their team. Growth has many contexts -- empowerment, capability,
+maturity, depth, emotional intelligence, etc. The team collectively shapes
+its roles and responsibilities, work style, hours, communication
+mechanisms, tools, policies, etc. This is the model where the org chart
+looks less like a power structure and more like a tree -- where the trunk,
+limbs, and branches exist only to position the leaves and flowers for
+maximum effectiveness. The manager is judged on the improvement vector of their
+team and their team's ability to satisfy the needs of the business.
 
 Benefits:
 * Grows an engaged team of expanding capability.
@@ -71,6 +73,6 @@ Drawbacks:
 * May not work well with expectations of the rest of the business.
 * Requires a mature, capable team (most are!)
 
-In my experience, this servant-led model yields the happiest, most productive teams that fit in with normal work culture.
+In my experience, the People Garden yields the happiest, most productive teams that fit in with normal work culture.
 
 What team do you want to lead? What kind of leader do you want to be?
