@@ -19,30 +19,27 @@ h5.job-date {
   margin-bottom: 0;
 }
 </style>
-[zack@steinkamp.us](mailto:zack@steinkamp.us)
-[http://steinkamp.us/](http://steinkamp.us)
+[zack@steinkamp.us](mailto:zack@steinkamp.us)  
+[http://steinkamp.us/](http://steinkamp.us)  
 San Jose, California
 
-About
--
+# About
 I have been building things for the web since 1994, and at scale since 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, datacenters, people management, hiring, and work flow optimization. I am [not currently] seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
 
-Skill Summary
--
-Programming Languages
-: C, C++, Java, Javascript, Perl, PHP, Python, Ruby
+# Skill Summary
+*Programming Languages*  
+C, C++, Java, Javascript, Perl, PHP, Python, Ruby
 
-Operating Systems
-: Linux, Mac OS X
+*Operating Systems*  
+Linux, Mac OS X
 
-Concepts
-: Performance, Scalability, Fault-Tolerance, Security, Real-Time Data, Efficient Software Factory, Building Powerful, Happy, and Productive Teams
+*Concepts*  
+Performance, Scalability, Fault-Tolerance, Security, Real-Time Data, Efficient Software Factory, Building Powerful, Happy, and Productive Teams
 
-Alphabet Soup
-: AES, AJAX, CI, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS, SHA, SQL, TCP/IP, XML, XSS
+*Alphabet Soup*  
+AES, AJAX, CI, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS, SHA, SQL, TCP/IP, XML, XSS
 
-Experience
--
+# Experience
 
 #### Jul 2017 - Present
 {:.job-date}
@@ -158,16 +155,16 @@ Experience
 * Conceived and implemented UI changes that doubled (measured by clicks) user awareness of customization in the My Yahoo! product.
 * Built a C++/XML architecture to centralize security functions, user authentication, and other functions common to the My Yahoo! configuration interface.  This architecture was adopted by several different groups in the company and handles nearly 1,000 unique URLs.
 
-Education
--
+# Education
+
 #### Graduated 1998
 {:.job-date}
 ### Cal Poly, SLO
 Bachelor of Science degree in Business Administration, with emphasis in Information Systems / Computer Science.
 * Recipient of the 1998 Peoplesoft Information Systems Award -- Awarded to the Cal Poly MIS student who best demonstrates practical knowledge and interest in the Information Systems field.
 
-Personal
--
+# Personal
+
 * Avid [cyclist, trail runner, and ultramarathoner](http://app.strava.com/athletes/1752986).
 * Music maker ([Spotify](https://open.spotify.com/artist/4zlbGPYkjV7EpxXHyfZNAh) / [Apple](https://itunes.apple.com/us/artist/zack-steinkamp/id1217691470) / [Google](https://play.google.com/store/music/artist/Zack_Steinkamp?id=Ahvn4wxah4srjesbrcispbgac2y))
 * Published [photographer](https://www.flickr.com/photos/thenobot/sets/72157628094692422)
