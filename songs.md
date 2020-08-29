@@ -3,12 +3,49 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Follower
+  date: August 2020
+  description:
+  - I was truly inspired by what I saw in the virtual <a href="https://www.super-collider.com/blog/sound-machines-super-science">super/collider concert "sound machines"</a>, where Lomond Campbell and Hainbach performed in their own unique ways, using machines of their invention.
+  - >
+    So <img src="/images/bcr2000-follower.jpg" width="50%" style="float: right; padding-left: 10px;" /> I built my own Sound Machines in Ableton Live. The core of the machines are three similar contraptions, each of which is driven by a <a href="https://maxforlive.com/library/device/5875/euclidean-sequencer">Euclidean Sequencer device</a> set to a prime number of steps (17, 19, and 23 IIRC) with different numbers of trigger points and offsets. Each of those are triggering a trio -- a kick, a gated instance of <a href="https://www.sonic-lab.com/fundamental/">Hainbach and Sonic Lab's plugin called Fundamental</a>, and a tone. This, and other things in the Live set (e.g. a master delay or a Pointer Sisters sample) are controlled by my Behringer BCR-2000, which is a tabletop box with 32 endless knobs that transmit MIDI. Ableton Live makes it so easy to map a knob to some sound-shaping function, so this box was my interface to the Sound Machine.
+  - I recorded several different song sessions with this setup, ranging from 10-15 minutes each. The best one made it through to the second round, which then entailed quite a bit of trimming, editing, and adjusting the sounds. This workflow is really awesome because it captures the spontenaity of a live performance, but then any tiny move of a knob can be edited later. This is a new workflow for me, and it definitely produces a different result than my normal workflow.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/follower
+  bandcampId: 2067816477
+
+- title: Lightning Complex
+  date: August 2020
+  description:
+  - Leaning on the awe of 3am Aug 16, with hours of lightning and thunder every 20 seconds, followed by the inevitable terror of a week of forest fires and smoke.
+  - The lead-in sounds are from a few metal thermos cups I have, one of which had a little water in it. I found some binaural recordings of thunderstorms and spread them like peanut butter in the track.
+  - The drop halfway through the song was a fun little vocal snip to play with.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/lightning-complex
+  bandcampId: 246159301
+  spotifyUrl: https://open.spotify.com/track/3VcQz26sJhMuaQtSrK8hsu?si=Zlh6kEHRQoSsRq4l_PIGgw
+
+- title: Dumbarton
+  date: August 2020
+  description:
+  - Fun little song to make, getting back to using Resonators more. I was pretty happy with how it came together at about 1:20.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/dumbarton
+  bandcampId: 551856593
+  spotifyUrl: https://open.spotify.com/track/6fAio0v7QhPIzFpDnz7UHs?si=wogIu3C1QuqEekJU8vEtUA
+
+- title: The Time Takes it All
+  date: May 2020
+  description:
+  - This one came out of some fun sound designing I was doing, trying to make an effect rack that would make a sound seem like it was orbiting your head. There were controls for direction (clockwise, counter-clockwise), radius, and speed. The time does take it all.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/the-time-takes-it-all
+  bandcampId: 2854108414
+  spotifyUrl: https://open.spotify.com/track/4rLfEg4tYJHaLMU2spDziE?si=l1EsfnFtQHa_UcqHryE3CQ
+
 - title: NGC1277
   date: May 2020
   description:
   - The title refers to a galaxy that was once thought to revolve around a supermassive black hole. The software plugin <a href="https://valhalladsp.com/shop/reverb/valhalla-supermassive/">Supermassive from Valhalla DSP</a> was released today for free. It's amazing. I used some different techniques than normal for this track, namely chopping a resampled recording into 1-2 bar chunks and mapping them to sampler keys. The source sound was a simple Operator patch put through Supermassive then to OTT. I like how this song is less normal than what I normally do.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/ngc1277
   bandcampId: 1661168569
+  spotifyUrl: https://open.spotify.com/track/2GdKi7Un5BHrDYG1iRBViR?si=wSQQ9B-fRVWMQbABWvvjDQ
 
 - title: Thay
   date: May 2020
