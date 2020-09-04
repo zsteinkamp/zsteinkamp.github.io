@@ -3,6 +3,16 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Deferred
+  date: September 2020
+  description:
+  - >
+    This track came about with the simultaneous happenings of: <ol><li>Pulling a part from <a href="https://www.youtube.com/watch?v=81uJZIF9TCs">this amazing performance from Bobby McFerrin</a> into Ableton and playing with it.</li><li>Discovering and binge-listening to <a href="https://www.residentadvisor.net/features/3349">Forest Drive West</a>.</li><li>Wiring up three Euclidean Sequencers in front of some samples feeding into resonators tuned to different notes/chords.</li></ol>
+  - I had about an hour before work one day, and put together an energetic little phrase with the samples and inspiration from the above, and it came together into a song the next full night I had to work on it. The next morning, I spent several hours rendering, listening in the car and living room (the sound is very different there, and so helps to identify how to clean up the mix), tweaking, and repeating 17 times.
+  - The song exists just because I liked the mood and energy of the rhythm, sub, resonators, and samples. No real deep meaning here. :)
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/deferred
+  bandcampId: 2145948040
+
 - title: Follower
   date: August 2020
   description:
@@ -12,6 +22,7 @@ data:
   - I recorded several different song sessions with this setup, ranging from 10-15 minutes each. The best one made it through to the second round, which then entailed quite a bit of trimming, editing, and adjusting the sounds. This workflow is really awesome because it captures the spontenaity of a live performance, but then any tiny move of a knob can be edited later. This is a new workflow for me, and it definitely produces a different result than my normal workflow.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/follower
   bandcampId: 2067816477
+  spotifyUrl: https://open.spotify.com/track/0TeHDE4FBE3OoiOohiAkxm?si=Y_V0FFnXRDm40Ox2kYAKOw
 
 - title: Lightning Complex
   date: August 2020
