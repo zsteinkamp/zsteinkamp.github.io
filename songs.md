@@ -3,6 +3,44 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Monument
+  date: October 2020
+  description:
+  - These tracks came together, basically all at the same time, over a week. I had just gotten a bass guitar (!!!) and would noodle on it for hours to try to learn the instrument. Some of those noodles were worth making a meal of tracks out of. The cover art is a composite of two photos I took in the direction of Monument Peak from Mt Allison.
+  - It's been interesting for me to learn just the tiny bit that I've learned on the bass. The immediacy and expression potential of a physical instrument is in a different world than synthesized parts, and I have found I give myself more freedom with the bass, vs playing bass parts on a keyboard. Perhaps some of that is really not knowing the notes immediately at this point, so I'm just playing by how it's sounding, vs how it looks (e.g. choosing a key up front and just playing those notes). Here's a rundown of the songs...
+  - Sneak features me in my most clear vocal role to date, though I try (somewhat) to make it sound like other people. The phrase struck me while I was noodling with the bass, and I thought it was funny and deep and dark enough to build a whole thing around.
+  - Walker and Middling were small efforts that seemed cool enough, and I'm trying to be less dramatic with what I release, so a couple of 2+ minute bits are OK, right?
+  - Your Neighborhood is my favorite of this group of songs. Lots of bass parts in there, and I think musically a little more insteresting than what I have done so far. Check it out.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/monument
+  bandcampId: 2015512108
+  spotifyUrl: https://open.spotify.com/album/7hOAYuYgTtiw3fmFExwwZB?si=fQeOiIjUS6GIc1tSgItqqQ
+
+- title: Maya
+  date: October 2020
+  description:
+  - I had a track halfway done that was sounding pretty good (including some guitar parts) when I came across a video of Maya Angelou in an interview. She talks about as a human, nothing another human does should be alien to us. Terrible things or wonderful things, we are all capable of them. I think there is a lot to this, and something we can all stand to think about more. The words provided a little more structure to the song, and so here we are. Hopefully through this song, more people will hear and ponder Maya's wise words.
+  - Production-wise this was the first time I dropped reference tracks into the Live arrangement. This allowed me to see a little more of what "real" music does in terms of loudness and spectral (high/low tone) balance. This was super eye-opening, and I wish I had done this a lot sooner. It allowed me to get this song to sound as loud as more popular music. I did this by making the low end quieter, which gives more headroom to the other parts. Rather than setting my final limiter to -1.5db, I could set it to -6db or so. It's counter-intuitive, but the song sounds worlds better to me than anything I've done prior.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/maya
+  bandcampId: 2061247530
+  spotifyUrl: https://open.spotify.com/track/2TF7PHIxqugF0hu2qrpQNF?si=XwHGFJgxSOWYhbdWl1pDqg
+
+- title: Hwy50
+  date: September 2020
+  description:
+  - The song opens with me saying "sing" over and over (singing?) then is just some fun playtime with the music rig, including lots of recorded percussion and guitar parts. I'd been obsessing over the bass sound in New Order's album Substance, and tried to get a little of that in this one.
+  - The title and photo take me back to a whitewater rafting trip I took with my girls before I made this song.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/
+  bandcampId: 1746828370
+  spotifyUrl: https://open.spotify.com/track/4oAU4DkxYdiQQrfAc6nj0n?si=nPfvh0dpRYS1ndR78VQYRw
+
+- title: Mandate
+  date: September 2020
+  description:
+  - More fun musical playtime with no real theme or point, just a vibe. The instrument that sounds like a muted trumpet is actually a pair of bandpass filters, overdriven, and whose frequency is determined by the note position. There are lots of resonators and other sound-responsive elements and modifiers in this song too.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/mandate
+  bandcampId: 689189192
+  spotifyUrl: https://open.spotify.com/track/7ckbGtpLaLqu926yfTWAVM?si=N7QPTC49Sp-KivP5Z-whHg
+
 - title: Deferred
   date: September 2020
   description:
@@ -12,6 +50,7 @@ data:
   - The song exists just because I liked the mood and energy of the rhythm, sub, resonators, and samples. No real deep meaning here. :)
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/deferred
   bandcampId: 2145948040
+  spotifyUrl: https://open.spotify.com/track/1ZnmWpojjbB0KlZT0ycpjv?si=wpQZuHhzTiWi9CUiBJ2Btw
 
 - title: Follower
   date: August 2020
@@ -473,12 +512,12 @@ data:
 <div class="song">
   <h4 class="songdate">{{song.date}}</h4>
   <h1><a name="{{ song.title | downcase | replace: " ", "-" | replace: "'", "" }}"></a>{{song.title}}</h1>
-  {%- for paragraph in song.description -%}
-    <p>{{paragraph}}</p>
-  {%- endfor -%}
   {%- if song.bandcampId -%}
     <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track={{song.bandcampId}}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
   {%- endif -%}
+  {%- for paragraph in song.description -%}
+    <p>{{paragraph}}</p>
+  {%- endfor -%}
   {%- if song.soundcloudId -%}
     <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{song.soundcloudId}}&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&visual=true" ></iframe>
   {%- endif -%}
