@@ -34,10 +34,10 @@ C, C++, Java, Javascript, Perl, PHP, Python, Ruby
 Linux, Mac OS X
 
 *Concepts*  
-Performance, Scalability, Fault-Tolerance, Security, Real-Time Data, Efficient Software Factory, Building Powerful, Happy, and Productive Teams
+Performance, Scalability, Usability, Fault-Tolerance, Security, Real-Time Data, Efficient Software Factory, Delighed Customers, Building Capable, Happy, and Productive Teams
 
 *Alphabet Soup*  
-AES, AJAX, CI, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS, SHA, SQL, TCP/IP, XML, XSS
+AES, AJAX, CI/CD, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS, SHA, SQL, TCP/IP, XML, XSS
 
 # Experience
 
@@ -46,13 +46,15 @@ AES, AJAX, CI, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCS
 ### Splunk
 {:.job-company}
 #### Principal Engineer / Sr. Engineering Manager -- Splunk Value Platform
-* Hired to build tools for the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff to and have improved deal close rate and size by > 5%.
-* Architected and built a flexible, simple, scalable application platform for SVP tools using React/Redux, Bootstrap, Sails.js, Node.js, Postgres, Redis.
+* Hired to build tools for the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved deal close rate and size by 5-10%.
+* Architected and built a flexible, simple, scalable application platform for SVP tools using React/Redux, Bootstrap, Sails.js, Node.js, Postgres, Redis, AWS, ECR, Docker.
 * Hired and mentored senior and junior staff, which have grown to be a highly regarded and decorated team within Splunk.
 * Simultaneously handled the roles of Scrum master, technical lead, and people manager.
-* Developed an automated CI/CD pipeline with integration between Bitbucket, Jenkins, and AWS ECR/ECS.
-* Created application monitoring dashboards and alerts using Splunk and New Relic.
-* Tip of the spear of Splunk IT's Agile Transformation, being the first team in the department to operate in an Agile manner. Leader of the department's Scrum Master guild.
+* Developed a super efficient developer workflow leaning heavily into Docker's capabilities.
+* Novel work to build an efficient pipeline for generating customized PowerPoint and Excel output from a Node.js backend.
+* Developed an automated CI/CD pipeline.
+* Created application monitoring dashboards and alerts using Splunk integrated with VictorOps and Slack.
+* Key player in shaping the organization's strategy around management, agile principles, hiring, product/operational analytics, infrastructure, and automation.
 
 #### Jan 2015 - Jul 2017
 {:.job-date}
