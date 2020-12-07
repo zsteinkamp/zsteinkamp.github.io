@@ -44,6 +44,8 @@ layout: default
           {%- assign thumb_url = "https://i.ytimg.com/vi/" | append: post.entry.data.id | append: "/default.jpg" -%}
         {%- elsif post.entry.source == 'flickr' or post.entry.source == 'smugmug' -%}
           {%- assign thumb_url = post.entry.data.primary_photo_url -%}
+        {%- elsif post.entry.data.thumb_url -%}
+          {%- assign thumb_url = post.entry.data.thumb_url -%}
         {%- endif-%}
 
         {%- if thumb_url -%}

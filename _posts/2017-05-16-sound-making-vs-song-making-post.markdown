@@ -7,7 +7,6 @@ entry:
   id: 1253
   source: post
   data:
-    thumb_url: https://steinkamp.us/system/20170515-sound_post/whole_song.png
     title: Sound Making vs. Song Making
     excerpt: For me, music-making has two phases -- sound-making and song-making.
       These are two very different disciplines. Sound-making is fun and spontaneous.
