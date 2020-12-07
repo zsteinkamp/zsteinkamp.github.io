@@ -37,6 +37,7 @@ This ended up being a very straightforward project to make, just taking an hour 
 
 * Three pieces of melamine shelf material, 36" x 8"
 * 14 screws, not longer than two of the shelves stacked together
+* 4 adhesive felt pads
 * A saw that can cut at an angle (i.e. a chop saw, skil saw, table saw, or hand-saw)
 
 Note that the dimensions here are really not critical. You should have a look at the design here, but make it work for you and your gear. This design is very flexible and can accommodate all kinds of different sizes.
@@ -61,6 +62,6 @@ Next, lay the top base with the feet attached upside-down on the top pieces. Ens
 
 <img src="/images/shelf/diag_5_final.png">
 
-That's it! Enjoy having a more ergonomic setup.
+Add some felt pads to the bottom of the feet, and that's it! Enjoy having a more ergonomic setup.
 
 <a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-pMVpDXx/A"><img src="https://photos.smugmug.com/photos/i-pMVpDXx/0/X4/i-pMVpDXx-X3.jpg" width="100%" alt=""></a>
