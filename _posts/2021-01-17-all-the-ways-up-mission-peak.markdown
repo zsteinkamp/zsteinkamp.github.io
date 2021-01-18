@@ -91,3 +91,8 @@ The Monument Peak Trail climbs about 2100 feet in 4 miles, and takes you next to
 After you've gone a half mile or so past the road to Mt Allison, this trail has by far (IMO) the best view of Mission Peak. If you keep going straight up the trail, you'll climb the awesome south side of Mission Peak. You can then turn around and retrace your steps, or continue over Mission Peak and descend the very technical and rocky section, then making a right turn, rejoin the Mission Peak to Monument Peak trail.
 
 <img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-2WpRCVd/0/02c16e11/X3/2021011716054444-4759711745111788283-IMG_0221-X3.jpg" width="100%"/>
+
+# **Congratulations!**
+You've made it to the top of the peak! Next time out, try a new way, or mix ways in and out for some variety. The trail network on Mission Ridge is such that you could summit the Peak dozens of times and not do the same route twice.
+
+<img src="/images/mission_peak.png" width="100%"/>
