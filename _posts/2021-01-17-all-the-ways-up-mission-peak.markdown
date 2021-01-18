@@ -77,7 +77,7 @@ The Ohlone Wilderness Trail dead-ends into the Eagle Trail, next to a small camp
 
 <img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-hWZWrZv/0/56291507/X3/2021011716054444-9125760981370084764-IMG_7368_HEIC-X3.jpg" width="100%"/>
 
-# **Most Popular With Adventureres: From Ed Levin County Park**
+# **Most Popular With Adventurers: From Ed Levin County Park**
 Roundtrip Distance: **12 miles** / Elevation Gain: **2350 feet** / <a target="_blank" href="https://www.strava.com/routes/2786044688364144554">Strava Route</a> / <a href="https://www.sccgov.org/sites/parks/parkfinder/Pages/Ed-Levin.aspx">Ed Levin Park Site</a>
 
 #### Getting There / Parking
