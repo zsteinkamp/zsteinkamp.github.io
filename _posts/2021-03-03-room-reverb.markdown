@@ -5,6 +5,8 @@ date: '2021-03-03 12:00:00'
 categories: post
 entry:
   source: post
+  data:
+    thumb_url: 'https://photos.smugmug.com/2021-03-03-Room-Reverb/i-FPggJb5/0/96cfe660/Th/2021030408155275--7795515852288585693-IMG_1899_HEIC-Th.jpg'
 ---
 
 This was some of the most fun I've had with music making recently.
