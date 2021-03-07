@@ -3,6 +3,47 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: 100 Squares
+  date: March 2021
+  description:
+  - I feel like I've found a daily-life-rhythm that embraces music, and I've been more productive since letting this happen.
+  - It used to be that I would do marathon sessions in front of the machines until the wee hours, then be wrecked for a couple days after.
+  - Nowadays, I've been giving music an hour or so each morning, before work and before the girls wake up. I'll then give time to music in the evenings as I can (if the girls aren't here or if they are busy with other things), but I'm sure to be in bed by 11, which keeps me fresh for all things, including music.
+  - This song has one fun technique that I picked up from the great engineer and producer Sylvia Massy. In this video, she shows a creative technique for livening up a dull synth sound by mixing its original sound with the sound put through a guitar amp, mixed with some room mics. This beefs up the sound in ways the computer can't.
+  - I tried to replicate this by disconnecting my speakers from my audio interface, then running a long guitar cable from one output into the input of my bass amp, placed in the living room. I put a mic in front of the speaker cone of that, and also used the Rode iXY mic on my iPhone to capture the room sound. I played that synth track and recorded it all. It's a subtle but powerful technique to add energy and life to an otherwise very artificial sound.
+  - You can hear this sound at about the 1:40 mark.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/100-squares
+  bandcampId: 378566830
+  spotifyUrl: https://open.spotify.com/track/5QasBwoeE4WYOqQPu4tBMD?si=SJzVe2blSi-CM2iEZpi-UQ
+
+- title: SFWD
+  date: March 2021
+  description:
+  - Over the last couple of months, I had been working on 6 songs simultaneously, all springing from the same origin. This collection of songs was mostly about learning some new production techniques, mostly around mastering. I feel like this group of songs was a turning point in how I approach the science of finishing a song, and they finally sound good (to me) in the car when played after other "real" songs. So it's less about the music and more about the technique here. Check out the <a href="">blog post about these techniques</a> if you're interested.
+  - Lots of TAL BassLine 101 synth in these songs. It's such a fun instrument! Also, the whole mastering thing was enabled by investing in FabFilter's mastering bundle (EQ, compressor, multiband compressor, and limiter) -- amazing software!
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/sfwd
+  bandcampId: 3582895368
+  type: album
+  spotifyUrl: https://open.spotify.com/album/4MnYIKI1W58R5DNCC1reln?si=9h9-cL1xTCG4mDLHjSP6pw
+
+- title: If Only
+  date: January 2021
+  description:
+  - Coming off the heels of the drama of the attack on the capitol, Amanda Gorman's inagural poem really captured the feeling of the prior weeks/centuries and was a message of hope for the future. Again, I had been working on some music, and then found the words to shape it and push it over the finish line.
+  - Cover by Naomi.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/if-only
+  bandcampId: 2440902959
+  spotifyUrl: https://open.spotify.com/track/6Wy5Uj8XWqROXdeLAW7MdI?si=B_N9lcGwQOG4OZJEnizW0A
+
+- title: 93 to 6
+  date: January 2021
+  description:
+  - I had been working on some music over the last couple of months with many false starts. The juxtaposition of lawmakers in the capitol carrying on our democratic traditions while/after being attacked was a powerful one for me. It gave me a sense of culture and belonging that I hadn't felt before. That was the nudge and material this song needed to get finished.
+  - The song has a couple of layers of vocoders to reinforce the pads. One layer was just me doing things with my voice, and the other was some great stereo audio from last year's Formula 1 race in Australia. The cars going by pull the pad left and right.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/93-to-6
+  bandcampId: 2601623840
+  spotifyUrl: https://open.spotify.com/track/2D4vjhvLfuGZX5f8G8h8ME?si=cDgznXMZSkequD2CJn6FxQ
+
 - title: Monument
   date: October 2020
   description:
@@ -12,7 +53,8 @@ data:
   - Walker and Middling were small efforts that seemed cool enough, and I'm trying to be less dramatic with what I release, so a couple of 2+ minute bits are OK, right?
   - Your Neighborhood is my favorite of this group of songs. Lots of bass parts in there, and I think musically a little more insteresting than what I have done so far. Check it out.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/album/monument
-  bandcampId: 2015512108
+  bandcampId: 2812621592
+  type: album
   spotifyUrl: https://open.spotify.com/album/7hOAYuYgTtiw3fmFExwwZB?si=fQeOiIjUS6GIc1tSgItqqQ
 
 - title: Maya
@@ -246,25 +288,24 @@ data:
   date: February 2019
   description:
   - Inspired by Biggi from Gus Gus' video tutorial on how he makes one of their sound effects. Took it from there.
-  soundcloudId: 577186392
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/gus
+  bandcampId: 525150100
   spotifyUrl: https://open.spotify.com/track/7gxCuBR8arTQ0OOJ9NaJyw?si=n9sqCmogSL-8DxVeWchjTA
 
 - title: Hogan's Gambit
   date: January 2019
   description:
   - Some pounding on the wall of my shower, sheetmetal at a historic mercury mine site, the a capella vocals from Starlifter, and a whole lot of drums.
-  soundcloudId: 565725144
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/hogans-gambit
-  itunesUrl: https://itunes.apple.com/us/album/metalkit-a-single/1446704940
+  bandcampId: 258565847
   spotifyUrl: https://open.spotify.com/track/46jMHrEdfVgqUaL3bK0Nxo?si=nUu4x5ybQmuNW7wfm1X3AQ
 
 - title: Metalkit-A
   date: December 2018
   description:
   - One prolific night, I sketched out about 25 minutes of music in three songs, all using the same set of sounds. Metalkit-A was the first song in that group, and the one that had lasting power for me. The song doesn't really have a story, other than Enrique sent me some recordings he made in his car of Alan Watts talking that he thought I should use in a song. Well, here ya go Hank!
-  soundcloudId: 544240356
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/metalkit-a
+  bandcampId: 1763461516
   itunesUrl: https://itunes.apple.com/us/album/metalkit-a-single/1446704940
   spotifyUrl: https://open.spotify.com/track/2aNhUan9pkRfjjbYd7OT5L?si=fSPYz-4WRcaqPeHlWzNT_A
 
@@ -275,8 +316,8 @@ data:
   - Bahar sent me a recording she made of the parrots that live in our neighborhood, and that became the intro.
   - The main melody sound is a note sampled from the Stylophone that Derek gave me many years ago. Other sounds are egg shakers I keep at my music desk, the squeaky shelf that seems to get play in all my songs, and other synth sounds I made.
   - The song is about Bahar and I and the feelings we share.
-  soundcloudId: 511853454
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/sea-of-love
+  bandcampId: 182962305
   itunesUrl: https://itunes.apple.com/us/album/sea-of-love-single/1438590052
   spotifyUrl: https://open.spotify.com/album/1ddhn92kYivlZtx8BnINF7
 
@@ -284,8 +325,8 @@ data:
   date: September 2018
   description:
   - Most of the drums, percussion, synths, etc were made from recordings I made. The vocals come from this video: www.youtube.com/watch?v=cYGIbyBfspY Made over the course of almost a month, bits and pieces at a time. The name comes from a C-141 Starlifter cargo plane. The song is 141 BPM.
-  soundcloudId: 504605772
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/starlifter
+  bandcampId: 3329208190
   itunesUrl: https://itunes.apple.com/us/album/starlifter-single/1437245958
   spotifyUrl: https://open.spotify.com/album/3ttd3wMpwoTNSRRaHwH0Xx
 
@@ -293,8 +334,8 @@ data:
   date: September 2018
   description:
   - The song title is an anagram for Paul Alan Levi, the creator of the PBS logo theme sound from the 70s. www.youtube.com/watch?v=NCuqlLq1k7o That sound really intrigued me (or freaked me out) as a kid, so here it is wrapped into a song. There are samples from the movie The Iron Giant in there.
-  soundcloudId: 495904743
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/alluvial-nape
+  bandcampId: 2172163689
   itunesUrl: https://itunes.apple.com/us/album/alluvial-nape-single/1435455069
   spotifyUrl: https://open.spotify.com/album/0lHQHxQK4K7JA0xqVA5VIi
 
@@ -302,8 +343,8 @@ data:
   date: July 2018
   description:
   - This song title is the name of the street where Bahar and I stayed during our trip to Barcelona.
-  soundcloudId: 474187746
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/carrer-de-napols
+  bandcampId: 3766101992
   itunesUrl: https://itunes.apple.com/us/album/carrer-de-napols-single/1415446680
   spotifyUrl: https://open.spotify.com/album/4ojm32QAi0BQL0nwGNIXfC
 
@@ -315,8 +356,8 @@ data:
   - One of the main sounds is 5 tracks of <a href="https://www.youtube.com/channel/UCFgUBKoy5trmcyVh1e_AS8Q/videos">Wytse</a> speaking (he has a great YouTube channel where he reviews software and shows mixing/mastering techniques), all layered on one another and panned across the stereo field. I took that layered sound and made an instrument in Kontakt with it, where each note-on triggers the sample from a random starting point. A couple knobs on my BCR-2000 control the note length and sample speed. This song has the most tracks of anything I've done -- 55 tracks in all.
 
   - I like how this song moves through some different moods, so it was good enough to finish and put out there.
-  soundcloudId: 458571015
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/supermercado
+  bandcampId: 2810382006
   itunesUrl: https://itunes.apple.com/us/album/supermercado-single/1400823268
   spotifyUrl: https://open.spotify.com/album/4N2lRknMUsy2AuVEHLaX68
 
@@ -326,7 +367,7 @@ data:
   - I made Gotham a week after Quiet Now. Things were flowing. I continued with the looping recording percussion workflow with this one. For example, there are 5 clap tracks, each recorded individually but panned differently. This makes for a natural feeling "people clapping" feeling I think, even though it was just me clapping.
   - I'm really digging the piano (especially with some FX applied). The main sound in this track is Logic's Clavinet simulation put through some modeled amp/pedals. I also learned to use a compressor to beef up sounds by really overdriving it, but output in parallel so the clean signal is like 75% and the effected signal is at 25%. Thanks to producing legend Andrew Schepps informative videos on the subject to open my eyes to a simple but effective technique.
   - This song alternates between a light bopping-down-the-sidewalk feel and something more serious. It sounds great on a big system.
-  soundcloudId: 448597368
+  bandcampId: 2374413536
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/gotham
   itunesUrl: https://itunes.apple.com/us/album/gotham-single/1389638331
   spotifyUrl: https://open.spotify.com/track/4bKM8LmsCobwjRuqmf3dao?si=qpOIug4aR2qQy6-uRixz6g
@@ -337,7 +378,7 @@ data:
   description:
   - This song opens with a recording of frogs from Lake Ranch Lake combined with Bahar's windchimes. At the lake there was a frog right next to us, but then it got quiet. This song was a shift in workflow for me, using many layers of recorded percussion. I would sequence a simple drum and bass pattern then record in cycle mode, with Logic configured to create a new take for each cycle. Press record, and go to down on lots of different instruments. Then choose "Unpack Folder to New Tracks" and everything is layered.
   - I think this is a more "musical" track for me, with strong melody, chord presence and kind of a traditional structure. I used Logic's Rhodes simulation, ESX 24 grand piano, and Mellotron instruments. There is also a lot of recorded kalimba (normal and reversed) in there.
-  soundcloudId: 447678942
+  bandcampId: 2008284397
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/quiet-now
   itunesUrl: https://itunes.apple.com/us/album/quiet-now-single/1388516445
   spotifyUrl: https://open.spotify.com/track/5QYXxQfei3r5ubkRmo7q5z?si=IIuXugCgT8a0YK5M3n44iw
@@ -347,7 +388,7 @@ data:
   description:
   - As an experiment, I cloned the project from Featherboa to start a new song. The initial version came together really quickly -- maybe 6 hours. I decided it needed a vocal element, so I headed over to the <a href="https://www.youtube.com/channel/UC0tq0g5u2bo-TErZt7SJM6w">Sound Traveler YouTube Channel</a>. This channel specializes in binaural recordings of different places. I saw a <a href="https://www.youtube.com/watch?v=h-7bI3fMdQU">video</a> on the Meiji Shrine in Shibuya, Japan and decided this would be the one. The music I had laid down had a Japanese feel to it, so it was a good match. Now there was a theme to the song, so with several iterations over a week or so (e.g. it started out about 7 minutes, but I trimmed it to 4.5) it was done. It's more chill than the other stuff I've done lately.
   - There are some Naomi samples in there (again), along with an instrument I made by recording the hum of the fluorescent light in my kitchen turning on and stabilizing.
-  soundcloudId: 442687767
+  bandcampId: 696796478
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/meiji-shrine
   itunesUrl: https://itunes.apple.com/us/album/meiji-shrine/1384023109
   spotifyUrl: https://open.spotify.com/track/4KK6YkN5RTjxvUszB7CPDD?si=fHOO_Du6S-elpx_ZqWdFTQ
@@ -356,7 +397,7 @@ data:
   date: April 2018
   description:
   - Most of my songs have a theme or story, but this one is just a song. The floppy spatula makes another appearance in this song, in a very prominent role. There are a few samples of Naomi singing, but pitched up or otherwise tweaked.
-  soundcloudId: 433798227
+  bandcampId: 1610398629
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/featherboa
   itunesUrl: https://itunes.apple.com/us/album/featherboa-single/1375745940
   spotifyUrl: https://open.spotify.com/track/7woCIM0PcQSrIUUWVV5Itu?si=Xk2lBVmVQ_SCnYhP8nnPaA
@@ -368,7 +409,7 @@ data:
   - Naturally this evolved for me into a piece of music. I had started a project a few weeks back where I experimented with a song transitioning from 4/4 time to 6/8 time, and in turn the perceived tempo increases 50% with that change. That project was a dud, but I kept the idea alive into this project. Starting with a basis of 120 BPM to match the 1 Hz WWV recording, it transitions into a wormhole of time and rhythm as you go inside the signal at 180 BPM.
   - There were some fun sounds involved in making this song. The static sound at the beginning of the track is actually my sock feet rustling on the non-skid surface of my desk's footrest. The hat sound is something hitting an oven rack, but pitched up. The main "snare" sound is a big floppy stainless spatula struck against a piece of plastic played at normal and half speed simultaneously. The bamboo stick is used on a couple tracks, as is Naomi's lovely and haunting singing voice.
   - This song took several weeks to come together, mostly due to my lack of focused time to work on it. I think it worked out well here though, since I had a lot of time to digest the progress of the song and make small tweaks without the pressure of 4am looming. There are about 30 tracks in this song.
-  soundcloudId: 426921930
+  bandcampId: 3737477021
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/wwv
   itunesUrl: https://itunes.apple.com/ug/album/wwv/1369853312?i=1369853315
   spotifyUrl: https://open.spotify.com/track/1LA93hm58SIDq11M4r9U5V?si=P_iLatceQyq9TCSgRJPN2w
@@ -379,7 +420,7 @@ data:
   - I recorded <a href="https://soundcloud.com/thenobot/marina-riptide-excerpt">Marina playing her Ukulele and singing the song "Riptide"</a> and was moved the weepy daddy pride, so I knew I needed to do something more with the audio. The following week, The Drique visited and we spent an hour or two noodling with a guitar I'm borrowing here and recorded the whole thing. More raw materials!
   - The song took a few weeks of slow/false starts to get going, though I knew the bass part behind Marina's singing was going to be a main part of the song. It really came together when I started playing with Logic's vocoder instrument. The texture that a simple vocoder instrument can bring is super cool, and so the song got "interesting" for me once I started layering in those sounds.
   - A lot of the percussion in the song is various hits of drumsticks and bamboo sticks I have here at home. The metallic melody line that comes and goes was just a single sampled hit of drumstick against my 8 quart kitchen pot, tuned and spread across the piano keys. There are 41 instrument and audio tracks in this song.
-  soundcloudId: 418102740
+  bandcampId: 3488535351
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/tiderip
   itunesUrl: https://itunes.apple.com/ug/album/tiderip/1363238579?i=1363238590
   spotifyUrl: https://open.spotify.com/track/0UqXSEwGNuEGEKbrruXjHc?si=HDVYeIDqRqKihWanilx2ZA
@@ -390,7 +431,7 @@ data:
   - I did a youtube search for Afrobeat music, and stumbled across "God is Love" from Complex Soundz (<a href="https://open.spotify.com/track/6FyJOynvMDHomu7dhlcNaU?si=CfAMdTqUR5K7JNsD0-aniw">Spotify Link</a>) and thought it was a super cool song. I pulled the audio into Logic and did a lot of slicing and dicing to chop the first 1/3 of the song into 1 measure pieces. All those pieces went into a Kontakt instrument where I spent a lot of time setting loop lengths and tempos so everything could work together.
   - The beginning and end of the song is audio from <a href="https://www.youtube.com/watch?v=UluyEtL0XDY">Tomáš Slavik's intense winning run at Red Bull Valparaíso Cerro Abajo 201</a>. I was watching this video and closed my eyes and was taken aback by the crowd sounds whizzing by and decided to incorporate them into this composition.
   - Most of the drum sounds and the subbass are mine, as well as the little organ ditty at the end. While this song shares a ton with the original (could it be a remix?), structurally it's very different. The name "Good Evils" is an anagram of "God is Love".
-  soundcloudId: 407702601
+  bandcampId: 1312035817
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/good-evils
   itunesUrl: https://itunes.apple.com/by/album/good-evils/1355136283
   spotifyUrl: https://open.spotify.com/track/0zvkEz2T5LiAsYh1i101zx?si=1Rbn1-C5TD6x8jXVUeFq7A
@@ -401,8 +442,9 @@ data:
   - Jan Jelinek's "<a href="https://www.youtube.com/watch?v=Xdw-5EWwn3o">Rock in the Video Age</a>" came up randomly in my car and I really took to the song. I liked the texture and the minimal but interesting style. Of course, I thought I should try something like that. This also coincided with an equipment dream come true -- a 43" 4K monitor. If a 28" 1440p was an eye opener for working with music, surely more than double the pixels (8.3MP vs 3.7MP) would be an eye blaster! It took a bit of getting used to to look at so much screen, but it's awesome to have so much space for music and virtual instruments and effects.
   - Anyhow, this song came together pretty quickly over the past week. I spent at least as much time tweaking it as I did laying it down to start. It was really really fun to make and I hope to come up with an "album" of similar songs to start the year.
   - There are a few notable sounds in there. There's a brief sample of Stevie Wonder when he was on Sesame Street in 1973, a vocoder instrument with a 1/64 arp on it receiving textures from a speech synthesizer from Mindport in Bellingham, WA saying "NAOMI", the good old rotating cabinet in my kitchen making a beautiful deep bowed instrument sound, the sound of me tapping the body of Marina's ukulele, and the venerable "claps galore" sample set that I made by clapping from different parts of the house with the mic in a fixed place.
-  soundcloudId: 392787081
-  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/loopfinding
+  bandcampId: 3011221686
+  type: album
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/finding-ep
   itunesUrl: https://itunes.apple.com/by/album/loopfinding/1343049711
   spotifyUrl: https://open.spotify.com/track/7fixKEOnlVATuqwsZA2KmL?si=BGGI3TFlSfKZRGnO6_QeVA
 
@@ -410,7 +452,7 @@ data:
   date: December 2017
   description:
   - The opening sample on this song is my niece Ginger playing the ukulele. She was strumming along while I recorded with my laptop. I chopped up each strum and laid them out across a sampler instrument. The drums are from a YouTube video of Bernard Purdie (again!). The violin/cello sound is a rotating cabinet in my kitchen that I noticed made a lovely low squeak, recorded with my portable stereo mic, then loaded into Kontakt 5 (just got this software after Transpo -- good sound but a primitive UI, hopefully they fix it in 6). The chiff/flute sound is a recording of me blowing across a bottle of Reed's ginger beer, recorded with an SM57 and loaded into Kontakt. The "waah" sound at the end is a kazoo mangled like crazy in Kontakt and using a lot of FX.
-  soundcloudId: 370822595
+  bandcampId: 2233324556
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/losososos
 
 - title: Transpo
@@ -421,7 +463,7 @@ data:
   - The funny thing is that I built the song around those samples, then ended up removing them about halfway through because it sounded better without them. Thanks for the launchpad though!
   - This was a fun song to put together because the grid was in 3/4 but I really was making a 4/4 song. This added some mental complexity with dealing with the grid, and how the phrases weren't necessarily on the measure lines, but I think it had the interesting effect of bringing in elements at more interesting/surprising times, since it wasn't easy just to jump on 4-measure divisions.
   - The train-like kicks at the end are a kickdrum alternating with a reversed version of that kick, passed through a tape delay simulation. There are some 909 hats with some cutoff automation and auto-filter, and some claps from one of the stock drum kits that comes with Logic. The other sounds are either synths I made in Alchemy or based on samples and stretched out and put thru lots of effects. One neat thing I worked on was automating the "pan-spread" parameter for the arp-y sound to really open the door on the song when it takes off a couple minutes in.
-  soundcloudId: 361586810
+  bandcampId: 1277666252
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/transpo
   itunesUrl: https://itunes.apple.com/us/album/transpo-single/1317838474
   spotifyUrl: https://open.spotify.com/track/1O4ii5tunAkYm5azcqCLJ2
@@ -430,7 +472,7 @@ data:
   date: October 2017
   description:
   - I set out to make a reggae song. I had a bunch of samples I took from an old instructional film starring drumming legend Bernard Purdie that I really wanted to use in a project. I also learned the bassline from The Orb's song "Valley" and wanted to see what I could do with it. The result is a dubby, dancy tune with a pretty big bottom end. "Nothing is ever precise..."
-  soundcloudId: 349053306
+  bandcampId: 4033549493
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/purdie
   itunesUrl: https://itunes.apple.com/au/album/purdie/1302927359?i=1302927384
   spotifyUrl: https://open.spotify.com/track/3kW54iQDkpp2JaN48nQxmJ
@@ -439,7 +481,7 @@ data:
   date: September 2017
   description:
   - This song starts with some samples from a hike I took with a friend on a graveley trail -- our different cadences were making a cool rhythmic pattern. There were also crickets chattering, which I took to turned into a cricket rave party in the track. I set out to make a dancy number with this one that felt light. There's a running joke in dance music where typical dance beats mimic the phrase "boots and cats" repeatedly. If you listen carefully, you can hear me whispering that through the song in certain parts. The cutting-acid sound is a kazoo put through pitch correction and the Ringshifter effects. Bahar helped me to construct the extended mellow ending, which I think really makes the song, along with Naomi's crazy vocal samples that sound like a dog squeeze toy. I'm proud of how this song ends. "And then I don't know what happened next..."
-  soundcloudId: 343838450
+  bandcampId: 3005467150
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/bootsand
   itunesUrl: https://itunes.apple.com/au/album/bootsand/1289466522?i=1289466526
   spotifyUrl: https://open.spotify.com/track/6ir5qfucBfRinbCobXoraO
@@ -448,7 +490,7 @@ data:
   date: September 2017
   description:
   - This project started with an audio recording Marina and her friend did of a song they made up. I put a some samples of a line her friend sang through some pitch and modulation effects, chopped it up, and laid it out on the keys across a couple octaves. The title refers to astronaut Ed White, who was America's first spacewalker in the Gemini 4 mission. He was supposed to be outside the capsule for 4 minutes but ended up staying outside for 12. There are samples from NASA's audio recordings of radio communications of that mission throughout the song. Marina's friend singing "I know, I know" ties back with Ed White's playful exchanges with Mission Control and how he knew he was supposed to "get back in!" but he knew he could stay outside longer and really soak in what he was doing and seeing.
-  soundcloudId: 340945505
+  bandcampId: 2219741021
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/edwin-white-youre-my-hero
   itunesUrl: https://itunes.apple.com/au/album/edwin-white-youre-my-hero/1279130012?i=1279130924
   spotifyUrl: https://open.spotify.com/track/4Amka4m57unjx6oU1o8sA3
@@ -461,7 +503,7 @@ data:
   - The next inspirational element came from a recording experiment I did with the sliding glass door in my kitchen. The huge bass sound had to find a home! And so it did.
   - The other sounds in the song come from a 4-oscillator Alchemy synth I made that can be controlled in 8 ways by the knobs on my controller, a percussion set I made from slapping and banging on my kitchen floor, a click sound from something banging into the Rode i-XY mic when recording the stream turned into a kickdrum, the default ESX-24 sine wave processed through a simulated guitar amp, samples of Bahar playing the Daff, and a percussion set I recorded from my bike.
   - This song changes more than other songs I've done, and I like that. I think I'll keep doing more of it.
-  soundcloudId: 322043366
+  bandcampId: 442756099
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/sanborn-five
   itunesUrl: https://itunes.apple.com/us/album/sanborn-five/id1235421307?i=1235421585
   spotifyUrl: https://open.spotify.com/album/2XwqIyjrFyDG6a4Vx3WDdN
@@ -473,7 +515,7 @@ data:
   - The song is made of a cast of characters. One of them dies. They all act on their own, and they all change in different ways after the moment of death. There are new patterns, rememberances, resurgences. They find a new order and life goes on.
   - Sound-wise, this song features a 4-oscillator Alchemy arpeggiator patch I made that is very automatable, a dove call that I whistled, some long vocal notes wrung through tons of processing, an egg shaker, and 8 claps. The claps were one idea that I had to have the mic in one part of the house, and clap from different rooms and distances from the mic. The product is an impulse map of my house, and that impression may be given in headphones.
   - This song was unique for me in that I performed each track end-to-end. Normally I will come up with some good phrases and loop them. By a Thread was actually performed.
-  soundcloudId: 320223290
+  bandcampId: 1878276498
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/by-a-thread
   itunesUrl: https://itunes.apple.com/us/album/by-a-thread/id1231873815?i=1231873818
   spotifyUrl: https://open.spotify.com/track/7AjAGF45yvtEbvdRWEpEp9
@@ -483,7 +525,7 @@ data:
   description:
   - This song is a story of two people. One is moody and unsure. The other is a calming and beautiful presence. Fruhling is the German word for Springtime.
   - The lead sound is me singing through a plastic kazoo, then a ton of pitch correction and processing was applied in the computer. The other singing is me too, made possible by even more pitch correction and effects. This is the first time I have actually tried to sing in a song. Thanks to technology, no ears are bleeding. I also played the kalimba with drumsticks, recorded a ratchet, and tapped a stainless steel bowl with plastic sticks.
-  soundcloudId: 313014069
+  bandcampId: 2670827193
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/fruhling
   itunesUrl: https://itunes.apple.com/us/album/fruhling/id1217691304?i=1217691478
   spotifyUrl: https://open.spotify.com/track/6h8kHVO6VxyWBc61q0Qgpf
@@ -493,7 +535,7 @@ data:
   description:
   - I had a bunch of samples that just kind of fell together in this song. There's kind of a dadaist element to it, since the main sample is my mom saying "just something, any old thing", responding to me putting a mic in front of her and asking her to say something. This song is proof that you can take anything and make it into music.
   - Kalimba plays a lead role in the song, as does my box of noisemakers that I recorded indiviaul hits on and then sequenced as sampler instruments. Jingle bells, egg shakers, toy tambourine, and recorder flute.
-  soundcloudId: 300688934
+  bandcampId: 2422420249
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/the-noisemakers
   itunesUrl: https://itunes.apple.com/us/album/the-noisemakers/id1217691304?i=1217691477
   spotifyUrl: https://open.spotify.com/track/5gO0AJjAhnXcfGIqu5Z6on
@@ -508,19 +550,17 @@ data:
 }
 </style>
 <p>One of my hobbies is music-making. I like to record sounds and make instruments out of them, or design new sounds with synthesizers. I used to have a room full of equipment, but now I just use a laptop and some external MIDI controllers. If you use Spotify, you can <a href="https://open.spotify.com/playlist/5s96egT8OPl3O3bMlk04qp?si=idq446saSgiDHgX43wsONw">add my playlist</a>, which I keep up to date with new music I release. I post new songs here, along with a short description of the origin and construction of the song.</p>
+<p>You can listen to my music here, or on <a href="https://open.spotify.com/artist/4zlbGPYkjV7EpxXHyfZNAh?si=51oxTGABQIGwOdBS_YaYBw">Spotify</a>, <a href="https://music.apple.com/us/artist/zack-steinkamp/1217691470">iTunes / Apple Music</a>, <a href="https://www.amazon.com/s?k=Zack+Steinkamp&i=digital-music&search-type=ss">Amazon Music</a>, <a href="https://www.youtube.com/channel/UCVKBjFZJYJ-0-5TiOHWj-OQ">YouTube</a>, or pretty much any other streaming service by searching for my name.</p>
 {%- for song in page.data -%}
 <div class="song">
   <h4 class="songdate">{{song.date}}</h4>
   <h1><a name="{{ song.title | downcase | replace: " ", "-" | replace: "'", "" }}"></a>{{song.title}}</h1>
   {%- if song.bandcampId -%}
-    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track={{song.bandcampId}}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
+    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/{{song.type | default: "track" }}={{song.bandcampId}}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
   {%- endif -%}
   {%- for paragraph in song.description -%}
     <p>{{paragraph}}</p>
   {%- endfor -%}
-  {%- if song.soundcloudId -%}
-    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{song.soundcloudId}}&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&visual=true" ></iframe>
-  {%- endif -%}
   <div>
     {{song.title}} on
     <a href="{{song.bandcampUrl}}">Bandcamp</a> 
