@@ -3,6 +3,15 @@ layout: page
 title: Songs
 permalink: /songs/
 data:
+- title: Room
+  date: March 2021
+  description:
+  - Two main things went into this track...
+  - 1) I recorded a very talented coworker demonstrating his singing skills to the group over Zoom.
+  - 2) The reverb in the track is a live send/return bus I set up to a combo amp and stereo mics I set up in the living room. It is so much nicer than a plugin, but far less convenient.
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/room
+  bandcampId: 170052132
+
 - title: 100 Squares
   date: March 2021
   description:
