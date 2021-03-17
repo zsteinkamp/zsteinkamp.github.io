@@ -19,13 +19,13 @@ Well, I figured it out, and you can [download the Feedback FRACK device here](/a
 
 # Using the Feedback FRACK
 
-The device gives you control over the feedback loop gain, as well as a protective Limiter device on the output side of the feedback. You should still be careful using this plugin, since feedback is a dangerous thing and can snap at any second to make terrible noises that may hurt your speakers or your ears!
+The device gives you control over the feedback loop gain, as well as a protective Limiter device on the output side of the feedback. You should still be careful using this device, since feedback is a dangerous thing and can snap at any second to make terrible noises that may hurt your speakers or your ears!
 
 You can place any effects between the "IN from Dry/Mix" Gate and the "FBack Out Gain" Utility. The rack you downloaded has a Reverb device in the Feedback loop:
 
 <img width="100%" src="/images/feedbacker.png">
 
-Feed audio or place an instrument before this rack, and then fiddle with the "FBack Gain" knob to dial in the right amount of feedback. You can keep the Feedback Chain muted, or unmute it for double the feedback volume without doubling the gain to the feedback loop.
+Feed audio or place an instrument before this rack, and then fiddle with the "FBack Gain" knob to dial in the right amount of feedback. You can keep the Feedback Chain muted, or unmute it for double the feedback volume without doubling the gain to the feedback loop. Try other effects instead of (or in addition to) the Reverb such as filters, flangers, or whatever else you can think of.
 
 Here's an example of Live's Grand Piano preset put through the default Feedback FRACK. I increased and decreased the Feedback Gain control as the piano plays.
 
