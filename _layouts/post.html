@@ -19,6 +19,12 @@ layout: default
     {{ content }}
   </div>
 
+  <style>
+  iframe[sandbox~="allow-scripts"] {
+    display: none;
+  }
+  </style>
+
   <div id="disqus_thread"></div>
   <script>
       /**
