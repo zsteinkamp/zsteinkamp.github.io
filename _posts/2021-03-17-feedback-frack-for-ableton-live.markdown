@@ -70,7 +70,9 @@ It is possible to have a same-channel feedback loop, given what Live offers out 
 
 We will need to use two Audio Effect Racks, nested. The Outer Rack is the main structure of the device, providing a Feedback Chain and a Dry/Mix Chain. Within the Dry/Mix chain is another Audio Effect Rack that has a Feedback-In Chain and a Dry Chain.
 
-The Outer Rack's Feedback Chain contains a Gate device, with sidechain monitoring enabled, set to pull audio from the Inner Audio Effect Rack's Post Mixer signal. This is the feedback input. The signal passes through your choice of effects. The Feedback Chain is muted in the outer rack, since we do not want that signal going out of there.
+The Outer Rack's Feedback Chain contains a Gate device, with sidechain monitoring enabled, set to pull audio from the Inner Audio Effect Rack's Post Mixer signal. This is the feedback input. The signal passes through your choice of effects. The Feedback Chain is muted in the outer rack, since we do not need that signal going out of there, but it's OK to unmute it too.
+
+The control for the feedback amount is in the form of a Utility device, mapped to one of the Rack's knobs. This Utility also has DC Offset removal enabled, since feedback loops can often create large DC offsets.
 
 The Inner Rack's Feedback-In Chain also contains a Gate device with sidechain monitoring enabled, this time pulling audio from the Outer Rack's Feedback Chain, Post FX.
 
