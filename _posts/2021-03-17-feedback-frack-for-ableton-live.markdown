@@ -78,6 +78,6 @@ The Inner Rack's Feedback-In Chain also contains a Gate device with sidechain mo
 
 You can trace the Dry signal through this rack by following the black lines toward the bottom of the diagram. The grey lines are audio paths, but they are not used. The feedback loop is illustrated with red lines.
 
-<div style="margin-left:-150px; margin-right:-150px;"><img width="1440" src="https://docs.google.com/drawings/d/e/2PACX-1vQKq7JOCJy9Ab0XI1fWpjcmGlmrKhHerZjZFaLX-MP6GgaAII2YL6ttpzmNf0pNxuxkkCwSdqrmtV3I/pub?w=1440&h=576"></div>
+<div style="margin:0 -83px;"><img width="1440" src="https://docs.google.com/drawings/d/e/2PACX-1vQKq7JOCJy9Ab0XI1fWpjcmGlmrKhHerZjZFaLX-MP6GgaAII2YL6ttpzmNf0pNxuxkkCwSdqrmtV3I/pub?w=1440&h=576"></div>
 
 Please let me know if you use this, or have ideas on how to improve it!
