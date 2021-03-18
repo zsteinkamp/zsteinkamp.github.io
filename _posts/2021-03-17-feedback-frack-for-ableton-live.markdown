@@ -41,9 +41,9 @@ Here is a TR-606 hihat sample played through a feedback loop containing a simple
 </audio>
 <br/>
 
-Here's an electric piano played through a feedback loop containing a Phaser, set to a fairly fast cycle time, while modulating only the feedback amount:
+Here's the mostly-stock Operator patch played through a feedback loop with Valhalla Plate then SoundToys FilterFreak (high-pass), while modulating the plate mod depth, decay, filter frequency, and feedback amount:
 <audio controls>
-  <source src="/audio/feedback-ep-phaser.mp3" type="audio/mpeg">
+  <source src="/audio/feedback-plate-hpf.mp3" type="audio/mpeg">
   Sorry, your browser does not support the audio tag.
 </audio>
 <br/>
