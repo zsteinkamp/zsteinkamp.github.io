@@ -14,7 +14,7 @@ Normally, when you want to build a feedback loop in Live, you would use a Return
 
 While this does work, it's fairly clumsy since there are multiple tracks involved. Creating a new Return track for every experiment you want to have clutters the workspace and there is a physical/mental distance between the device making the initial sound and its feedback loop. I thought that it must be possible, given what Live offers, to have a single device that implements a feedback loop.
 
-Well, I figured it out, and you can [download the Feedback FRACK device here](/audio/FeedbackFRACK.adg).
+Well, I figured it out, and you can [download the Feedback FRACK device here](/audio/FeedbackFRACK.adg). Note that this device was created in Live 11, and will not work in earlier versions. :(
 
 
 # Using the Feedback FRACK
