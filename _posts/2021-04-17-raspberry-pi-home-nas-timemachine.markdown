@@ -31,7 +31,7 @@ Initially I set up the pair of hard drives in a RAID-1 set using `mdadm`, but th
 
 So I settled on having a primary and backup disk, with a nightly cron job to `rsync` the primary to the backup drive. This gives me tons of flexibility in future drive size and a 1 day buffer against mistakes. I don't need the improved read performance that RAID can offer, so for me this was the best solution.
 
-To set up the daily cron job, put a file in /etc/cron.daily/backup_external with the following content:
+To set up the daily cron job, put a file in `/etc/cron.daily/backup_external` with the following content:
 ```
 #!/usr/bin/sh
 
@@ -52,7 +52,7 @@ PARTUUID=d48b679a-3cd1-c142-a84d-8961aba30987  /mnt/backup   ext4  defaults     
 ```
 
 ## Setting up Samba to Look Like a Time Capsule
-After installing Samba, you can configure it so that Macs on your network see it as an Apple Time Capsule. I wanted to have one share that was for shared storage, and another dedicated to backups.
+After installing Samba with `sudo apt install samba samba-common-bin`, you can configure it so that Macs on your network see it as an Apple Time Capsule. I wanted to have one share that was for shared storage, and another dedicated to backups.
 
 Since this is inside my home network and I don't have a guest network, I decided not to require authentication to connect to the shares.
 
@@ -90,6 +90,7 @@ fruit:delete_empty_adfiles = yes
     read only = no
     fruit:time machine = yes
 ```
+Restart Samba (`sudo service smbd restart`), and you're set.
 
 ## Mac Discovery
 To allow the Macs and iOS devices on the network to discover the Raspberry Pi for backups and file sharing, you can use the avahi-daemon. This was already installed and running on my Pi. This is the content of my `/etc/avahi/services/samba.service` file:
