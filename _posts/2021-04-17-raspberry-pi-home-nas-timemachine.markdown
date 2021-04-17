@@ -39,6 +39,22 @@ rsync -av --delete /mnt/primary/ /mnt/backup/
 ```
 Then run `sudo chmod 755 /etc/cron.daily/backup_external` and you're set.
 
+## Disk Setup
+Use the `fdisk` command to first delete the partition that may have come pre-configured on the disk, then create a single partition to use. You will need to do this for both disks. On my system, they were `/dev/sda` and `/dev/sdb`.
+```
+sudo fdisk /dev/sda
+...
+sudo fdisk /dev/sdb
+```
+First hit `d` for delete, then `n` to add a new partition. Accept all the defaults, and then `w` to write the new partition table. Don't forget to do this for both disks.
+
+After partitioning, you will need to format the disks. Use the `mkfs` command for that, again on each drive.
+```
+mkfs /dev/sda1
+...
+mkfs /dev/sdb1
+```
+
 ## Mounting the Disks
 In a Linux system, you have the choice to mount the disks by device node (e.g. `/dev/sda`) or by UUID. Because drives may come up at different times, or get plugged into different USB ports, the by-UUID scheme seemed like the best one for me.
 
@@ -51,12 +67,29 @@ PARTUUID=06bfa78d-63ee-6643-bbc7-cc89b1e97cf8  /mnt/primary  ext4  defaults     
 PARTUUID=d48b679a-3cd1-c142-a84d-8961aba30987  /mnt/backup   ext4  defaults          0  0
 ```
 
+Substitute your PARTUUIDs above, then run the following to mount the disks.
+```
+sudo mkdir /mnt/primary
+sudo mkdir /mnt/backup
+sudo mount -a
+```
+If all is well, both /mnt/primary and /mnt/backup will have a `Lost+Found` directory in them.
+
+## Setting Up Folders
+I wanted one share/folder for Time Machine backups and another for general shared storage. Because I don't want to require a user login for either, do the following to set up two folders:
+```
+sudo mkdir /mnt/primary/backups
+sudo mkdir /mnt/primary/shared
+sudo chown nobody: /mnt/primary/backups
+sudo chown nobody: /mnt/primary/shared
+```
+
 ## Setting up Samba to Look Like a Time Capsule
 After installing Samba with `sudo apt install samba samba-common-bin`, you can configure it so that Macs on your network see it as an Apple Time Capsule. I wanted to have one share that was for shared storage, and another dedicated to backups.
 
 Since this is inside my home network and I don't have a guest network, I decided not to require authentication to connect to the shares.
 
-This is what I added to the end of `/etc/samba/smb.conf` to do all that:
+This is what I added to the end of `/etc/samba/smb.conf` to do all that. Note the use of the "nobody" account here, as well as in creating the folders above.
 ```
 usershare allow guests = yes
 
