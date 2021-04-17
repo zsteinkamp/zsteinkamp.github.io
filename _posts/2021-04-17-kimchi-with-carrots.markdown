@@ -6,7 +6,7 @@ categories: post
 entry:
   source: post
   data:
-    thumb_url: ''
+    thumb_url: 'https://photos.smugmug.com/Random-Blog-Images/i-JTfSZG4/0/e05352b0/S/kimchi_hands-S.jpg'
 ---
 I love kimchi! It's sauerkraut's Korean cousin and is useful in many dishes as a side. I'll eat it with a sausage on a tortilla with mayo and mustard for lunch, or put on top of an aloo parata with some sour cream. Add to fried rice for a spicy and sour kick, or use it to elevate eggs and potatoes. It's satisfying to make, as it self-fermets on the counter from a lovely spicy vegetable melange into a delicious and complex spicy sour fiesta. It keeps super well in the fridge, so it can always be there for you.
 
