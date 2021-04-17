@@ -92,7 +92,7 @@ fruit:delete_empty_adfiles = yes
 ```
 
 ## Mac Discovery
-To allow the Macs on the network to discover the Raspberry Pi for backups and file sharing, you can use the avahi-daemon. This was already installed and running on my Pi. This is the content of my `/etc/avahi/services/samba.service` file:
+To allow the Macs and iOS devices on the network to discover the Raspberry Pi for backups and file sharing, you can use the avahi-daemon. This was already installed and running on my Pi. This is the content of my `/etc/avahi/services/samba.service` file:
 ```
 <?xml version="1.0" standalone='no'?><!--*-nxml-*-->
 <!DOCTYPE service-group SYSTEM "avahi-service.dtd">
@@ -119,6 +119,7 @@ After editing the file, you will need to restart the avahi service with:
 ```
 sudo service avahi-daemon restart
 ```
+At this point, you should be able to see the Raspberry Pi from the Finder on Macs under Network, and in the Files app on iOS devices under Shared.
 
 ## Wrap Up
 After getting everything working, I buttoned up the hardware by attaching it to a piece of wood using velcro, mostly to avoid having the hard drives getting bumped or knocked off their shelf. I attached it to the Eero with an ethernet cable, which easily doubled the speed at which files could be transferred to/from it vs. over WiFi. Connecting the Macs in the house to it was a piece of cake, and it's fun to have an always-on Linux server in the house.
