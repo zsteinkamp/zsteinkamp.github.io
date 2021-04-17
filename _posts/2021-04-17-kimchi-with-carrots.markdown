@@ -10,7 +10,7 @@ entry:
 ---
 I love kimchi! It's sauerkraut's Korean cousin and is useful in many dishes as a side. I'll eat it with a sausage on a tortilla with mayo and mustard for lunch, or put on top of an aloo parata with some sour cream. Add to fried rice for a spicy and sour kick, or use it to elevate eggs and potatoes. It's satisfying to make, as it self-fermets on the counter from a lovely spicy vegetable melange into a delicious and complex spicy sour fiesta. It keeps super well in the fridge, so it can always be there for you.
 
-This recipe makes approximately 32oz of Kimchi, but it really depends on the size of head of cabbage you use. Easily doubled or quadrupled if you're havin' a party.
+This recipe makes approximately 48oz of Kimchi, but it really depends on the size of head of cabbage you use. Easily doubled or quadrupled if you're havin' a party.
 
 ## Ingredients
 *   1 head napa cabbage
@@ -48,3 +48,30 @@ This recipe makes approximately 32oz of Kimchi, but it really depends on the siz
 *   **Salt:** Use salt that is free of iodine and anti-caking agents, which can inhibit fermentation, like sea salt or kosher salt.
 *   **Water:** Chlorinated water can inhibit fermentation, so use spring, distilled, or filtered water if you can.
 *   **Veggies:** Feel free to add any other veggies you think may be good. I've had great luck with beets and cauliflower in addition to the carrots.
+
+<p>
+  The cut napa cabbage.<br/>
+  <img src="https://photos.smugmug.com/Random-Blog-Images/i-j2fTrCM/0/6415bc63/L/IMG_2234-XL.jpg" style="width:100%"/>
+</p>
+
+<p>
+  After its salt massage and 15 minute nap, cover with water and weigh down with beans, organic preferably. Wait two hours.<br/>
+  <img src="https://photos.smugmug.com/Random-Blog-Images/i-djGWhDb/0/94f68be6/X2/IMG_2235-XL.jpg" style="width:100%"/>
+</p>
+
+<p>
+  Rinse, drain, then work in the super flavor paste.<br/>
+  <img src="https://photos.smugmug.com/Random-Blog-Images/i-mKsjpPQ/1/e0337593/XL/IMG_2236-XL.jpg" style="width:100%"/>
+</p>
+
+<p>
+  Pack tightly into jars. It will look dry at first, but when you pack it in the liquid will come out.<br/>
+  <img src="https://photos.smugmug.com/Random-Blog-Images/i-zq79s2D/0/915f32f2/XL/IMG_2237-XL.jpg" style="width:100%"/>
+</p>
+
+<p>
+  Et Voila! Put the lids on loosely, and set on a tray so that if it does bubble over, the magic juice doesn't make a mess.<br/>
+  <img src="https://photos.smugmug.com/Random-Blog-Images/i-3STfVJR/0/d5003238/XL/IMG_2239-XL.jpg" style="height:20em; text-align:center;"/>
+</p>
+
+
