@@ -7,7 +7,6 @@ entry:
   id: 1254
   source: post
   data:
-    thumb_url: "/system/20170515-sound_post/mixer.png"
     title: The Window Drum Dilemma
     excerpt: Ever have a deep bass sound that's stunning in the studio, but falls
       flat on "regular" speakers? Perhaps this post can offer a solution to fix that.
@@ -91,10 +90,6 @@ Bus B had a similar but opposite EQ, with a high-cut set to 75Hz, and a few dB o
 
 
 If I made Bus B a mono channel, Logic would sum the left and right signals together and I'd be back at square one with no bass. I had the idea that I could pan Bus B hard left (could have just as well have been right) so that only the left channel would be represented. This channel was routed to a third bus, set up to be mono. Since only the left channel of the original was used, this mono bass channel would not have any phasing issues.
-
-
-
-<img src="/system/20170515-sound_post/mixer.png" class="img-responsive"/>
 
 
 

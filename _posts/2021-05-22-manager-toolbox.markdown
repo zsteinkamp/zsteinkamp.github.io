@@ -70,7 +70,7 @@ The rows in this sheet are the specific technologies or technical concepts that 
 
 This gives you a numeric space to develop important insights or make some very important decisions. The sum of values in a row gives you a score of how capable your team is in that area. This can inform hiring decisions, as you now have a quantifiable basis for looking for specific skills. The variance of a particular team member's values indicates the breadth of their skill. You will see that your generalists have a low variance, and the specialists have a high variance. One tactic for identifying growth areas is to select areas adjacent to a skill that an employee has high competency in to focus on developing.
 
-This information can be visualized in graphical form, which gives a picture of your team's competencies, and may even be plotted over time to show growth.
+This information can be visualized in graphical form, which gives a picture of your team's competencies, and may even be plotted over time to show growth. The spreadsheet below is one example of such a document, and if you click through to it, you can see an interactive graph showing a visual representation of individual and team competency.
 
 [Quantified Tech Stack](https://docs.google.com/spreadsheets/d/1MIwdApDMeo-_6Y8WeQ1GqKj0y1zE5XQAgnmzfQaGpYs/edit#gid=1018258632)
 <iframe style="width:100%; height: 40em;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrlC42DJQajuY4lbAaEOYmlhvMLM-FtUuMfHDOA9MNSeliWu-vnpX5p5A2tZaPsSow7eFJHLsM0_SG/pubhtml?gid=1018258632&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
