@@ -6,11 +6,22 @@ categories: post
 entry:
   source: post
 ---
+
 <style>
 .post-content h1 { font-size:200%; }
 .post-content h2 { font-size:150%; }
 .post-content h3 { font-size:100%; text-transform:uppercase; }
 </style>
+
+Here's the tl;dr:
+>   * Your job is to grow your team.
+>   * Write down expectations of team members, broken down by level.
+>   * Quantify your team's capabilities.
+>   * Remember good work and areas to improve.
+>   * Plan appropriately -- individually and with the group.
+
+Now read on for more detail, including actual tools to implement the above.
+
 In my career as a software developer, I have ping-ponged several times between being an individual contributor and a manager. In all but one case in the past, the team needed a manager either because of growth or a manager departing, and I was picked because I was the "more senior" one or seemed like I could handle the duties. In talking with colleagues, this seems to be the norm in the industry. Companies rarely, if ever, provide guidance or training to managers, and actual tactical development team management skills is not something I have seen in any university program.
 
 Being "the manager" was a role that I would embrace initially, but would soon long for the simple days of the individual contributor, where I exercise my real passion -- making things. I shared this with a boss some number of years ago, and he valiantly tried to convince me that building my team could be viewed the same as building software. While true, I wasn't ready to hear that message at that time.
