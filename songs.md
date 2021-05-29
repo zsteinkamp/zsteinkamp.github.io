@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Songs
+navtitle: Music
 permalink: /songs/
 data:
 - title: Room

@@ -5,6 +5,28 @@ navtitle: Resume
 permalink: /resume/
 ---
 <style>
+@media print
+{
+  body {
+    font-size: 11px;
+  }
+
+  header, footer
+  {
+    display: none;
+  }
+  header.post-header {
+    display: block;
+  }
+}
+.post-content h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
+  border-top: 2px solid #555;
+  margin-top: 2em;
+}
 h4.job-date {
   line-height:39px;
 }
@@ -24,7 +46,7 @@ h5.job-date {
 San Jose, California
 
 # About
-I have been building things for the web since 1994, and at scale since 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, datacenters, people management, hiring, and work flow optimization. I am [not currently] seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
+I have been building apps for the web since 1994, and at scale since 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization. I am [not currently] seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
 
 # Skill Summary
 *Programming Languages*  
@@ -34,10 +56,10 @@ C, C++, Java, Javascript, Perl, PHP, Python, Ruby
 Linux, Mac OS X
 
 *Concepts*  
-Performance, Scalability, Usability, Fault-Tolerance, Security, Real-Time Data, Efficient Software Factory, Delighed Customers, Building Capable, Happy, and Productive Teams
+Customer-Focus, Performance, Scalability, Usability, Fault-Tolerance, Security, Real-Time Data, Efficient Software Factory, Building Capable, Happy, and Productive Teams
 
 *Alphabet Soup*  
-AES, AJAX, CI/CD, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS, SHA, SQL, TCP/IP, XML, XSS
+AES, AJAX, CI/CD, CSRF, CSS, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS, SHA, SQL, TCP/IP, XML, XSS
 
 # Experience
 
@@ -46,15 +68,15 @@ AES, AJAX, CI/CD, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, 
 ### Splunk
 {:.job-company}
 #### Principal Engineer / Sr. Engineering Manager -- Splunk Value Platform
-* Hired to build tools for the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved deal close rate and size by 5-10%.
-* Architected and built a flexible, simple, scalable application platform for SVP tools using React/Redux, Bootstrap, Sails.js, Node.js, Postgres, Redis, AWS, ECR, Docker.
+* Hired to build tools for the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved sales success rate by 70%+.
+* Architected and built a flexible, simple, maintainable application platform using React/Redux, Bootstrap, Sails.js, Node.js, Postgres, Redis, AWS ECS, and Docker.
 * Hired and mentored senior and junior staff, which have grown to be a highly regarded and decorated team within Splunk.
-* Simultaneously handled the roles of Scrum master, technical lead, and people manager.
-* Developed a super efficient developer workflow leaning heavily into Docker's capabilities.
-* Novel work to build an efficient pipeline for generating customized PowerPoint and Excel output from a Node.js backend.
-* Developed an automated CI/CD pipeline.
+* Simultaneously handled the roles of technical lead and people manager.
+* Developed a super efficient developer workflow leaning heavily into Docker.
+* Novel work to build an efficient pipeline for generating customized downloadable PowerPoint and Excel files from a Node.js backend.
+* Developed an automated, scalable, extensible CI/CD pipeline.
 * Created application monitoring dashboards and alerts using Splunk integrated with VictorOps and Slack.
-* Key player in shaping the organization's strategy around management, agile principles, hiring, product/operational analytics, infrastructure, and automation.
+* Key player in shaping the organization's strategy and tactics around management, agile practices, hiring, product/operational analytics, infrastructure, and automation.
 
 #### Jan 2015 - Jul 2017
 {:.job-date}
@@ -74,7 +96,7 @@ AES, AJAX, CI/CD, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, 
 {:.job-date}
 ### DataTorrent
 {:.job-company}
-#### Software Engineer -- Real Time Big Data Processing
+#### Software Engineer -- Real Time, Huge Scale Data Stream Processing
 * Significant contributor to DataTorrent's visual stream processing editor, dtAssemble. This tool allows teams to build and deploy real-time data processing flows without writing code. Technologies used: AngularJS, Twitter Bootstrap, JSPlumb.
 * Assisted in enhancements to the product's Java-based web API server.
 * Contributed to DataTorrent's 'Malhar' open-source library of stream processing operators.
@@ -111,7 +133,7 @@ AES, AJAX, CI/CD, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, 
 * Co-architected and implemented inter-datacenter file and database replication.
 * Co-designed and implemented customer-facing analytics site.
 * Assisted with design and implementation of frontend and social features.
-* Implemented novel image manipulation technology in Abobe Flash to map 16 bit monochrome images to 8 bit computer displays in ways familiar to radiologists.
+* Implemented novel image manipulation technology in Abobe Flash to map 16 bit monochrome images to 8 bit RGB computer displays in ways familiar to radiologists.
 * Responsible for application security design and ongoing security testing.
 
 #### Mar 2007 - Feb 2009
@@ -163,13 +185,23 @@ AES, AJAX, CI/CD, CSRF, CSS, D3, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, 
 {:.job-date}
 ### Cal Poly, SLO
 Bachelor of Science degree in Business Administration, with emphasis in Information Systems / Computer Science.
-* Recipient of the 1998 Peoplesoft Information Systems Award -- Awarded to the Cal Poly MIS student who best demonstrates practical knowledge and interest in the Information Systems field.
+* Recipient of the 1998 Peoplesoft (Oracle) Information Systems Award -- Awarded to the Cal Poly MIS student who best demonstrates interest and ability in the Information Systems field.
+
+# Related Posts
+
+* [Manager Toolbox](/post/2021/05/22/manager-toolbox.html)
+* [On Availability](/post/2020/11/21/on-availability-post.html)
+* [Virtuous Dev Team Metrics](/post/2020/09/05/virtuous-dev-team-metrics.html)
+* [Systems of Working - The Role of Leadership](/post/2019/08/24/systems-of-working-the-role-of-leadership.html)
+* [On Efficiency](/post/2019/08/24/on-efficiency.html)
+* [On Dates](/post/2019/08/24/on-dates.html)
+* [How To Interview](/post/2019/08/10/how-to-interview-post.html)
 
 # Personal
 
 * Avid [cyclist, trail runner, and ultramarathoner](http://app.strava.com/athletes/1752986).
-* Music maker ([Spotify](https://open.spotify.com/artist/4zlbGPYkjV7EpxXHyfZNAh) / [Apple](https://itunes.apple.com/us/artist/zack-steinkamp/id1217691470) / [Google](https://play.google.com/store/music/artist/Zack_Steinkamp?id=Ahvn4wxah4srjesbrcispbgac2y))
+* Music maker ([Spotify](https://open.spotify.com/artist/4zlbGPYkjV7EpxXHyfZNAh) / [Apple](https://itunes.apple.com/us/artist/zack-steinkamp/id1217691470))
 * Published [photographer](https://www.flickr.com/photos/thenobot/sets/72157628094692422)
 * High Performance Driving Instructor for the [BMWCCA](http://www.ggcbmwcca.org/) and former SCCA club racer.
 * Woodworker
-* Programmer since age 8 (1982)
+* Programmer [since age 8](/post/2021/05/22/computer-history.html) (1982)
