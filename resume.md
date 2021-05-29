@@ -68,21 +68,20 @@ AES, AJAX, CI/CD, CSRF, CSS, DevOps, git, HAML, HTML, HTTP, PCI, RoR, SASS, SCSS
 ### Splunk
 {:.job-company}
 #### Principal Engineer / Sr. Engineering Manager -- Splunk Value Platform
-* Hired to build tools for the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved sales success rate by 70%+.
+* Hired to build the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved customer acquisition and expansion success rate by 70%+.
+* Key player in shaping the organization's strategy and tactics around management, agile practices, hiring, product/operational analytics, infrastructure, and automation.
+* Hired and mentored engineering and design staff, which have grown to be a highly regarded and decorated team within Splunk.
 * Architected and built a flexible, simple, maintainable application platform using React/Redux, Bootstrap, Sails.js, Node.js, Postgres, Redis, AWS ECS, and Docker.
-* Hired and mentored senior and junior staff, which have grown to be a highly regarded and decorated team within Splunk.
-* Simultaneously handled the roles of technical lead and people manager.
-* Developed a super efficient developer workflow leaning heavily into Docker.
-* Novel work to build an efficient pipeline for generating customized downloadable PowerPoint and Excel files from a Node.js backend.
+* Developed super efficient software development workflow and toolkit, leaning heavily into Docker.
+* Novel work to build an efficient pipeline for generating customized downloadable PowerPoint and Excel files from a Node.js backend with minimal codewriting.
 * Developed an automated, scalable, extensible CI/CD pipeline.
 * Created application monitoring dashboards and alerts using Splunk integrated with VictorOps and Slack.
-* Key player in shaping the organization's strategy and tactics around management, agile practices, hiring, product/operational analytics, infrastructure, and automation.
 
 #### Jan 2015 - Jul 2017
 {:.job-date}
 ### Hoopla Software 
 {:.job-company}
-#### Software Engineer -- Digital Signage and Motivational Metrics Platform
+#### Software Engineer -- Digital Signage and Metrics Platform
 * Designed secure, flexible network architecture in Amazon EC2 / VPC.
 * Co-created devops infrastructure using Ansible, Amazon EC2, Docker, bind, rsyslogd, Splunk.
 * Co-created automated continuous build/test/deploy system using GitHub, Jenkins, Docker, Ansible.
