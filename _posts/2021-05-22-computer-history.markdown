@@ -22,7 +22,7 @@ Later on, they started to get some IBM PC systems, and I would love to go in and
   <figcaption>Lotus 1-2-3 on an IBM PC.</figcaption>
 </figure>
 
-One day in 1982, a computer showed up at our house. I think my dad bought it and brought it home, but I don't remember clearly. It was a Commodore VIC-20 -- a popular PC at the time. It didn't have its own monitor, so we plugged it into our little 13" TV. It could display 16 colors, but our TV was black and white -- but that didn't matter because my imagination could translate those shades of grey into full glorious color.
+One day in 1982, a computer showed up at our house. I think my dad bought it and brought it home, but I don't remember clearly. It was a Commodore VIC-20 -- a popular PC at the time. It didn't have its own monitor, so we plugged it into our little 13" TV. It could display 8 colors, but our TV was black and white -- but that didn't matter because my imagination could translate those shades of grey into full glorious color.
 
 <figure>
   <img src="/images/computer-history/Commodore-VIC-20-FL.jpg"/>
@@ -38,6 +38,11 @@ When you turned it on, you were greeted with a flashing cursor, an invitation to
 
 This computer had no way to "save" anything. You could type in a program, up to 4,000 characters in size (approximately one typewritten page of text), which may take all afternoon for an 8 year old with no typing skills. As long as the computer was powered on, the program would remain. As soon as someone (especially a dumb sister) turned the computer off, it was all gone. This limitation had two effects: 1) I got a little more proficient at typing, and 2) I usually would write smaller programs. But I was writing programs … nothing too fancy, but I explored some of this little computer's capabilities like manipulating text on the screen, colors, and beeps.
 
+My mom recalls a story that any programmer from any era can relate to:
+<blockquote>
+I remember a day when you were probably 9 and Dick was working the night shift, the two of you sat at the Hoosier desk in the family room in side by side chairs trying to write a program to answer multiplication problems.  You guys tried and tried, no luck. Soon it was time for Dick to go to work.  After he left, you continued working for a few more minutes then, in disgust, you turned off the computer and stomped off to play outside.  You were outside for maybe 15 minutes before you rushed back in, sat back down at the computer and wrote four lines of code that delivered the answers to all your multiplication problems.  TaDa!
+</blockquote>
+
 After a few months, my parents bought a Commodore Datasette, which plugged into the computer and allowed it to save and load programs from cassette tapes. This brought a lot of peace to the house, since dumb sisters could no longer spoil my hours of work, and allowed me to more easily experiment with improving programs. It was very very slow, and it had a little counter on the side, so if I was saving more than one program on a tape, then I would need to write down not only the program name, but the tape counter number to fast-forward or rewind before loading it.
 
 <figure>
@@ -48,6 +53,11 @@ After a few months, my parents bought a Commodore Datasette, which plugged into 
 I had been in a computer class over the summer at a local college, and along with the normal suite of Apple II's (turtle graphics was my jam) and Atari 400s and 800s, there was one Commodore 64. This was my favorite computer in the room, since I owned its inferior older brother. The college's C64 was connected to a color monitor, and I would spend as much time as I could with it. Its 64 kilobytes of memory (16 times my old VIC-20) seemed infinite, and it could display 40 columns of text, instead of the 27 columns of the VIC-20.
 
 One day for reasons that I don't know, the VIC-20 stopped working. My parents put it back in its box and sent it back to Commodore for repairs. I'm sure it felt like an eternity to me to not have a computer. A couple of weeks later, a box was delivered to our house from Commodore. I opened it up and was shocked to see that it was a Commodore 64. I was stunned. I recall this being explained to us as a fortunate accident, and I didn't lobby to fix the mistake.
+
+Again, my mom's memory is clear:
+<blockquote>
+I remember being totally surprised when the Vic-20 was returned as a Commodore 64.  I called Commodore to ask what they'd like us to do, since we had gotten a different computer than the one we'd sent in.  They said, "It isn't worth it for us to send back a Vic-20.  We always replace them with a Commodore 64 now.  Enjoy it!"
+</blockquote>
 
 Along with its increased memory and 40 column text, the C64 had some impressive graphics capabilities called "sprites" and a legendary sound chip that basically made it into a 4 voice synthesizer. Fun fact: there are some actual synthesizers sold in the 2000s that used this sound chip.
 
@@ -85,7 +95,14 @@ In the summer between 5th and 6th grade, my mom enrolled me in a camp at Cal Sta
   <figcaption>Apple IIe with one floppy drive and Apple's green monochrome monitor.</figcaption>
 </figure>
 
-In 6th grade, instead of going to morning recess, I would go to the 2nd grade class and teach the kids there how to use the Apple II they had in their classroom. Definitely my choice! I would also sometimes hang out after school in the computer lab with Mr. Shupe and play Choplifter on the fleet of Apple IIs there. I also made a neighborhood friend whose dad had an Apple IIe in a custom wood chassis. We would play Zork and Hitchhiker's Guide To The Galaxy all afternoon. One day he wondered aloud if I only liked him for his computer … well, we did have a lot of fun on that computer!
+In 6th grade, instead of going to morning recess, I would go to the 2nd grade class and teach the kids there how to use the Apple II they had in their classroom. Definitely my choice!
+
+One more nugget from my mom, that anyone who knows me today can certainly understand:
+<blockquote>
+When you were helping the 2nd graders learn to use their Apple 2s, the kids called you The Computer Wiz.  I was in the office one day, when a mom said to me, "Aren't you The Computer Wiz's mom?"  I told her I was.  She said, "Well, thanks a lot!  My 2nd grader will only wear shorts to school because The Computer Wiz only wears shorts!"  That still makes me laugh!
+</blockquote>
+
+I would also sometimes hang out after school in the computer lab with Mr. Shupe and play Choplifter on the fleet of Apple IIs there. I also made a neighborhood friend whose dad had an Apple IIe in a custom wood chassis. We would play Zork and Hitchhiker's Guide To The Galaxy all afternoon. One day he wondered aloud if I only liked him for his computer … well, we did have a lot of fun on that computer!
 
 <figure>
   <img src="/images/computer-history/zork.jpeg"/>
