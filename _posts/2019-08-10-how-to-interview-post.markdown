@@ -106,6 +106,7 @@ A good candidate is someone who will improve the team they are hired into. Hopef
 ## Behavioral Red Flags
 Certain behaviors in the candidate should be considered red flags. Here are a few in addition to what has been mentioned:
 * Dismissive behavior. A good candidate shows respect for their future colleagues.
+* Chauvinistic behavior. Ensure you have at least one member of another gender in your interview panel. It happens too often that an interviewee treats women on the panel with less respect or regard than the men. This is a big and important red flag and should have no place in your organization.
 * Not being a good listener. Good communication starts with good listening.
 * Not asking questions. Curiosity goes a long way.
 * Inappropriate language. We want to build a professional, respectful, inclusive environment.
