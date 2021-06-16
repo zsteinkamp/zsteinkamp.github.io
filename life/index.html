@@ -55,16 +55,12 @@
     </div>
     <div id="controls">
       <div>
-        <button id="play" onclick="playPause();" name="play">Play / Pause</button>
+        <button id="play" onclick="playPause();">Play / Pause</button>
+        <button id="step" onclick="clickStep();">Step</button>
+        <button id="restart" onclick="reset();">Reset</button>
       </div>
       <div>
-        <button id="step" onclick="step();" name="step">Step</button>
-      </div>
-      <div>
-        <button id="restart" onclick="restart();" name="restart">Restart</button>
-      </div>
-      <div>
-        <label for="spawn">Random Init:</label> <input type="number" onChange="setVal('random'); restart();" id="random" step="0.05" min="0" max="1" />
+        <label for="spawn">Random Init:</label> <input type="number" onChange="setVal('random'); reset();" id="random" step="0.05" min="0" max="1" />
       </div>
       <div>
         <label for="lonely">Lonely At:</label> <input type="number" onChange="setVal('lonely')" id="lonely" min="0" max="8" />

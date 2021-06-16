@@ -138,8 +138,8 @@ function setVal(key) {
 
 // Step forward one iteration.
 function step() {
-  render();
   iterate();
+  render();
 }
 
 function start() {
@@ -161,13 +161,21 @@ function playPause() {
   }
 }
 
-function restart() {
+function clickStep() {
   if (interval !== null) {
     pause();
   }
+  step();
+}
+
+function reset() {
+//  if (interval !== null) {
+//    pause();
+//  }
   iterations = 0;
   seedMatrix();
-  start();
+  render();
+//  start();
 }
 
 // Populate input values.
@@ -178,4 +186,5 @@ for (const key in vals) {
 initMatrixElements();
 
 // Now go for it.
-restart();
+reset();
+start();
