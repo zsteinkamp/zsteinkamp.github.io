@@ -22,7 +22,7 @@
       }
       #app .cell.on {
         background-color: black;
-        border: none;
+        border-color: #333;
       }
       #controls {
         display: grid;
@@ -46,6 +46,9 @@
     <div id="controls">
       <div>
         <button id="play" onclick="playPause();" name="play">Play / Pause</button>
+      </div>
+      <div>
+        <button id="step" onclick="step();" name="step">Step</button>
       </div>
       <div>
         <button id="restart" onclick="restart();" name="restart">Restart</button>

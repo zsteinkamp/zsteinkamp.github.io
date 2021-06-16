@@ -99,10 +99,14 @@ function setVal(key) {
   vals[key] = parseFloat(document.getElementById(key).value);
 }
 
+function step() {
+  render();
+  iterate();
+}
+
 function start() {
   interval = setInterval( () => {
-    render();
-    iterate();
+    step();
   }, frameDelayMs);
 };
 
