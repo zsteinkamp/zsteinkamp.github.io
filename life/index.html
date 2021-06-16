@@ -7,6 +7,12 @@
         overflow: hidden;
         font-family: sans-serif;
       }
+      a,
+      a:visited,
+      a:hover {
+        text-decoration: none;
+        color: #009;
+      }
       #app {
         display: grid;
         width: 100vw;
@@ -36,7 +42,7 @@
       }
       #iterations {
         display: inline-block;
-        width: 10em;
+        width: 5em;
       }
     </style>
   </head>
@@ -67,6 +73,9 @@
       </div>
       <div>
         Iterations: <span id="iterations">0</span>
+      </div>
+      <div>
+        <a target="code" href="https://github.com/zsteinkamp/zsteinkamp.github.io/blob/master/life">CODE</a>
       </div>
     </div>
     <script src="index.js"></script>
