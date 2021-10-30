@@ -33,17 +33,17 @@ As with most investments, the tradeoff of pair programming is one of short term 
 There are as many ways to practice pair programming as there are programmers. Here are some of the best known modes of implementation, with a short description of each.
 
 
-## Two Assignees {#two-assignees}
+### Two Assignees {#two-assignees}
 
 A good general practice for software teams is to delegate a medium to large story to two people in the team. This pair becomes a micro-team on their own, deciding on the overall solution approach, how to divide the story into subtasks between them, and regular (at least daily) check ins and reviews. The pair is available to one another to discuss problems or ideas at a moment's notice. For any work that can be divided between people or that involves designing a solution that will be long-lived or far-reaching, this approach should be considered.
 
 
-## Traditional Pairing {#traditional-pairing}
+### Traditional Pairing {#traditional-pairing}
 
 Probably the canonical example of Pair Programming, and easily applied to short sessions. Having two people in front of a single piece of code can be very useful for untangling messy code, understanding over-complicated or opaquely written SQL or Regular Expressions, or really focusing on a mission-critical method to analyze it in great detail for corner cases, performance, or simplification. It is possible that pairs can evolve to be efficient on a larger time scale, but this takes either a good combination with natural chemistry, or an understanding that good collaboration improves over time.
 
 
-## Rubber Duck {#rubber-duck}
+### Rubber Duck {#rubber-duck}
 
 Perhaps the most lightweight Pair Programming concept, the name "Rubber Duck" comes from the fact that one of the people involved may as well be a rubber duck sitting on the desk. The idea here is that when faced with a challenge, simply by the act of explaining the problem to another person, the programmer hitting the roadblock will gain more clarity on the problem at hand. In practice, it is usually questions that the other person asks that leads to that clarity, but it's not uncommon for an "aha!" moment to come halfway through the explanation, with no words uttered by the rubber duck.
 
