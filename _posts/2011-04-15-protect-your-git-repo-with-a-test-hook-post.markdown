@@ -22,7 +22,8 @@ As long as people run "rake test" before pushing their code to the central repos
 
 Since the correctness of the data in this repo is so important, we put a small script on our git server that prevents commits that do not pass the tests from being "received" by the server.  The script is in {repodir}/hooks/pre-receive, and it looks something like this:
 
-<code>#!/usr/bin/env ruby
+```
+#!/usr/bin/env ruby
 # hooks/pre-receive - Git hook for verifying repo data
 
 require "logger"
@@ -81,6 +82,7 @@ if ps.to_i > 0
 end
 
 $Log.info "#{ME} exit"
-exit 0</code>
+exit 0
+```
 
 Now it is impossible for a change that does not pass the tests to go out.  Another nice feature of this system is that the tests are part of the code in the repo, so nothing else needs to change on the git server side when we change our tests.
