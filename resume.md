@@ -138,15 +138,15 @@ AWS, CI/CD, CSS, DevOps, git, HTML, HTTP, JSX, Node, PCI, RoR, SCSS, SHA, SQL, T
 * Co-designed and implemented customer-facing analytics site.
 * Responsible for application security design and ongoing security testing.
 * Assisted with design and implementation of frontend and social features.
-* Implemented novel image manipulation technology in Abobe Flash to map 16 bit monochrome images to 8 bit RGB computer displays in ways familiar to radiologists.
+* Implemented novel image manipulation technology in Abobe Flash to display and manipulate 16 bit monochrome images to 8 bit RGB computer displays in ways familiar to radiologists.
 
 #### Mar 2007 - Feb 2009
 {:.job-date}
 ### Dipity
 {:.job-company}
 #### Co-Founder and CTO
-* Assembled an awesome team to build a web application to automatically ingest and visualize data, primarily orgainzed by time.
-* Assisted in building a flexible, high performance, scalable application platform.  Dipity.com at its peak was the most popular online timeline tool, with 2 million monthly unique visitors and serving millions of pages per month.
+* Assembled an awesome team to build a web application to automatically ingest and visualize data, orgainzed by time.
+* Assisted in building a flexible, high performance, scalable application platform.  Dipity.com at its peak was the most popular online timeline tool, with 2 million monthly unique visitors, along with several prominent customers in news media, education, and entertainment.
 * Orchestrated a move from colocated servers to Amazon EC2 to save money and increase reliability.
 * Responsible for all aspects of building the product -- from brainstorming to requirements definition to delegation to architecture to execution.
 * Technologically covered the gamut -- Machine setup, monitoring infrastructure, database administration, back-end architecture, security, Javascript/AJAX, product concepts, mockups, and graphics.
@@ -170,16 +170,15 @@ AWS, CI/CD, CSS, DevOps, git, HTML, HTTP, JSX, Node, PCI, RoR, SCSS, SHA, SQL, T
 {:.job-date}
 #### Monitoring Infrastructure Team
 * Assisted in the design and deployment of a distributed, scalable performance monitoring and data collection system used throughout the company.  This system, built using C, C++, Perl, and PHP components, collects millions of performance samples daily.
-* Worked with many other engineering groups throughout the company to design data interfaces and configuration.
 * Designed and built web-based visual data analysis tools for engineers, production staff, management, and executives.
-* Designed and built an AJAX-based self-serve configuration tool.
+* Developed and delivered a company-wide (200+ web properties) availability monitoring and reporting solution.
 * Eventually took over management and technical lead responsibilities of the team.
 
 ##### Mar 1999 - Apr 2003
 {:.job-date}
 #### My Yahoo! Development Team
-* Lead Engineer and Manager for the engineering team that built the next-generation web portal product used by millions of broadband users.  Worked closely with product managers and visual designers from brainstorming sessions through development and QA to weekly product maintenance meetings.
-* Conceived, documented, and implemented a presentation layer separated from the product's core code without a significant degredation in performance (PHP-under-C).  Worked with the inventor of PHP to make this possible.  Improved engineering efficiency dramatically.
+* Lead Engineer and Manager responsible for delivering a next-generation web portal product, in partnership with broadband internet providers (e.g. British Telecom, Rogers Cable, Pac Bell). This product was built on the My Yahoo platform, and extended with modern web technologies such as Javascript and CSS.
+* Conceived and implemented a PHP-based presentation layer that ran inside of My Yahoo's Apache module written in C.  Worked with the inventor of PHP and his team to make this possible.  This change improved engineering efficiency dramatically by eliminating the need to recompile the module when making markup changes.
 * Conceived and implemented UI changes that doubled (measured by clicks) user awareness of customization in the My Yahoo! product.
 * Built a C++/XML architecture to centralize security functions, user authentication, and other functions common to the My Yahoo! configuration interface.  This architecture was adopted by several different groups in the company and handles nearly 1,000 unique URLs.
 
