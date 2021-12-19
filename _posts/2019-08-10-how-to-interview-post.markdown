@@ -39,30 +39,34 @@ The way to mitigate this nervousness is to draw up an agenda for the interview. 
 
 From there, write down your agenda and bring it with you to the interview, using wall clock time so you don't have to do math on the fly in the interview. In the interview, have a way to easily keep an eye on time. Use your phone's clock as a last resort, and if you do, explain to the interviewee that you are just using your phone to keep track of time.
 
-Here is a typical agenda I will follow for a 45 minute non-coding interview, starting at 2pm:
-* 2:00 - 2:05 introduction
-* 2:05 - 2:10 discuss the candidate's motivation for being here ("Why this company?")
-* 2:10 - 2:20 soft skills discussion ("describe a situation where you..." type questions)
-* 2:20 - 2:35 technical skills discussion
-* 2:35 - 2:45 candidate's questions
+Here is a typical agenda I will follow for a 45 minute non-coding interview:
+* :00 - :05 introduction
+* :05 - :10 discuss the candidate's motivation for being here ("Why this company?")
+* :10 - :20 soft skills discussion ("describe a situation where you..." type questions)
+* :20 - :35 technical skills discussion
+* :35 - :45 candidate's questions
 
 Here is a similar agenda for a technical / coding interview:
-* 2:00 - 2:05 introduction
-* 2:05 - 2:15 discuss the candidate's motivation for being here ("Why this company?")
-* 2:15 - 2:35 technical / coding time (collaborative if coding)
-* 2:35 - 2:45 candidate's questions
+* :00 - :05 introduction
+* :05 - :10 discuss the candidate's motivation for being here ("Why this company?")
+* :10 - :35 technical / coding time (collaborative if coding)
+* :35 - :45 candidate's questions
 
 If the hiring manager has assigned a focus area or question(s) for you to ask, the agenda may look like this:
-* 2:00 - 2:05 introduction
-* 2:05 - 2:15 hiring manager question 1
-* 2:15 - 2:25 hiring manager question 2
-* 2:25 - 2:35 hiring manager question 3
-* 2:35 - 2:45 candidate's questions
+* :00 - :05 introduction
+* :05 - :15 hiring manager question 1
+* :15 - :25 hiring manager question 2
+* :25 - :35 hiring manager question 3
+* :35 - :45 candidate's questions
 
-These are all starting points. Of course, adjust as you see fit. The important thing is to make your plan and write it down.
+These are all starting points. Of course, adjust as you see fit. The important thing is to make your plan and *write it down*.
 
 ## Starting the Interview
+### Physical Interviews
 If the candidate is already with another interviewer, knock on the door or tap on the window at the time your interview should begin. Typically the current interviewer would need a minute or so to wrap up their conversation. Wait patiently outside for them to finish. When it's time, greet the interviewee. Offer them some water, tea, coffee, or some other drink. Ask them if they need to use the restroom. We want our interviewees to know that we respect them as fellow human beings. Locate a clock in the room (use your phone as a last resort) so you can stick to your plan.
+
+### Virtual (Video) Interviews
+Be prompt; arrive exactly on time. Ensure everything is working properly (audio and video). Disable notifications on your computer so you are not distracted by Slack or Email. Explain to the interviewee that you may be taking notes, so any typing they hear is that. Also explain that you are keeping an eye on time.
 
 ## Introduction
 Tell the candidate who you are, what your role/job is, how long you've worked here, and what your relationship is to the job they are interviewing for and to their other interviewers. Give a very brief (1 minute) overview of your past jobs, experience, and focus areas. Help them get to know you and be comfortable with you. You have read their resume, so they don't need to take time to review their job history with you.
@@ -75,7 +79,7 @@ A candidates who is comfortable and at ease will give you the most accurate pict
 Rather than abruptly stopping a meandering candidate and redirecting back to your topic, acknowledge what they have said and gently bring them back to the topic. Hopefully you don't have to do this more than a couple times. Otherwise, that's a red flag.
 
 ## Soft Questions
-The hiring manager may have assigned some soft questions for you to ask. Ask them as written, and take notes with the candidate's answer. Pen and paper works well, but if you must use your laptop, let the candidate know you are taking notes and not reading email. (NOTE: Do not read email. :) Keep the candidate on track -- with open-ended questions a nervous candidate may wander off topic. Stick to your plan.
+The hiring manager may have assigned some soft questions for you to ask. Ask them as written, and take notes with the candidate's answer. Pen and paper works well, but if you must use your laptop, let the candidate know you are taking notes and not reading email. (NOTE: Do not read email. :) Keep the candidate on track -- with open-ended questions a nervous candidate may wander off topic. Stick to your plan and stick to your schedule.
 
 ## Technical Questions
 A good technical question allows the candidate to demonstrate understanding, not just knowledge. For example, rather than asking the candidate to list the states of a TCP connection, ask them to explain why TCP connections have different states. Drill into candidate answers with more "why?" questions rather than "what?" questions.
@@ -106,7 +110,7 @@ A good candidate is someone who will improve the team they are hired into. Hopef
 ## Behavioral Red Flags
 Certain behaviors in the candidate should be considered red flags. Here are a few in addition to what has been mentioned:
 * Dismissive behavior. A good candidate shows respect for their future colleagues.
-* Chauvinistic behavior. Ensure you have at least one member of another gender in your interview panel. It happens too often that an interviewee treats women on the panel with less respect or regard than the men. This is a big and important red flag and should have no place in your organization.
+* Sexist / Chauvinistic behavior. Ensure you have at least one member of another gender in your interview panel. It happens too often that an interviewee treats women on the panel with less respect or regard than the men. This is a big and important red flag and should have no place in your organization.
 * Not being a good listener. Good communication starts with good listening.
 * Not asking questions. Curiosity goes a long way.
 * Inappropriate language. We want to build a professional, respectful, inclusive environment.
@@ -126,7 +130,7 @@ When writing feedback clearly indicate:
 * The candidate's strengths and weaknesses - do any of the weaknesses prevent us from moving forward with an offer? If not, please describe why.
 
 ## Debriefs
-Hiring is a critical activity in business. Any critical business activity deserves careful deliberation and open communication. Interview debriefs are the opportunity to discuss the candidate's fit for the position and team. More often than not, important anecdotes or observations from the interviews come out in the debrief meeting that were not in the written feedback. Attendance at debriefs is mandatory for all interviewers. It is where the hire / no-hire decision is made.
+Hiring is a critical activity in business. Any critical business activity deserves careful deliberation and open communication. Interview debriefs are the opportunity to discuss the candidate's fit for the position and team. More often than not, important anecdotes or observations from the interviews come out in the debrief meeting that were not in the written feedback. Attendance at debriefs is mandatory for all interviewers. It is where the go / no-go decision is made.
 
 Open the debrief with a quick thumbs up/down vote, where everyone shows their thumb orientation simultaneously. This keeps people from "going with the crowd" or "going with the VP". Take a count, then go around the room to discuss.
 
@@ -148,7 +152,7 @@ Open the debrief with a quick thumbs up/down vote, where everyone shows their th
 * Write a program to implement the Look and Say algorithm.
 * Fizz Buzz
 * Output the repeated characters in a given string, e.g. "foobarbaz" => "oba"
-* Output the common characters between two strings, e.g. "foobar" "baz" => "ba"
+* Output the common characters between two strings, e.g. ["foobar", "baz"] => "ba"
 
 ### Some Good Technical Questions
 * How does the web work?
