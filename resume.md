@@ -91,7 +91,6 @@ AWS, CI/CD, CSS, DevOps, git, HTML, HTTP, JSX, Node, PCI, RoR, SCSS, SHA, SQL, T
 * Co-created devops infrastructure using Ansible, Amazon EC2, Docker, bind, rsyslogd, Splunk.
 * Co-created automated continuous build/test/deploy system using GitHub, Jenkins, Docker, Ansible.
 * Responsible for design and development of microservices HTTP request routing infrastructure.
-* Drove usage of Splunk for reporting and alerting.
 * Engineered many back-end services and service features using Ruby on Rails, MySQL, RabbitMQ.
 * Primary engineer responsible for AngularJS-based web frontend, Backbone.js TV app, Amazon FireStick app, and Rails-powered marketing content management system.
 * Creator of the #wflt (What's for lunch today?) Slack channel and the Cheerleader Zack emoji.
