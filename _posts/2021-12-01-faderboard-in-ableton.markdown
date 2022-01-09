@@ -57,4 +57,37 @@ The rest of the Instrument Rack knobs control:
 
 [Download an Ableton Live Pack (.alp) here](/audio/zsFaderboard.alp). Double-click the downloaded file to install it into your Ableton Live library. Requires Live 11.
 
+# M4L Device To Trigger a Note + a Dial
+
+<pre><code>
+----------begin_max5_patcher----------
+1055.3ocyXs0bZqCD9Y3WgGedkjwxFv39FTt7V+CzoSFCnjnViDisLMsc5+8
+iz9IykDHwT6bN8g7sYWK+sWDZ0B+paG+kpm3E9dev6ydc57qtc5PlrF53z63
+uI8oUYoEzx7k7uqV9U+d3QZ9SZx7Oy7x46pLKK2HjYbM8JgNih0zJMu8Mrfp
+UduRpKD+jaeDK31fCDnJ0OmAXR+isbDw998L+48ki3Rltgdn+3bQZl2DU15J
+WsMUu5Qg7g6x4qzffQFG5whCshngVLzDCdew9B+taWKzqY0ksoq9lWfWPcqL
+CupBC6hElFWT5GYECBZTQISrie6FtrrxcoRoRmpEJI87Jy6Ry2Giu3c1lqzJ
+atseIeRo4dexnUbXM7BtDLeTpDRIQeJi5GS40.apbtMC1K2L5O3PYJ23NMO+
+NSTrLie7Kb5VRzYhnWeqpG969LUp9v91Y1XhRnLfkbgzoHcGe8coZctXYole
+3+JbaQt8Ha8Nqjqtuxbk8SyyxMtH7i2DZCvO9OPN0IbpyfXtS3rtvIbpicBm
+5DGi2vbDy.wLGwLPLCDybDy.wLGwLPLyQLCDCFC.ujXJPnLiv4.goE.gxXfP
+YBnwEjH3bgHhPDYt3CwkK5PT4hMDZfFWoDkPWgD0QT+bUQT8b0PT6bUPT.AM
+QfLRLEHTlQ3bfvzBfPYLPnLAzzGjQho.gxLBmCDlV.DJiABkIflAfLRLEHTl
+Q3bfvzBfPYLPnLAzLDjQho.gxLBmCDlV.DJiABkIflXPFIlBDJyHbNPXZAPn
+LFHTl.ZFAxHwTfPYFgyABSKFs+z8ImzDRg1zVFG1FF7Zq4kceNYUYJ4CWrO5
+Iqr3QUttdKspUUHdDcCPknctib0ioxG390robxUcCYzq01UH0UhldeYBM8P+
+lMCg4BshzCUh8EHVXbcmeXz++yOfqacCUEd6f2gBRsGmJ9ujwoZkpwEN9Tvy
+p+7kCZmAuWZNw1JCeiOrLH48X1aynlbSje1RSzYl16pJMAMb95DJkiiZ970q
+sWdbkyWe76boYm6aCMrIQ+aT7UL5bz0O4b3exjyu8TyidszvbO32qpLAuGiQ
++xqjOpz+VWIeokVUCBNyyJMSJTn+AJzAua2YuQrVboyVm4iCg+Gc1hkfuvJK
+7v2QpsaqXScgrtYNqctApgyn3pKrXphz+7eqdheym7jO+WDhHzZ+zhUgpLeU
+U.V8y53c3v0ZdgVH2eN9y6ay5co8i55ng0vOUASibj8W.3M8jMZXMzQI0zOM
+MgX0vOgsfehpgeFzB9oN6OwsjeXugeF0B9YTMxmjVvOw+Q9AcHR2tcGOuvsX
+xElFmeUkaUG0iTERnRWp6my2IJN95b+zbSKJso+TYNZi8zPL+k+F0ZdtrTPq
+sqM4LtjZJaa4UrME4A06t6u69urHXoTH
+-----------end_max5_patcher-----------
+</code></pre>
+
+# Feedback Please!
+
 Please let me know if you use it, how it works for you, and if you have ideas on how it can be done with just a single Simpler or Sampler device. Thanks!
