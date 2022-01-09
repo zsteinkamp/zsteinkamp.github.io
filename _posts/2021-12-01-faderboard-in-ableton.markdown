@@ -59,6 +59,8 @@ The rest of the Instrument Rack knobs control:
 
 # M4L Device To Trigger a Note + a Dial
 
+Select and copy the block below to the clipboard, then choose "File ... New From Clipboard" in Max.
+
 <pre><code>
 ----------begin_max5_patcher----------
 1055.3ocyXs0bZqCD9Y3WgGedkjwxFv39FTt7V+CzoSFCnjnViDisLMsc5+8
