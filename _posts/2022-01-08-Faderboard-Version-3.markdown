@@ -7,8 +7,6 @@ entry:
   source: post
 ---
 
-# Overview
-
 This post details a significant update to my original Faderboard device for Ableton Live. I finally made time to learn enough Max for Live to do this in the way that I always wanted.
 
 The [prior version](/post/2021/12/01/faderboard-in-ableton.html) worked fine, but changing sounds was very cumbersome, requiring updating the sample loaded into 8 Simpler devices. This new version uses a single sample "drop zone", and offers some nice usability and capability improvements.
@@ -16,14 +14,15 @@ The [prior version](/post/2021/12/01/faderboard-in-ableton.html) worked fine, bu
 # Demo
 Here is an instance of zs-Faderboard3 playing the example sample, sent through a Pedal device then into [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) on the "We Are Stardust" preset.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1citpBViWqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1citpBViWqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Get Started
 
 Click the link below to download a .zip file including the Max for Live device (zs-faderboard3.amxd) and a nice sample file to get you started.
+
 [zs-Faderboard3.zip](/audio/zs-Faderboard3.zip)
 
-Simply drag the zs-Faderboard3.amxd file into your User Library in Ableton Live, or directly into a MIDI track. You can then drag a sample onto the "Drop Sample Here" area. The included .wav file is a nice example. You can also drag a clip directly from an Audio track in Ableton Live to the drop zone. Since there are no looping controls, make sure the clip is cropped to how you want it.
+Simply drag the `zs-Faderboard3.amxd` file into your User Library in Ableton Live, or directly into a MIDI track. You can then drag a sample onto the "Drop Sample Here" area. The included .wav file is a nice example. You can also drag a clip directly from an Audio track in Ableton Live to the drop zone. Since there are no looping controls, make sure the clip is cropped to how you want it.
 
 Set the root note for your sample.
 
