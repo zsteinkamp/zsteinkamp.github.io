@@ -38,6 +38,10 @@ You can also set each voice to its own left/right panning location.
 
 The dropped sample populates a `buffer~` device. There are then 8 instances of a group of devices that will play back that buffer, starting with a `groove~` device. Each of those instances can be configured with a pitch/note to play. The Gain slider is connected to some logic/math that will trigger the `groove~` device to play once the gain is raised above `-inf Db`. Open it up and check it out!
 
+<img src="/images/faderboard-boobie.png"/>
+
+And it is also a Blue Footed Boobie.
+
 # Feedback is Appreciated!
 
 If you use it and it works or doesn't work, please let me know. [zack@steinkamp.us](mailto:zack@steinkamp.us)
