@@ -14,17 +14,21 @@ The [prior version](/post/2021/12/01/faderboard-in-ableton.html) worked fine, bu
 # Demo
 Here is an instance of zs-Faderboard3 playing the example sample, sent through a Pedal device then into [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) on the "We Are Stardust" preset.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1citpBViWqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWtkUmbyKyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The demo shows off the device's loop management abilities too, including seamlessly transitioning from forward playback to reverse. It also shows a visualization of each voice's place in their journey through the sample.
 
 # Get Started
 
-Click the link below to download a .zip file including the Max for Live device (zs-faderboard3.amxd) and a nice sample file to get you started.
+Click the link below to download the Max For Live device:
 
-[zs-Faderboard3.zip](/audio/zs-Faderboard3.zip)
+* [zs-Faderboard3.amxd](https://github.com/zsteinkamp/m4l-zs-Faderboard3/blob/main/zs-Faderboard3.amxd?raw=true)
 
-Simply drag the `zs-Faderboard3.amxd` file into your User Library in Ableton Live, or directly into a MIDI track. You can then drag a sample onto the "Drop Sample Here" area. The included .wav file is a nice example. You can also drag a clip directly from an Audio track in Ableton Live to the drop zone. Since there are no looping controls, make sure the clip is cropped to how you want it.
+After downloading, you can then add the device file to your User Library in Ableton Live, or directly into a MIDI track. You can then drag a sample onto the "Drop Sample Here" area. The .wav file below is a nice example to start with. You can also drag a clip directly from an Audio track in Ableton Live to the drop zone.
 
-Set the root note for your sample.
+* [Harmonic Flights- D3.wav](https://github.com/zsteinkamp/m4l-zs-Faderboard3/blob/main/samples/Harmonic%20Flights-%20D3.wav?raw=true)
+
+Set the root note for your sample. For example, the above sample is rooted at D3.
 
 Then move any of the Gain sliders from `-inf Db` to a positive value to start playing the sample at the pitch indicated above. The sample is triggered as soon as the Gain slider moves off of it's zero position.
 
