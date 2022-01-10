@@ -42,6 +42,12 @@ The dropped sample populates a `buffer~` device. There are then 8 instances of a
 
 And it is also a Blue Footed Boobie.
 
+<img src="/images/faderboard-boobie-real.jpg"/>
+
+# Contributing
+
+If you would like to contribute, then please have a look at [the code on GitHub](https://github.com/zsteinkamp/m4l-zs-Faderboard3). Fork the repo, make your changes, then open a pull request to propose a change. Thanks!
+
 # Feedback is Appreciated!
 
 If you use it and it works or doesn't work, please let me know. [zack@steinkamp.us](mailto:zack@steinkamp.us)
