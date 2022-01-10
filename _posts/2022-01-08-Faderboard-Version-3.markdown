@@ -14,7 +14,7 @@ The [prior version](/post/2021/12/01/faderboard-in-ableton.html) worked fine, bu
 # Demo
 Here is an instance of zs-Faderboard3 playing the example sample, sent through a Pedal device then into [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) on the "We Are Stardust" preset.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UWtkUmbyKyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UWtkUmbyKyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The demo shows off the device's loop management abilities too, including seamlessly transitioning from forward playback to reverse. It also shows a visualization of each voice's place in their journey through the sample.
 
