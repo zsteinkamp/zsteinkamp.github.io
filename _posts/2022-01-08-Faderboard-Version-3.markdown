@@ -34,6 +34,38 @@ Then move any of the Gain sliders from `-inf Db` to a positive value to start pl
 
 You can also set each voice to its own left/right panning location.
 
+# touchOSC Integration
+
+If you have an iPad and a Mac, you can use the software touchOSC to create a set of virtual controls to control zs Faderboard3 over wireless MIDI.
+
+Download the touchOSC definition here:
+
+* [zs-Faderboard3.tosc](https://github.com/zsteinkamp/m4l-zs-Faderboard3/blob/main/zs-Faderboard3.tosc?raw=true)
+
+You can then configure touchOSC on the iPad to send MIDI over "Network Session 1".
+
+To set up the Mac to receive the MIDI data, follow these instructions:
+
+* Open touchOSC on the iPad
+* On the Mac, open the app `Audio MIDI Setup`
+* Click the `Window` menu and choose `Show MIDI Studio`
+* Click the `MIDI Studio` menu and choose `Open MIDI Network Setup...`
+* If the `My Sessions` panel is empty, click the `+` button to create a `Session 1`
+* Check the checkbox next to `Session 1`
+* In the `Directory` panel, click your iPad, then click the `Connect` button
+
+Now the iPad and the Mac can exchange MIDI messages over wifi!
+
+To enable touchOSC in Ableton Live, follow these instructions:
+
+* Open Ableton Live
+* Open Preferences (`Cmd`+`,`)
+* Select the `Link / Tempo / Midi` panel
+* In the Control Surfaces section, 
+* Select `Track` and `
+
+
+
 # How It Works
 
 The dropped sample populates a `buffer~` device. There are then 8 instances of a group of devices that will play back that buffer, starting with a `groove~` device. Each of those instances can be configured with a pitch/note to play. The Gain slider is connected to some logic/math that will trigger the `groove~` device to play once the gain is raised above `-inf Db`. Open it up and check it out!
