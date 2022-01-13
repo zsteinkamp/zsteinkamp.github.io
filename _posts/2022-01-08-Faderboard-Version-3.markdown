@@ -34,9 +34,13 @@ Then move any of the Gain sliders from `-inf Db` to a positive value to start pl
 
 You can also set each voice to its own left/right panning location.
 
-# touchOSC Integration
+# touchOSC Integration over WiFi
 
 If you have an iPad and a Mac, you can use the software touchOSC to create a set of virtual controls to control zs Faderboard3 over wireless MIDI.
+
+Here's a long demo showing how that can work:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P63R8BKQdMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Download the touchOSC definition here:
 
@@ -44,9 +48,18 @@ Download the touchOSC definition here:
 
 You can then configure touchOSC on the iPad to send MIDI over "Network Session 1".
 
-To set up the Mac to receive the MIDI data, follow these instructions:
+* In the touchOSC editor page, click the little chain icon in the top row, next to the wifi icon.
+* Ensure `Connection 1` is checked, and click the down arrow on the right side of that row.
+* That should reveal a `Send Port` and `Receive Port` option.
+* For both `Send Port` and `Receive Port`, touch `Browse` and choose `Network Session 1`
 
-* Open touchOSC on the iPad
+<img src="/images/midiSetup/touchOSC_network_config.jpeg"/>
+
+After you tap `Done`, touchOSC will send messages over network MIDI.
+
+To set up the Mac to receive the network MIDI data, follow these instructions:
+
+* Ensure touchOSC is open on the iPad
 * On the Mac, open the app `Audio MIDI Setup`
 * Click the `Window` menu and choose `Show MIDI Studio`
 * Click the `MIDI Studio` menu and choose `Open MIDI Network Setup...`
@@ -54,17 +67,20 @@ To set up the Mac to receive the MIDI data, follow these instructions:
 * Check the checkbox next to `Session 1`
 * In the `Directory` panel, click your iPad, then click the `Connect` button
 
+<img src="/images/midiSetup/network_midi_setup.png"/>
+
 Now the iPad and the Mac can exchange MIDI messages over wifi!
 
-To enable touchOSC in Ableton Live, follow these instructions:
+To enable MIDI control over WiFi for touchOSC in Ableton Live, follow these instructions:
 
 * Open Ableton Live
 * Open Preferences (`Cmd`+`,`)
 * Select the `Link / Tempo / Midi` panel
-* In the Control Surfaces section, 
-* Select `Track` and `
+* In the `MIDI Ports` section, ensure the `Track` and `Remote` checkboxes are selected for BOTH the `In: Network (Session 1)` and `Out: Network (Session 1)` rows.
 
+<img src="/images/midiSetup/ableton_live_network_midi_setup.png"/>
 
+Now you can map the controls in touchOSC to device controls in Ableton Live as you normally would, by using Cmd-M to Map Midi. Because of how it's set up above, the communication is bi-directional, so moving a control on screen with your mouse should move the control on the touchOSC UI on the iPad.
 
 # How It Works
 
