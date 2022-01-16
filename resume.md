@@ -19,8 +19,8 @@ permalink: /resume/
     display: block;
   }
 }
-.post-content h1 {
-  font-size: 1.5em;
+h1 {
+  font-size: 1.25em;
   font-weight: bold;
   color: #555;
   text-transform: uppercase;
@@ -39,6 +39,8 @@ h5.job-date {
 }
 .job-company {
   margin-bottom: 0;
+  font-size:150%;
+  font-weight:600;
 }
 </style>
 [zack@steinkamp.us](mailto:zack@steinkamp.us)  
@@ -47,19 +49,6 @@ San Jose, California
 
 # About
 I have been building apps for the web since 1994, and at mega-scale since 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization. I am [not currently] seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
-
-# Skill Summary
-*Programming Languages*  
-C, C++, Java, Javascript, Perl, PHP, Python, Ruby
-
-*Operating Systems*  
-Linux, Mac OS X
-
-*Concepts*  
-Customer-Focus, Performance, Scalability, Usability, Fault-Tolerance, Security, Real-Time Data, Process Efficiency, Building Capable, Happy, and Productive Teams
-
-*Alphabet Soup*  
-AWS, CI/CD, CSS, DevOps, git, HTML, HTTP, JSX, Node, PCI, RoR, SCSS, SHA, SQL, TCP/IP, XSS
 
 # Experience
 
@@ -186,6 +175,7 @@ AWS, CI/CD, CSS, DevOps, git, HTML, HTTP, JSX, Node, PCI, RoR, SCSS, SHA, SQL, T
 #### Graduated 1998
 {:.job-date}
 ### Cal Poly, SLO
+{:.job-company}
 Bachelor of Science degree in Business Administration, with emphasis in Information Systems / Computer Science.
 * Recipient of the 1998 Peoplesoft (Oracle) Information Systems Award -- Awarded to the Cal Poly MIS student who best demonstrates interest and ability in the Information Systems field.
 

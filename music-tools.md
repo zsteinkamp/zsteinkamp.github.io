@@ -30,27 +30,37 @@ data:
   - This was my first Javascript-based M4L patch. It was a great learning experience to figure out how to code up both the logic and visualization in M4L's Javascript environment.
 
 ---
+<style>
+.apps h2 { font-weight: 600; }
+</style>
 I have made a handful of tools for electronic musicians who use Ableton Live Suite, which includes Max For Live.
 
 Max For Live is a visual signal processing environment that integrates seamlessly with Ableton Live. This allows people like me to make my own utilities, effects, sound generators, and automation within my digital audio workstation (DAW). This is an incredibly powerful capability of Ableton Live that sets it apart from other DAWs. We are no longer limited to the tools that come with the DAW or installable VSTs. We can make our own devices to explore their own creativity to an amazing level, and share those tools as our own art that helps other artists make their art. It's really beautiful.
 
 This page serves as a jumping off point to more detailed information about the devices.
 
+<ul>
+  {%- for app in page.data -%}
+    <li><a href="#{{app.title}}">{{app.title}}</a></li>
+  {%- endfor -%}
+</ul>
+
+
 <div class="apps">
-{%- for app in page.data -%}
-<br/>
-<br/>
-<br/>
-<h2><a href="{{app.link}}">{{app.title}}</a></h2>
+  {%- for app in page.data -%}
+    <br/>
+    <br/>
+    <br/>
+    <h2><a name="{{app.title}}" href="{{app.link}}">{{app.title}}</a></h2>
 
-<p>
-<a href="{{app.link}}"><img src="{{app.image}}"/></a>
-</p>
+    <p>
+    <a href="{{app.link}}"><img src="{{app.image}}"/></a>
+    </p>
 
-{%- for p in app.description -%}
-<p>{{p}}</p>
-{%- endfor -%}
+    {%- for p in app.description -%}
+    <p>{{p}}</p>
+    {%- endfor -%}
 
-<a href="{{app.link}}"><button>More Info / Download</button></a>
-{%- endfor -%}
+    <a href="{{app.link}}"><button>More Info / Download</button></a>
+  {%- endfor -%}
 </div>
