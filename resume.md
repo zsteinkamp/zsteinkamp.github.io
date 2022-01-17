@@ -30,6 +30,9 @@ h1 {
 h4.job-date {
   line-height:39px;
 }
+h4.job-role {
+  font-weight:bold;
+}
 h5.job-date {
   line-height:30px;
 }
@@ -56,7 +59,8 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 {:.job-date}
 ### Splunk
 {:.job-company}
-#### Principal Engineer / Sr. Engineering Manager -- Splunk Value Platform
+#### Principal Engineer / Sr. Engineering Manager
+{:.job-role}
 * Hired to build the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved customer acquisition and expansion success rate by 70%+.
 * Key player in shaping the organization's strategy and tactics around management, agile practices, hiring, product/operational analytics, infrastructure, and automation.
 * Hired and mentored engineering and design staff, which have grown to be a highly regarded and decorated team within Splunk.
@@ -76,6 +80,7 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 ### Hoopla Software 
 {:.job-company}
 #### Software Engineer -- Digital Signage and Metrics Platform
+{:.job-role}
 * Designed secure, flexible network architecture in Amazon EC2 / VPC.
 * Co-created devops infrastructure using Ansible, Amazon EC2, Docker, bind, rsyslogd, Splunk.
 * Co-created automated continuous build/test/deploy system using GitHub, Jenkins, Docker, Ansible.
@@ -88,7 +93,8 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 {:.job-date}
 ### DataTorrent
 {:.job-company}
-#### Software Engineer -- Real Time, Huge Scale Data Stream Processing
+#### Software Engineer -- Real Time Data Stream Processing
+{:.job-role}
 * Significant contributor to DataTorrent's visual stream processing editor, dtAssemble. This tool allows teams to build and deploy real-time data processing flows without writing code. Technologies used: AngularJS, Twitter Bootstrap, JSPlumb.
 * Assisted in enhancements to the product's Java-based web API server.
 * Contributed to DataTorrent's 'Malhar' open-source library of stream processing operators.
@@ -98,6 +104,7 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 ### Groupon
 {:.job-company}
 #### Expert Engineer / Director of Engineering
+{:.job-role}
 * Managed, mentored, and enabled a platform infrastructure engineering team responsible for ops automation, application frameworks, data infrastructure software, and real-time metrics.
 * Developed management system and network architecture in EC2 scaled to hundreds of users, thousands of nodes, and petabytes of storage.
 * Identified and implemented significant front- and back-end performance improvements to the groupon.com site, e.g. static asset fingerprinting/caching, CDN integration, Ruby garbage collection tuning, etc.
@@ -117,7 +124,8 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 {:.job-date}
 ### Symantec
 {:.job-company}
-#### Sr. Principal Software Engineer, Symantec Health -- A cloud storage system for medical images and social sharing solution for doctors
+#### Sr. Principal Software Engineer, Symantec Health
+{:.job-role}
 * Involved in choosing datacenters, selecting hardware solutions, and installing hardware in datacenters.
 * Designed and implemented virtual server solution using VMWare ESX, VirtualCenter, and CentOS.
 * Implemented monitoring and product analytics solution.
@@ -133,6 +141,7 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 ### Dipity
 {:.job-company}
 #### Co-Founder and CTO
+{:.job-role}
 * Assembled an awesome team to build a web application to automatically ingest and visualize data, orgainzed by time.
 * Assisted in building a flexible, high performance, scalable application platform.  Dipity.com at its peak was the most popular online timeline tool, with 2 million monthly unique visitors, along with several prominent customers in news media, education, and entertainment.
 * Orchestrated a move from colocated servers to Amazon EC2 to save money and increase reliability.
@@ -149,6 +158,7 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 ##### Apr 2005 - Dec 2006
 {:.job-date}
 #### Core Security Team (Yahoo! Paranoids)
+{:.job-role}
 * Served as an internal security advisor -- specializing in issues dealing with modern client-side web technologies (AJAX, Javascript, DHTML, Flash, Web Services).
 * Developed several core libraries to assist developers in creating rich Internet applications in a secure manner.
 * Involved in developing company security policy, working with executive, legal, business, and engineering teams.
@@ -157,6 +167,7 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 ##### Apr 2003 - Apr 2005
 {:.job-date}
 #### Monitoring Infrastructure Team
+{:.job-role}
 * Assisted in the design and deployment of a distributed, scalable performance monitoring and data collection system used throughout the company.  This system, built using C, C++, Perl, and PHP components, collects millions of performance samples daily.
 * Designed and built web-based visual data analysis tools for engineers, production staff, management, and executives.
 * Developed and delivered a company-wide (200+ web properties) availability monitoring and reporting solution.
@@ -165,6 +176,7 @@ I have been building apps for the web since 1994, and at mega-scale since 1999. 
 ##### Mar 1999 - Apr 2003
 {:.job-date}
 #### My Yahoo! Development Team
+{:.job-role}
 * Lead Engineer and Manager responsible for delivering a next-generation web portal product, in partnership with broadband internet providers (e.g. British Telecom, Rogers Cable, Pac Bell). This product was built on the My Yahoo platform, and extended with modern web technologies such as Javascript and CSS.
 * Conceived and implemented a PHP-based presentation layer that ran inside of My Yahoo's Apache module written in C.  Worked with the inventor of PHP and his team to make this possible.  This change improved engineering efficiency dramatically by eliminating the need to recompile the module when making markup changes.
 * Conceived and implemented UI changes that doubled (measured by clicks) user awareness of customization in the My Yahoo! product.

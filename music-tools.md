@@ -30,9 +30,6 @@ data:
   - This was my first Javascript-based M4L patch. It was a great learning experience to figure out how to code up both the logic and visualization in M4L's Javascript environment.
 
 ---
-<style>
-.apps h2 { font-weight: 600; }
-</style>
 I have made a handful of tools for electronic musicians who use Ableton Live Suite, which includes Max For Live.
 
 Max For Live is a visual signal processing environment that integrates seamlessly with Ableton Live. This allows people like me to make my own utilities, effects, sound generators, and automation within my digital audio workstation (DAW). This is an incredibly powerful capability of Ableton Live that sets it apart from other DAWs. We are no longer limited to the tools that come with the DAW or installable VSTs. We can make our own devices to explore their own creativity to an amazing level, and share those tools as our own art that helps other artists make their art. It's really beautiful.
