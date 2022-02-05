@@ -62,18 +62,18 @@ I have been building web applications since 1995, and at mega-scale starting in 
 #### Principal Engineer / Sr. Engineering Manager
 {:.job-role}
 * Hired to build the Splunk Value Platform (SVP) -- a suite of applications used primarily by Splunk sales staff and channel partners that have improved customer acquisition and expansion success rate by over 70%.
-* Key player in shaping the organization's strategy and tactics around management, agile practices, hiring, product/operational analytics, infrastructure, and automation.
+* Key player in shaping the Splunk IT organization's strategy and tactics around management, agile practices, hiring, product/operational analytics, infrastructure, and automation.
 * Hired and mentored engineering and design staff, which have grown to be a highly regarded and decorated team within Splunk.
 * Architected and built a flexible, simple, maintainable application platform using React, Sails.js, Node.js, Postgres, Redis, AWS ECS, and Docker.
-* Developed a super efficient software development workflow and toolkit, leaning heavily into the capabilites of Docker.
+* Developed a super efficient local software development workflow and toolkit, leaning heavily into the capabilites of Docker.
 * Novel work to build an efficient pipeline for generating customized downloadable PowerPoint and Excel files from a Node.js backend with minimal coding, saving months of developer time.
 * Developed an automated, scalable, extensible CI/CD pipeline.
 * Created application monitoring dashboards and alerts using Splunk integrated with VictorOps and Slack.
-* Recipient of several department-level awards.
 * Led initiative around metrics and monitoring, establishing standards and practices as well as delivering department-level dashboards.
 * Developed a system to [quantify team member technical area aptitude](/post/2021/05/22/manager-toolbox.html#quantified-technical-skill) to inform hiring decisions and personal development plans.
 * Developed a [written skills matrix](/post/2021/05/22/manager-toolbox.html#written-advancement-path) to show team members a clear path to growth and promotion.
 * Involved in all key departmental hires in all roles (engineering, design, product management, senior leadership) and took the lead in developing a set of [guidelines to help all interviewers](/post/2019/08/10/how-to-interview-post.html) be more effective.
+* Recipient of several department-level awards.
 
 #### Jan 2015 - Jul 2017
 {:.job-date}
@@ -116,7 +116,7 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Designed and built an abuse detection and prevention system using nginx, Lua, and Redis.
 * Heavily involved in transition from PaaS provider to a dedicated datacenter.
 * Core member of the planning team for [Groupon's hack-week program ("GEEKon")](https://twitter.com/search?q=groupon%20geekon&src=typd) involving 1,500 developers in 10 dev centers worldwide.
-* Member of Groupon's "Bar Raiser" program. Deeply involved in recruiting and interviewing across the engineering org and beyond, averaging over 100 interviews per year. Instrumental in growing the company's engineering team from 25 to 1,500 individuals in 4 years.
+* Member of Groupon's "Bar Raiser" program. Involved in recruiting and interviewing across the engineering org and beyond, averaging over 100 interviews per year. Instrumental in growing the company's engineering team from 25 to 1,500 individuals in 4 years.
 * Spoke at various internal and external conferences, presenting on the topics of performance, monitoring, security, and devops.
 * Participated in most aspects of obtaining and maintaining PCI Level 1 certification -- system design, engineering, documentation, evidence gathering, working with auditors, security design, international roll-out.  Published a [description of Groupon's PCI solution](https://web.archive.org/web/20201128041157/https://engineering.groupon.com/2014/misc/pci-at-groupon-the-tokenizer/) on the company public engineering blog.
 
@@ -126,6 +126,7 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-company}
 #### Sr. Principal Software Engineer, Symantec Health
 {:.job-role}
+* Conceived and implemented a novel in-browser solution to display and manipulate 16 bits-per-pixel monochrome images in ways familiar to radiologists.
 * Involved in choosing datacenters, selecting hardware solutions, and installing hardware in datacenters.
 * Designed and implemented a virtualization solution using VMWare ESX, VirtualCenter, and CentOS.
 * Designed and implemented system/application monitoring and product analytics solutions.
@@ -134,7 +135,6 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Co-designed and implemented a customer-facing data analytics site.
 * Responsible for application security design and ongoing security testing.
 * Assisted with design and implementation of frontend and social features.
-* Implemented a novel solution in Abobe Flash using matrix transforms to display and manipulate 16 bit monochrome images on 8 bit RGB computer displays in ways familiar to radiologists.
 
 #### Mar 2007 - Feb 2009
 {:.job-date}
@@ -159,7 +159,7 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-date}
 #### Core Security Team (Yahoo! Paranoids)
 {:.job-role}
-* One of ten individuals in this team in a 10,000-person company.
+* One of ten individuals in this team. At the time, Yahoo was a 10,000-person company.
 * Served as an internal security advisor -- specializing in issues dealing with modern client-side web technologies (AJAX, Javascript, DHTML, Flash, Web Services).
 * Developed libraries to assist developers in creating rich Internet applications in a secure manner.
 * Involved in developing company security policy, working with executive, legal, business, and engineering teams.
