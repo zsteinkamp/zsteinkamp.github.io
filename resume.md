@@ -51,11 +51,11 @@ h5.job-date {
 San Jose, California
 
 # About
-I have been building apps for the web since 1994, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization. I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
+I have been building web applications since 1995, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization. I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
 
 # Experience
 
-#### Jul 2017 - Present
+#### Jul 2017 - Feb 2022
 {:.job-date}
 ### Splunk
 {:.job-company}
