@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Job Criteria
-date: '2022-01-15 12:00:00'
+title: What Comes Next?
+date: '2022-02-06 12:00:00'
 categories: post
 entry:
   source: post
