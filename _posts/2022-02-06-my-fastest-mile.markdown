@@ -58,4 +58,4 @@ With the post in sight, the pain starts to fade. It's easier to feed in more spe
 
 Jeremy and I chatted until the others caught up, and we went our merry way back down the rest of the hill to the Ohlone parking garage.
 
-So that's the story of when I ran my fastest mile ever. Nope, it's not on flat ground, but this one is more special to me. A special place, with special people. These are memories I treasure.
+So that's the story of when I ran my [fastest mile ever](https://www.strava.com/activities/684076989/overview). Nope, it's not on flat ground, but this one is more special to me. A special place, with special people. These are memories I treasure.
