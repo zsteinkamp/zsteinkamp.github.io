@@ -32,7 +32,7 @@ My dream job would allow me to use everything I have learned over the years to d
   * Diverse - role, skills, background, purpose
   * Growth Mindset
 * Empowered - org/company support for optimizing for innovation
-* Sensible positioning, not a duplicate
+* Clear mission and fit in org/company strategy
 
 ## Company / Org Attributes
 
