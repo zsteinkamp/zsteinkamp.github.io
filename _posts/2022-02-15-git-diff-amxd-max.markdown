@@ -57,3 +57,5 @@ index c7a9b88..afdafb1 100644
 ```
 
 In this case, we're using `awk` to suppress printing the first line. That's good enough for my uses, but if you are an `awk` wizard and you want to use a tool like `jq` to work with the JSON data, perhaps you can suppress everything to the initial `{` on that first line. Let me know if you do that. [zack@steinkamp.us](mailto:zack@steinkamp.us)
+
+If you'd like to have a look at some of my Max for Live devices, you can see them [here](/music-tools/).
