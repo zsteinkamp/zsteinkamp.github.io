@@ -22,14 +22,14 @@ Binary files a/cool.amxd and b/cool.amxd differ
 
 There's just a bit of configuration to make the `git diff` output more helpful. Here's what to do:
 
-1. Configure a global `.gitattributes` file. Run this command:
+1. Create a global `.gitattributes` file in your home directory. This will will map the `.amxd` file extension to a named file type that we will use later. Run this command to create the file with the correct contents:
 ```bash
-$ git config --global core.attributesfile ~/.gitattributes
+echo '*.amxd binary diff=amxd' > ~/.gitattributes
 ```
 
-2. Now populate the `~/.gitattributes` file to help git recognize `.amxd` files. Run this command to create the file with the correct contents:
+2. Now tell git where to find the new global `.gitattributes` file. Run this command:
 ```bash
-$ echo '*.amxd binary diff=amxd' > ~/.gitattributes
+git config --global core.attributesfile ~/.gitattributes
 ```
 
 3. The final step is to tell git how to convert the 'binary' file to text when displaying a diff. Add this content to your `~/.gitconfig` file:
@@ -38,7 +38,6 @@ $ echo '*.amxd binary diff=amxd' > ~/.gitattributes
   textconv = awk '(NR>1)'
   binary = true
 ```
-In this case, we're using `awk` to suppress printing the first line. That's good enough for my uses, but if you are an `awk` wizard and you want to use a tool like `jq` to work with the JSON data, perhaps you can suppress everything to the initial `{` on that first line. Let me know if you do that. [zack@steinkamp.us](mailto:zack@steinkamp.us)
 
 Now, when you run `git diff` you will get useful output:
 ```diff
@@ -56,3 +55,5 @@ index c7a9b88..afdafb1 100644
       "parameter_longname" : "De-Click",
       "parameter_mmax" : 100.0,
 ```
+
+In this case, we're using `awk` to suppress printing the first line. That's good enough for my uses, but if you are an `awk` wizard and you want to use a tool like `jq` to work with the JSON data, perhaps you can suppress everything to the initial `{` on that first line. Let me know if you do that. [zack@steinkamp.us](mailto:zack@steinkamp.us)
