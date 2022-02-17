@@ -34,11 +34,12 @@ h4.job-role {
   font-weight:bold;
 }
 h5.job-date {
+  clear: right;
   line-height:30px;
 }
 .job-date {
-  margin-bottom:0;
   float:right;
+  margin-bottom:0;
 }
 .job-company {
   margin-bottom: 0;
