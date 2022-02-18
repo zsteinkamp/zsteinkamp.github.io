@@ -7,6 +7,16 @@ entry:
   source: post
 ---
 
+# ===================
+# UPDATE AVAILABLE
+
+I've re-implemented this as a self-contained M4L device with more similar functionality to the original Faderboard, along with some additions like MIDI note control and multiple outputs.
+
+[Read about the updated version here.](/post/2022/01/08/Faderboard-Version-3.html)
+
+# ===================
+# Original post is below...
+
 Hainbach [released a video today](https://www.youtube.com/watch?v=E1Kr0EJwZ-c) on the Vestax Faderboard. As soon as I saw how it worked, I knew that this was something very cool and interesting.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E1Kr0EJwZ-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
