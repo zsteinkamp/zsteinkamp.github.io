@@ -7,11 +7,9 @@ entry:
   source: post
 ---
 
-Starting in late Feb 2022, I will be looking for a new job. Writing my criteria serves as both a clarification exercise for me and for future employees/colleagues/referrals.
+Starting in late Feb 2022, I will be looking for a new job. I have 25+ years of experience in the Internet applications space, with that time split between IC and management positions. I have worked in all layers of the stack in [many very different roles](/resume/) in many different languages and frameworks.
 
-I have 25+ years of experience in the Internet applications space, with that time split between IC and management positions. I have worked in all layers of the stack in [many very different roles](/resume/) in many different languages and frameworks.
-
-The moments that I am most proud of are when my work results in a multiplicitave improvement in capabilities for my team / org / product / systems. I love to blend creativity and engineering discipline, bringing new ideas or connecting people and systems in new ways to unlock new possibilities.
+The moments that I am most proud of are when my work results in a multiplicitave improvement for my team / org / company / product / systems. I love to blend creativity and engineering discipline, bringing new ideas or connecting people and systems in new ways to unlock new possibilities.
 
 My dream job would allow me to use everything I have learned over the years to develop new worlds of success and efficiency in a product or orgzniation.
 
@@ -22,8 +20,8 @@ My dream job would allow me to use everything I have learned over the years to d
 * Top-to-bottom responsibility in a given problem space
 * Mentorship expected and encouraged
 * Hands-on solutioning or writing code >= 50% of the time
-* Involved in determining team/org strategy and standards
-* Involved in hiring and eventually hiring process
+* Involved in team/org strategy and standards
+* Involved in hiring and refining hiring process
 
 ## Team Attributes
 
@@ -36,7 +34,7 @@ My dream job would allow me to use everything I have learned over the years to d
 
 ## Company / Org Attributes
 
-* Not ad-revenue supported (e.g. SaaS or a paid product)
+* SaaS or Paid Product (i.e. not ad-revenue supported)
 * Proven growth path
 * High product standards
 * Customer focus
