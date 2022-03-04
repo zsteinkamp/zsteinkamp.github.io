@@ -27,7 +27,7 @@ My dream job would allow me to use everything I have learned over the years to d
 
 * A+ Teammates
   * Engaged - interested in team strategy and bring ideas for improvement
-  * Diverse - role, skills, background, purpose
+  * Diverse - demographics, roles, skills, backgrounds
   * Growth Mindset
 * Empowered - org/company support for optimizing for innovation
 * Clear mission and fit in org/company strategy
@@ -36,8 +36,8 @@ My dream job would allow me to use everything I have learned over the years to d
 
 * SaaS or Paid Product (i.e. not ad-revenue supported)
 * Proven growth path
-* High product standards
-* Customer focus
+* Exceptional product standards
+* Customer focus throughout
 * Demonstrated attention to employee growth and wellbeing
 * High-responsibility environment (i.e. coordinated autonomy + low process overhead)
 
