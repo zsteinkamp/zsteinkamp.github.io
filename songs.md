@@ -4,6 +4,83 @@ title: Songs
 navtitle: Music
 permalink: /songs/
 data:
+- title: Curie / Rababa
+  date: January 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/curie-rababa
+  bandcampId: 1888737944
+  type: album
+  description:
+  - A couple of tracks I did in quick succession. Curie uses the <a href="/music-tools/">zs-Faderboard</a> device that I created. Rababa is an Arab instrument that is like a coconut with a stick and a string.
+
+- title: As Far As We Know
+  date: December 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/as-far-as-we-know
+  bandcampId: 3599938593
+  description:
+  - Lots of vocal tracks in this one, mostly percussive. Also uses zs-Faderboard for some atmospheres.
+
+- title: It's All Fate / L.B. Jeffries / Go Around
+  date: November 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/its-all-fate
+  bandcampId: 3199147600
+  type: album
+  description:
+  - I'm happy with how these tracks came together. Go Around is, I think, one of the best tracks I've done. L.B. Jeffries uses samples from Hitchcock's classic Rear Window.
+
+- title: Go To Sleep / Watch the Sun Rise / Five Horses
+  date: November 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/go-to-sleep
+  bandcampId: 1708641109
+  type: album
+  description:
+  - I was really struggling with sleep issues when I was making these tracks. I found that certain types of music with certain patterns helped me to relax and sleep, so these songs are more of a sleeping tool for me. There is a reason for their order, and the apparent chaos of Five Horses serves a purpose.
+  - Watch the Sun Rise uses a lot of samples from Fleetwood Mac's "The Chain".
+
+- title: Fall Unit
+  date: September 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/fall-unit
+  bandcampId: 2514311287
+  description:
+  - A quick dancey tune, inspired by a local park called the "Fall Creek Unit".
+
+- title: Slay
+  date: July 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/slay
+  bandcampId: 1600475559
+  description:
+  - Dub techno monster featuring vocals from Naomi.
+
+- title: gonzo
+  date: June 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/gonzo
+  bandcampId: 3526469059
+  description:
+  - Another dancey tune. I like this one more than most of my other tracks.
+
+- title: arcFlat
+  date: June 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/arcflat
+  bandcampId: 434302348
+  description:
+  - An anagram of 'fractal', arcFlat uses my <a href="/music-tools/">Fractal Note Delay</a> device on several tracks.
+
+
+- title: FND / Two Trees
+  date: May 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/fnd-two-trees
+  bandcampId: 291096932
+  type: album
+  description:
+  - A couple of tracks that use my <a href="/music-tools/">Fractal Note Delay</a> device. Two Trees is a fun self-referential exercise that samples from a great talk that I can't find a link to any more.
+
+- title: Killdeers / Occupation
+  date: April 2021
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/killdeers-occupation
+  bandcampId: 53694542
+  type: album
+  description:
+  - Two very different tracks. Killdeers samples from Bruce Lee's classic "Enter The Dragon". Occupation is an oddball track that to me is a little journey through a typical workday for me, but it's one of my favorites.
+
 - title: Room
   date: March 2021
   description:
@@ -564,19 +641,12 @@ data:
 {%- for song in page.data -%}
 <div class="song">
   <h4 class="songdate">{{song.date}}</h4>
-  <h1><a name="{{ song.title | downcase | replace: " ", "-" | replace: "'", "" }}"></a>{{song.title}}</h1>
+  <h2><a name="{{ song.title | downcase | replace: " ", "-" | replace: "'", "" }}"></a>{{song.title}}</h2>
   {%- if song.bandcampId -%}
     <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/{{song.type | default: "track" }}={{song.bandcampId}}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="{{song.bandcampUrl}}">{{song.title}} by Zack Steinkamp</a></iframe>
   {%- endif -%}
   {%- for paragraph in song.description -%}
     <p>{{paragraph}}</p>
   {%- endfor -%}
-  <div>
-    {{song.title}} on
-    <a href="{{song.bandcampUrl}}">Bandcamp</a> 
-    {%- if song.spotifyUrl -%}
-    &nbsp;/ <a href="{{song.spotifyUrl}}">Spotify</a>
-    {%- endif -%}
-  </div>
 </div>
 {%- endfor -%}
