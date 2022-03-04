@@ -40,6 +40,7 @@ My dream job would allow me to use everything I have learned over the years to d
 * Proven growth path
 * Exceptional product standards
 * Customer focus throughout
+* Publicly traded, or close to going public
 * Demonstrated attention to employee growth and wellbeing
 * High-responsibility environment (i.e. coordinated autonomy + low process overhead)
 
