@@ -7,7 +7,9 @@ entry:
   source: post
 ---
 
-Starting in late Feb 2022, I will be looking for a new job. I have 25+ years of experience in the Internet applications space, with that time split between IC and management positions. I have worked in all layers of the stack in [many very different roles](/resume/) in many different languages and frameworks.
+In Feb 2022, I left my job with the intent of taking some significant time off. After that luxurious R&R, I will be able to go all-in on finding my next job -- a fun experiment for me.
+
+I have 25+ years of experience in the Internet applications space, with that time split between IC and management positions - but always hands-on as an engineer. I have worked in all layers of the stack in [many very different roles](/resume/) in many different languages, frameworks, problem domains, and organizational structures.
 
 The moments that I am most proud of are when my work results in a multiplicitave improvement for my team / org / company / product / systems. I love to blend creativity and engineering discipline, bringing new ideas or connecting people and systems in new ways to unlock new possibilities.
 
@@ -41,6 +43,6 @@ My dream job would allow me to use everything I have learned over the years to d
 * Demonstrated attention to employee growth and wellbeing
 * High-responsibility environment (i.e. coordinated autonomy + low process overhead)
 
-I'd appreciate feedback from people that I've worked with/for -- am I aiming too high? too low? anything to add? to remove? <a href="mailto:zack@steinkamp.us">zack@steinkamp.us</a>
+I'd appreciate feedback from people that I've worked with/for -- am I aiming too high? too low? anything to add? to remove? want to just chat? :) <a href="mailto:zack@steinkamp.us">zack@steinkamp.us</a>
 
-Maybe you want to see my [resume](/resume/)?
+Maybe you'd like to see my [resume](/resume/)?
