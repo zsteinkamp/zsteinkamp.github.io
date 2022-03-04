@@ -26,7 +26,7 @@ My dream job would allow me to use everything I have learned over the years to d
 ## Team Attributes
 
 * A+ Teammates
-  * Engaged - interested in team strategy and bring ideas for improvement
+  * Engaged - interested in team strategy and bringing ideas for improvement
   * Diverse - demographics, roles, skills, backgrounds
   * Growth Mindset
 * Empowered - org/company support for optimizing for innovation
