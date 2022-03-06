@@ -18,6 +18,9 @@ permalink: /resume/
   header.post-header {
     display: block;
   }
+  .noprint {
+    display: none;
+  }
 }
 h1 {
   font-size: 1.25em;
@@ -52,7 +55,9 @@ h5.job-date {
 San Jose, California
 
 # About
-I have been building web applications since 1995, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization. I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed.
+I have been building web applications since 1995, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization.
+
+<div class="noprint">I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed. I've <a href="/post/2022/02/06/what-comes-next.html">written some notes</a> about the kind of role/company I am targeting. Let's talk!</div>
 
 # Experience
 
@@ -67,9 +72,7 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Hired and mentored engineering and design staff, which have grown to be a highly regarded and decorated team within Splunk.
 * Architected and built a flexible, simple, maintainable application platform using React, Sails.js, Node.js, Postgres, Redis, AWS ECS, and Docker.
 * Developed a super efficient local software development workflow and toolkit, leaning heavily into the capabilites of Docker.
-* Novel work to build an efficient pipeline for generating customized downloadable PowerPoint and Excel files from a Node.js backend with minimal coding, saving months of developer time.
-* Developed an automated, scalable, extensible CI/CD pipeline.
-* Created application monitoring dashboards and alerts using Splunk integrated with VictorOps and Slack.
+* Many, many inventions to optimize development cycle efficiency, speeding time-to-market and improving quality.
 * Led initiative around metrics and monitoring, establishing standards and practices as well as delivering department-level dashboards.
 * Developed a system to [quantify team member technical area aptitude](/post/2021/05/22/manager-toolbox.html#quantified-technical-skill) to inform hiring decisions and personal development plans.
 * Developed a [written skills matrix](/post/2021/05/22/manager-toolbox.html#written-advancement-path) to show team members a clear path to growth and promotion.
@@ -84,7 +87,6 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-role}
 * Primary engineer responsible for AngularJS-based web frontend, Backbone.js TV app, Amazon FireStick app, and Rails-powered marketing content management system.
 * Engineered many back-end services and service features using Ruby on Rails, MySQL, RabbitMQ.
-* Responsible for design and development of microservices HTTP request routing infrastructure.
 * Designed a secure, flexible network architecture in Amazon EC2 / VPC.
 * Co-created devops infrastructure using Ansible, Amazon EC2, Docker, bind, rsyslogd, Splunk.
 * Co-created an automated continuous build/test/deploy system using GitHub, Jenkins, Docker, Ansible.
@@ -107,14 +109,13 @@ I have been building web applications since 1995, and at mega-scale starting in 
 #### Expert Engineer / Director of Engineering
 {:.job-role}
 * Managed, mentored, and enabled a platform infrastructure engineering team responsible for ops automation, application frameworks, data infrastructure software, and real-time metrics.
-* Conceived and implemented a secure, [employee-friendly single-sign-on system](/post/2011/01/05/google-apps-authentication-for-internal-company-sit-post.html) used to protect over 500 internal company tools.
+* Conceived and implemented a [secure, employee-friendly single-sign-on system](/post/2011/01/05/google-apps-authentication-for-internal-company-sit-post.html) used to protect over 500 internal company tools.
 * Participated in most aspects of obtaining and maintaining PCI Level 1 certification -- system design, engineering, documentation, evidence gathering, working with auditors, security design, international roll-out.  Published a [description of Groupon's PCI solution](https://web.archive.org/web/20201128041157/https://engineering.groupon.com/2014/misc/pci-at-groupon-the-tokenizer/) on the company public engineering blog.
-* Implemented a [real-time metrics collection, transport, visualization and alerting system](https://web.archive.org/web/20190311025045/https://engineering.groupon.com/2013/misc/evolving-realtime-metrics-and-monitoring-at-groupon/) using a mix of open source technology and homegrown software that handles millions of datapoints per minute.
+* Invented a [real-time metrics collection, transport, visualization and alerting system](https://web.archive.org/web/20190311025045/https://engineering.groupon.com/2013/misc/evolving-realtime-metrics-and-monitoring-at-groupon/) using a mix of open source technology and homegrown software that handles millions of datapoints per minute.
 * Responsible for education, evangelization, and development of security best practices.  Implemented a grassroots security program to build a strong security culture within the engineering org.
 * Identified and implemented significant front- and back-end performance improvements to the groupon.com site, e.g. static asset fingerprinting/caching, CDN integration, Ruby garbage collection tuning, etc.
 * Built special-purpose systems designed to withstand sudden spikes of millions of requests generated by Groupon's NFL Super Bowl ads.
 * Designed and built Groupon's [production operations infrastructure, configuration management, and tooling](https://www.youtube.com/watch?v=8TfNJQwXNfk).  This system scaled to over 1,500 engineers and 10,000 servers.
-* Designed and built an abuse detection and prevention system using nginx, Lua, and Redis.
 * Heavily involved in a lights-on transition from PaaS provider to a dedicated datacenter, completed with 100% uptime for this mega-scale ecommerce site.
 * Core member of the planning team for [Groupon's hack-week program ("GEEKon")](https://twitter.com/search?q=groupon%20geekon&src=typd) involving 1,500 developers in 10 dev centers worldwide.
 * Member of Groupon's "Bar Raiser" program. Involved in recruiting and interviewing across the engineering org and beyond, averaging over 100 interviews per year. Instrumental in growing the company's engineering team from 25 to 1,500 individuals in 4 years.
@@ -129,7 +130,6 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Conceived and implemented a novel in-browser solution to display and manipulate 16 bits-per-pixel monochrome images in ways familiar to radiologists.
 * Assisted with design and implementation of frontend and social features.
 * Involved in choosing datacenters, selecting hardware solutions, and installing hardware in datacenters.
-* Designed and implemented a virtualization solution using VMWare ESX, VirtualCenter, and CentOS.
 * Designed and implemented system/application monitoring and product analytics solutions.
 * Co-architected and implemented a scalable (hundreds of TB) yet inexpensive storage infrastructure.
 * Co-architected and implemented inter-datacenter file and database replication.
