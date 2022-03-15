@@ -22,6 +22,9 @@ permalink: /resume/
     display: none;
   }
 }
+.name {
+  font-size: 2em;
+}
 h1 {
   font-size: 1.25em;
   font-weight: bold;
@@ -50,9 +53,10 @@ h5.job-date {
   font-weight:600;
 }
 </style>
+<div class="name">Zack Steinkamp</div>
 [zack@steinkamp.us](mailto:zack@steinkamp.us)  
 [https://steinkamp.us/](https://steinkamp.us)  
-San Jose, California
+Scotts Valley, California
 
 # About
 I have been building web applications since 1995, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization.
