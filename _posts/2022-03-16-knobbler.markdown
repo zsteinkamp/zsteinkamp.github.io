@@ -33,7 +33,7 @@ The current state of things (2020s) allows for an interesting and distinct split
 
 The other side of today's electronic musicians are the "in the box" crowd. (Full disclosure: I am very much a member of this crowd.) These musicians use modern computers, which are able to faithfully simulate elaborate studios full of analog and digital music equipment. Every sound generation and processing step is inside of a computer. However, the best we have to interface with a computer is a keyboard and mouse. Kind of like playing a saxophone using just a single chopstick. Not good!
 
-![Ableton Live running on a laptop.](/images/knobbler/ableton-laptop.jpg)
+![Ableton Live running on a laptop.](/images/knobbler/ableton.jpg)
 
 A benefit of this methodology, aside from obvious space considerations, is that it enables musicians to work on several projects at once and switch between them instantly.
 
