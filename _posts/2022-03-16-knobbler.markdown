@@ -5,6 +5,8 @@ date: '2022-03-16 12:00:00'
 categories: post
 entry:
   source: post
+  data:
+    thumb_url: '/images/knobbler/thumb.jpg'
 ---
 
 ![Knobbler interface on iPad](/images/knobbler/ipadInterface.jpg)
