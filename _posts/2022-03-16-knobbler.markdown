@@ -31,11 +31,11 @@ The current state of things (2020s) allows for an interesting and distinct split
 
 ![A modern analog studio.](/images/knobbler/modular-studio2.jpg)
 
-The other side of today's electronic musicians are the "in the box" crowd. (Full disclosure: I am very much a member of this crowd.) These musicians use modern computers, which are able to faithfully simulate elaborate studios full of analog and digital music equipment. Every sound generation and processing step is inside of a computer.
+The other side of today's electronic musicians are the "in the box" crowd. (Full disclosure: I am very much a member of this crowd.) These musicians use modern computers, which are able to faithfully simulate elaborate studios full of analog and digital music equipment. Every sound generation and processing step is inside of a computer. However, the best we have to interface with a computer is a keyboard and mouse. Kind of like playing a saxophone using just a single chopstick. Not good!
 
 ![Ableton Live running on a laptop.](/images/knobbler/ableton-laptop.jpg)
 
-One benefit of this methodology, aside from obvious space considerations, is that it enables musicians to work on several projects at once and switch between them instantly.
+A benefit of this methodology, aside from obvious space considerations, is that it enables musicians to work on several projects at once and switch between them instantly.
 
 For an analog musician to switch between projects, they would have to ensure every knob and switch in their studio is reset to its proper setting for the project at hand. This can easily become hundreds of objects that need to be in some physical state in order to "get back to where we were". Some analog equipment comes with photocopiable parameter sheets, where settings can be written down for later recall. The horror!
 
