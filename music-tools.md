@@ -4,6 +4,11 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
+- title: Automation Math
+  image: https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-zs-AutomationMath
+  description:
+  - This device combines two automation signals using math, and outputs a signal you can then map to a parameter.
 - title: zs Knobbler3
   image: https://github.com/zsteinkamp/m4l-zs-Knobbler3/raw/main/images/ipadInterface.jpg
   link: https://github.com/zsteinkamp/m4l-zs-Knobbler3
