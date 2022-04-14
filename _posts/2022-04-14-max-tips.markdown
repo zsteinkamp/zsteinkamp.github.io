@@ -12,6 +12,8 @@ I didn't always enjoy working in Max. As a beginner, it all seems so opaque, and
 
 This post exists to help others get over the hump of feeling comfortable and confident working with Max. It's not a beginner's tutorial (there are several out there), but rather a collection of bits and pieces that were either important to my learning journey, or a feature implemented in a non-intuitive way.
 
+* TOC
+{:toc}
 
 # The Basics
 
