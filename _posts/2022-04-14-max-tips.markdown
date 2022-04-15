@@ -166,6 +166,7 @@ I wrote this small method "debug()" that I use in my patches that pays attention
 
 ```
 var debugLog = true; // change to false to disable debug() from logging
+
 function debug() {
   if (debugLog) {
     post(
@@ -216,12 +217,12 @@ If you have a `[buffer Foo]` object inside of a patcher, that buffer named "Foo"
 
 ## [bpatcher] For Repeated UI Elements
 
-This one took me too long to find. In cases where you have the same UI elements repeated, then a `[bpatcher]` helps you avoid duplication. It's similar to an `&lt;iframe>` if you know HTML.
+This one took me too long to find. In cases where you have the same UI elements repeated, then a `[bpatcher]` helps you avoid duplication. It's similar to an `<iframe>` if you know HTML.
 
 
 ## [bpatcher] Internal Awareness of Instance
 
-This has come up for me a couple of times. If you have several instances of a `[bpatcher]` or [patcher] and each instance needs to know their particular instance number, then there are a couple of ways to do it.
+This has come up for me a couple of times. If you have several instances of a `[bpatcher]` or `[patcher]` and each instance needs to know their particular instance number, then there are a couple of ways to do it.
 
 One way is to send a message containing an ID number to an inlet in each `[bpatcher]`. Then, inside the `[bpatcher]`, use that number to set things up however you need to.
 
