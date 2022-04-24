@@ -4,6 +4,11 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
+- title: Current Param Knob
+  image: https://github.com/zsteinkamp/m4l-CurrentParamKnob/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-CurrentParamKnob
+  description:
+  - Allows you to map a MIDI controller to the currently selected parameter in your Live set. More useful (for me) than it sounds.
 - title: Automation Math
   image: https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-zs-AutomationMath
