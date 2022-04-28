@@ -4,6 +4,11 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
+- title: Tempo To Ms
+  image: https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-TempoToMs
+  description:
+  - Displays a grid of durations, in milliseconds, of various note lengths at the current song tempo.
 - title: Current Param Knob
   image: https://github.com/zsteinkamp/m4l-CurrentParamKnob/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-CurrentParamKnob
