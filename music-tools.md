@@ -4,6 +4,11 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
+- title: KS-Synth
+  image: https://github.com/zsteinkamp/m4l-KS-Synth/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-KS-Synth
+  description:
+  - A polyphonic Karplus-Strong synthesizer. This was my first foray into [poly~] and can create a surprisingly wide range of sounds.
 - title: Tempo To Ms
   image: https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-TempoToMs
