@@ -4,9 +4,9 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
-- title: TopPanVerb
+- title: TapPanVerb
   image: https://github.com/zsteinkamp/m4l-TapPanVerb/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-TopPanVerb
+  link: https://github.com/zsteinkamp/m4l-TapPanVerb
   description:
   - A reverb + bucket-brigade delay tap field with control over timing and stereo placement of each tap. Up to 128 taps + an insane feedback control.
 - title: KS-Synth
