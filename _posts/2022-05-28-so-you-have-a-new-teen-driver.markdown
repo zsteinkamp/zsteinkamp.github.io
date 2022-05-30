@@ -42,7 +42,7 @@ For the newest drivers, make a plan with them about how you're going to start on
 Spend 30 seconds after they park to talk about the drive. Hopefully you haven't had to say much while they're driving (it's hard, I know!). Talk in detail about any complex / nervous situations that arose AFTER you park. Have THEM identify what they will do differently the next time, perhaps giving hints, but don't give them a lecture. Help them to discover what to do differently.
 
 
-## Understand the Role of Tunnel vision
+## Understand the Role of Tunnel Vision
 
 A brand new driver will be overwhelmed with everything going on. Someone who is overwhelmed will have tunnel vision, and only be able to focus on one thing at a time. Understand and accept this fact of human behavior and work with your teen on one thing at a time. As they get more comfortable, their vision and awareness will expand and will only come with time and practice.
 
