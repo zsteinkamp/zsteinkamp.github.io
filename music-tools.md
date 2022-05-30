@@ -4,6 +4,11 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
+- title: AutomationStepper
+  image: https://github.com/zsteinkamp/m4l-AutomationStepper/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-AutomationStepper
+  description:
+  - Turns continuous automation input into stair-stepped output at your chosen frequency or note interval.
 - title: TapPanVerb
   image: https://github.com/zsteinkamp/m4l-TapPanVerb/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-TapPanVerb
