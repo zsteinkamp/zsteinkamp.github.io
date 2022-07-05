@@ -262,7 +262,7 @@ data:
 - title: Shelter
   date: March 2020
   description:
-  - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by <a href="https://hainbach.bandcamp.com/album/isolation-loops-soundpack">Hainbach's "Isolation Loops" project</a>, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Vocals by Bahar and I. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persian music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beat in places.
+  - Made during the "shelter in place" period following the Covid-19 outbreak, this song is about the lockdown and finding the good in the situation. The intro and outro sounds are inspired by <a href="https://hainbach.bandcamp.com/album/isolation-loops-soundpack">Hainbach's "Isolation Loops" project</a>, but I made my own Isolation Loops by building little feedback machines in Ableton Live and spending a couple wonderful sessions just tweaking sounds and recording audio as I went. Harmonica by me. The main melody is from an instrument I made from sampling a single note from a recorder instrument here in the music room. The rhythm in the song is either triplet time (4/4 with triplet 8th notes) or 6/8 depending on your music theory religion. I noticed that most Persian music uses this rhythm, and so I thought it would be cool to use it in a different context. I really like the possibilities that it brings, especially if layered with a standard non-triplet 4/4 beat in places.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/shelter
   bandcampId: 97429605
   spotifyUrl: https://open.spotify.com/track/4iULUi1CGxvHashkEriRhz?si=Ni7IZaF8Que9ssC5gzBSJA
@@ -302,7 +302,7 @@ data:
 - title: Time Always Moving
   date: October 2019
   description:
-  - Vocal samples from a talk from Dalai Lama. Singing by me and Bahar. Opening chord from the outro chord of <a href="https://www.youtube.com/watch?v=WudaLBOCrBE">Robert Glasper's take on Smells Like Teen Spirit</a>.
+  - Vocal samples from a talk from Dalai Lama. Opening chord from the outro chord of <a href="https://www.youtube.com/watch?v=WudaLBOCrBE">Robert Glasper's take on Smells Like Teen Spirit</a>.
   bandcampId: 3447973436
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/time-always-moving
   spotifyUrl: https://open.spotify.com/track/1N1trMh6PVjFgL0uU9XovG?si=w-peoDD2Qw2MhNLVwVhK2A
@@ -358,7 +358,7 @@ data:
 - title: Staying
   date: March 2019
   description:
-  - More samples from Sunol Regional Wilderness, made with Sennheiser binaural mics. Bahar and I had fun clapping at each other next to the old green barn.
+  - More samples from Sunol Regional Wilderness, made with Sennheiser binaural mics.
   bandcampId: 1247069892
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/staying
   spotifyUrl: https://open.spotify.com/track/7fMxXEn8naoBgxLITazbWA?si=3RCo9Om6SWaR0iELdqi9pw
@@ -402,7 +402,6 @@ data:
   - A while back I was running by the railroad tracks near my house and had the idea to use a sample from the Honeydrippers' version of Sea of Love, specifically the "I" in "I want to tell you...". The way Robert Plant sang that has so much character, I thought it could be the basis of something else. I took more samples than that from the song and made something very different from it.
   - Bahar sent me a recording she made of the parrots that live in our neighborhood, and that became the intro.
   - The main melody sound is a note sampled from the Stylophone that Derek gave me many years ago. Other sounds are egg shakers I keep at my music desk, the squeaky shelf that seems to get play in all my songs, and other synth sounds I made.
-  - The song is about Bahar and I and the feelings we share.
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/sea-of-love
   bandcampId: 182962305
   itunesUrl: https://itunes.apple.com/us/album/sea-of-love-single/1438590052
