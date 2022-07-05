@@ -16,5 +16,5 @@ entry:
   created_at: '2018-06-28 14:00:56'
   updated_at: '2018-06-28 14:00:56'
   pub_date: '2018-06-28 14:00:56'
-  disabled: 0
+  disabled: 1
 ---
