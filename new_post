@@ -1,0 +1,29 @@
+#!/bin/bash
+
+title=$*
+
+if [ -z "$title" ]; then
+  echo "Usage: $0 {title}"
+  exit 1
+fi
+
+smashed_title=$(echo "$title" | ruby -ne 'puts $_.downcase.gsub(/[^a-z0-9]/, "-").gsub(/-+/, "-").gsub(/^-/,"").gsub(/-$/,"")')
+datestamp=$(date +%Y-%m-%d)
+filename="_posts/${datestamp}-${smashed_title}.markdown"
+
+cat >$filename <<EOD
+---
+layout: post
+title: '$title'
+date: '$datestamp 12:00:00'
+categories: post
+entry:
+  source: post
+  data:
+    thumb_url: '/images/tesla-thumb.jpg'
+---
+
+Your post goes here.
+EOD
+
+exec vim $filename
