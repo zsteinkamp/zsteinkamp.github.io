@@ -18,6 +18,9 @@ permalink: /resume/
   header.post-header {
     display: block;
   }
+  div.avoidbreak {
+    break-inside: avoid;
+  }
   .noprint {
     display: none;
   }
@@ -61,18 +64,25 @@ Scotts Valley, California
 # About
 I have been building web applications since 1995, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization.
 
-<!-- <div class="noprint">I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed. I've <a href="/post/2022/02/06/what-comes-next.html">written some notes</a> about the kind of role/company I am targeting. Let's talk!</div> -->
+<div class="noprint">I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed. I've <a href="/post/2022/02/06/what-comes-next.html">written some notes</a> about the kind of role/company I am targeting. Let's talk!</div>
 
 # Experience
 
-#### May 2022 - Present
+<div class="avoidbreak" markdown="1">
+#### May 2022 - Nov 2022
 {:.job-date}
 ### Stripe
 {:.job-company}
 #### Staff Engineer
 {:.job-role}
-* Member of the Stripe Atlas team, whose mission is to minimize the time and effortrequired to start a new company. This includes things like incorporation, equity allocation, trademark registration, etc.
+* Engineer in the Stripe Atlas team, whose mission is to minimize the time and effort required to start a new company. Stripe Atlas eliminates the need to engage the services of a lawyer for most entrepreneurs.
+* Built and released user-facing features such as a Stripe payments discount for Atlas customers, share vesting for solo-founder companies, and accurate share purchase date collection to optimize founders' tax liabilities.
+* Member of the department-level incident review committee, where significant user-impacting events were discussed along with strategies for remediation and prevention.
+* Helped to shape the operating mechanics of the team, with an eye on optimizing efficiency. This brought a focus on important discussions, learning sessions, peer 1:1s.
+* Caught up in Stripe's Nov 2022 layoffs, which primarily affected new hires like me.
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Jul 2017 - Feb 2022
 {:.job-date}
 ### Splunk
@@ -84,13 +94,15 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Hired and mentored engineering and design staff, which have grown to be a highly regarded and decorated team within Splunk.
 * Architected and built a flexible, simple, maintainable application platform using React, Sails.js, Node.js, Postgres, Redis, AWS ECS, and Docker.
 * Developed a super efficient local software development workflow and toolkit, leaning heavily into the capabilites of Docker.
-* Many, many inventions to optimize development cycle efficiency, speeding time-to-market and improving quality.
+<!-- * Many, many inventions to optimize development cycle efficiency, speeding time-to-market and improving quality. -->
 * Led initiative around metrics and monitoring, establishing standards and practices as well as delivering department-level dashboards.
 * Developed a system to [quantify team member technical area aptitude](/post/2021/05/22/manager-toolbox.html#quantified-technical-skill) to inform hiring decisions and personal development plans.
 * Developed a [written skills matrix](/post/2021/05/22/manager-toolbox.html#written-advancement-path) to show team members a clear path to growth and promotion.
 * Involved in all key departmental hires in all roles (engineering, design, product management, senior leadership) and took the lead in developing a set of [guidelines to help all interviewers](/post/2019/08/10/how-to-interview-post.html) be more effective.
-* Recipient of several department-level awards.
+<!-- * Recipient of several department-level awards. -->
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Jan 2015 - Jul 2017
 {:.job-date}
 ### Hoopla Software 
@@ -103,7 +115,9 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Co-created devops infrastructure using Ansible, Amazon EC2, Docker, bind, rsyslogd, Splunk.
 * Co-created an automated continuous build/test/deploy system using GitHub, Jenkins, Docker, Ansible.
 * Creator of the #wflt (What's for lunch today?) Slack channel and the Cheerleader Zack emoji.
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Jul 2014 - Jan 2015
 {:.job-date}
 ### DataTorrent
@@ -113,7 +127,9 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Significant contributor to DataTorrent's visual stream processing editor, dtAssemble. This tool allows teams to build and deploy real-time data processing flows by connecting ingest / transformation / output nodes in a directed acyclic graph. Technologies used: AngularJS, Bootstrap, JSPlumb.
 * Assisted in enhancements to the product's Java-based web API server.
 * Contributed to DataTorrent's (now Apache Apex) [Malhar](https://github.com/apache/apex-malhar) open-source library of stream processing operators.
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Sep 2010 - Jul 2014
 {:.job-date}
 ### Groupon
@@ -131,8 +147,10 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Heavily involved in a lights-on transition from PaaS provider to a dedicated datacenter, completed with 100% uptime for this mega-scale ecommerce site.
 * Core member of the planning team for [Groupon's hack-week program ("GEEKon")](https://twitter.com/search?q=groupon%20geekon&src=typd) involving 1,500 developers in 10 dev centers worldwide.
 * Member of Groupon's "Bar Raiser" program. Involved in recruiting and interviewing across the engineering org and beyond, averaging over 100 interviews per year. Instrumental in growing the company's engineering team from 25 to 1,500 individuals in 4 years.
-* Spoke at various internal and external conferences, presenting on the topics of performance, monitoring, security, and devops.
+* Presented at various internal and external conferences on the topics of performance, monitoring, security, and devops.
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Mar 2009 - Sep 2010
 {:.job-date}
 ### Symantec
@@ -140,14 +158,16 @@ I have been building web applications since 1995, and at mega-scale starting in 
 #### Sr. Principal Software Engineer, Symantec Health
 {:.job-role}
 * Conceived and implemented a novel in-browser solution to display and manipulate 16 bits-per-pixel monochrome images in ways familiar to radiologists.
-* Assisted with design and implementation of frontend and social features.
+<!-- * Assisted with design and implementation of frontend and social features. -->
 * Involved in choosing datacenters, selecting hardware solutions, and installing hardware in datacenters.
 * Designed and implemented system/application monitoring and product analytics solutions.
 * Co-architected and implemented a scalable (hundreds of TB) yet inexpensive storage infrastructure.
 * Co-architected and implemented inter-datacenter file and database replication.
-* Co-designed and implemented a customer-facing data analytics site.
+<!-- * Co-designed and implemented a customer-facing data analytics site. -->
 * Responsible for application security design and ongoing security testing.
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Mar 2007 - Feb 2009
 {:.job-date}
 ### Dipity
@@ -156,13 +176,15 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-role}
 * Assembled an awesome team to build a web application to automatically ingest and visualize data, orgainzed by time.
 * Assisted in building a flexible, high performance, scalable application platform.  Dipity.com at its peak was the most popular online timeline tool, with 2 million monthly unique visitors, along with several prominent customers in news media, education, and entertainment.
-* Orchestrated a move from colocated servers to Amazon EC2 to save money and increase reliability.
-* Responsible for all aspects of building the product -- from brainstorming to requirements definition to delegation to architecture to execution.
+<!-- * Orchestrated a move from colocated servers to Amazon EC2 to save money and increase reliability. -->
+<!-- * Responsible for all aspects of building the product - from brainstorming to requirements definition to delegation to architecture to execution. -->
 * Technologically covered the gamut -- Machine setup, monitoring infrastructure, database administration, back-end architecture, security, Javascript/AJAX, product concepts, mockups, and graphics.
-* Developed single-sign-on and content moderation systems to meet customer requirements.
-* Assisted in fundraising activities.
+<!-- * Developed single-sign-on and content moderation systems to meet customer requirements. -->
+<!-- * Assisted in fundraising activities. -->
 * Shipped personal timelines four years before Facebook did. ;-)
+</div>
 
+<div class="avoidbreak" markdown="1">
 #### Mar 1999 - Dec 2006
 {:.job-date}
 ### Yahoo!
@@ -173,10 +195,12 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-role}
 * One of ten individuals in this team. At the time, Yahoo was a 10,000-person company.
 * Served as an internal security advisor -- specializing in issues dealing with modern client-side web technologies (AJAX, Javascript, DHTML, Flash, Web Services).
-* Developed libraries to assist developers in creating rich Internet applications in a secure manner.
+<!-- * Developed libraries to assist developers in creating rich Internet applications in a secure manner. -->
 * Involved in developing company security policy, working with executive, legal, business, and engineering teams.
 * Developed and delivered coursework to train engineers and others in the company in security issues and best practices.
+</div>
 
+<div class="avoidbreak" markdown="1">
 ##### Apr 2003 - Apr 2005
 {:.job-date}
 #### Monitoring Infrastructure Team
@@ -185,16 +209,20 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Designed and built web-based visual data analysis tools for engineers, production staff, management, and executives.
 * Developed and delivered a company-wide availability monitoring and reporting solution, covering 200+ web properties.
 * Eventually took over management and technical lead responsibilities of the team.
+</div>
 
+<div class="avoidbreak" markdown="1">
 ##### Mar 1999 - Apr 2003
 {:.job-date}
 #### My Yahoo! Development Team
 {:.job-role}
 * Lead Engineer and Manager responsible for delivering a next-generation web portal product, in partnership with broadband internet providers (e.g. British Telecom, Rogers Cable, Pac Bell). This product was built on the My Yahoo platform, and extended with modern web technologies such as Javascript and CSS.
 * Conceived and implemented a PHP-based presentation layer that ran inside of My Yahoo's Apache module written in C.  Worked with the inventor of PHP and his team to make this possible.  This change improved engineering efficiency dramatically by eliminating the need to recompile the module when making markup changes.
-* Conceived and implemented UI changes that doubled (measured by clicks) user awareness of customization in the My Yahoo! product.
-* Built a C++/XML middleware architecture to centralize security functions, user authentication, and other functions common to the My Yahoo! configuration interface.  This architecture was adopted by several different groups in the company.
+<!--* Conceived and implemented UI changes that doubled (measured by clicks) user awareness of customization in the My Yahoo! product.
+* Built a C++/XML middleware architecture to centralize security functions, user authentication, and other functions common to the My Yahoo! configuration interface.  This architecture was adopted by several different groups in the company. -->
+</div>
 
+<div class="avoidbreak" markdown="1">
 # Education
 
 #### Graduated 1998
@@ -203,7 +231,9 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-company}
 Bachelor of Science degree in Business Administration, with emphasis in Information Systems / Computer Science.
 * Recipient of the 1998 Peoplesoft (Oracle) Information Systems Award -- Awarded to the Cal Poly MIS student who best demonstrates interest and ability in the Information Systems field.
+</div>
 
+<div class="avoidbreak" markdown="1">
 # Related Posts
 
 * [Manager Toolbox](/post/2021/05/22/manager-toolbox.html)
@@ -213,7 +243,9 @@ Bachelor of Science degree in Business Administration, with emphasis in Informat
 * [On Efficiency](/post/2019/08/24/on-efficiency.html)
 * [On Dates](/post/2019/08/24/on-dates.html)
 * [How To Interview](/post/2019/08/10/how-to-interview-post.html)
+</div>
 
+<div class="avoidbreak" markdown="1">
 # Personal
 
 * Music maker ([Spotify](https://open.spotify.com/artist/4zlbGPYkjV7EpxXHyfZNAh) / [Apple](https://itunes.apple.com/us/artist/zack-steinkamp/id1217691470))
@@ -223,3 +255,4 @@ Bachelor of Science degree in Business Administration, with emphasis in Informat
 * High Performance Driving Instructor for the [BMWCCA](http://www.ggcbmwcca.org/) and former SCCA club racer.
 * Woodworker
 * Programmer [since age 8](/post/2021/05/22/computer-history.html)
+</div>
