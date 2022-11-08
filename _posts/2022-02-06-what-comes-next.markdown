@@ -7,10 +7,6 @@ entry:
   source: post
 ---
 
-> **SPOILER ALERT** -- In May, 2022 I joined [Stripe](https://stripe.com/atlas) :)
-
-In Feb 2022, I left my job with the intent of taking a couple of months away from working. After that luxurious R&R, I will be able to go all-in on finding my next job -- a fun experiment for me.
-
 I have 25+ years of experience in the Internet applications space, with that time split between IC and management positions - but always hands-on as an engineer. I have worked in all layers of the stack in [many very different roles](/resume/) in many different languages, frameworks, problem domains, and organizational structures.
 
 The moments that I am most proud of are when my work results in a multiplicitave improvement for my team / org / company / product / systems. I love to blend creativity and engineering discipline, bringing new ideas or connecting people and systems in new ways to unlock new possibilities.
