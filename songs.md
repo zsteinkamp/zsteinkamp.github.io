@@ -4,8 +4,76 @@ title: Songs
 navtitle: Music
 permalink: /songs/
 data:
+- title: Go Around 1.1
+  date: November 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/go-around-11
+  bandcampId: 3132003736
+  type: track
+  description:
+  - This is a slight rework of my track from the It's All Fate EP. I've always liked the track, but there were a couple things that had been bothering me about it, so here's a newer version!
+
+- title: Matriz
+  date: October 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/matriz-2
+  bandcampId: 2105840677
+  type: track
+  description:
+  - This song started out as a fun exercise with a <a href="https://github.com/zsteinkamp/zs-Feedback-Matrix">new device</a> that I made for Ableton Live. The device is an audio effects rack with two delay chains that can feed back into each other.
+
+- title: A Chill Human Being
+  date: October 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/a-chill-human-being-2
+  bandcampId: 3841330641
+  type: track
+  description:
+  - I set out to make something more melodic/harmonic than I usually make, and this was the result.
+
+- title: RCVDTAOP
+  date: September 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/rcvdtaop
+  bandcampId: 683958725
+  type: track
+  description:
+  - This song started as an exercise in what I could make from sounds that books make. The title comes from the two very different books I sampled -- Race Car Vehicle Engineering (Milliken & Milliken) and The Art of Peace (Ueshiba).
+
+- title: basic-remake
+  date: September 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/basic-remake
+  bandcampId: 15349444
+  type: album
+  description:
+  - Opening with a binaural sample from the NYC subway, basic-remake is an uptempo minimal dancey tune.
+
+- title: Lands End
+  date: August 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/lands-end
+  bandcampId: 3477808644
+  type: album
+  description:
+  - This is a collection of three tracks I was very lightly working on after I got a new job, and managed to finish once I started to get my sea legs in the new job.
+  - Largo is a dreamy tune with some fun percussion and bass guitar built atop the <a href="https://www.youtube.com/watch?v=zbu1wnkTJjY">Andrew Chord</a>, and also uses my TapPanVerb device.
+  - Montauk is also etherial, with many many vocal layers as well as several layers of a Prius in reverse that I sampled and made into an instrument.
+  - Hoya is a hard driving percussive tune with some sampled guitar/bass.
+
+- title: Mandrake,
+  date: April 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/mandrake
+  bandcampId: 3821920443
+  type: album
+  description:
+  - The title track started as an experiment in building a song that continually shifted around 3 and 4 time, then I decided to put one of my favorite monologues over it - Coloner Ripper's rant from Dr. Strangelove.
+  - The second track is just some random stuff I did during my (first) work break.
+
+- title: An Eagle Like Fly
+  date: March 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/an-eagle-like-fly
+  bandcampId: 4291891591
+  type: album
+  description:
+  - Inspired by <a href="https://jhno.bandcamp.com/track/fly">jhno's "Fly"</a> I set out to make some deep remixes of Fly Like an Eagle from The Steve Miller Band.
+
 - title: Curie / Rababa
-  date: January 2021
+  date: January 2022
   bandcampUrl: https://zacksteinkamp.bandcamp.com/album/curie-rababa
   bandcampId: 1888737944
   type: album
