@@ -9,7 +9,7 @@ entry:
 
 I have 25+ years of experience in the Internet applications space, with that time split between IC and management positions - but always hands-on as an engineer. I have worked in all layers of the stack in [many very different roles](/resume/) in many different languages, frameworks, problem domains, and organizational structures.
 
-The moments that I am most proud of are when my work results in a multiplicitave improvement for my team / org / company / product / systems. I love to blend creativity and engineering discipline, bringing new ideas or connecting people and systems in new ways to unlock new possibilities.
+The moments that I am most proud of are when my work results in a multiplicative improvement for my team / org / company / product / systems. I love to blend creativity and engineering discipline, bringing new ideas or connecting people and systems in new ways to unlock new possibilities.
 
 My dream job would allow me to use everything I have learned over the years to develop new worlds of success and efficiency in a product or organization.
 
