@@ -31,7 +31,9 @@ One thing I was surprised to see on my first day at Stripe was the default "than
 
 ## The DRI
 
-Each task and project in the team has a single person who is responsible for that thing in that moment. The DRI for something may shift as time passes, and this fact is communicated clearly to the team and stakeholders when it happens. This helps to avoid the "tragedy of the commons" where shared ownership results in no ownership. It also builds on a culture of top-to-bottom responsibility, which builds more capable team members and gives higher quality output. A common question asked in team meetings when a great idea is presented is "who wants to DRI that idea?" This way, fewer great ideas fall between the cracks of responsibility between people.
+Each task and project in the team has a single person who is responsible for that thing in that moment - the Directly Responsible Individual, or DRI. The DRI for something may shift as time passes, and this fact is communicated clearly to the team and stakeholders when it happens.
+
+This helps to avoid the tragedy of the commons where shared ownership results in no ownership. It also builds on a culture of top-to-bottom responsibility, which builds more capable team members and gives higher quality output. A common question asked in team meetings when a great idea is presented is "who wants to DRI that idea?" This way, fewer great ideas fall between the cracks of responsibility between people.
 
 
 ## Hiring for growth, diversity, and EQ
