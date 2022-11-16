@@ -38,10 +38,10 @@ My dream job would allow me to use everything I have learned over the years to d
 * Proven growth path
 * Exceptional product standards
 * Customer focus throughout
-* Competitive comp package and benefits
+* Comp package and benefits competitive with top-tier companies
 * Demonstrated attention to employee growth and wellbeing
 * High-responsibility environment (i.e. coordinated autonomy + low process overhead)
-* 100% remote is a-ok, or <= 15 minutes drive from Scotts Valley, CA
+* 100% remote or <= 15 minutes drive from Scotts Valley, CA
 
 I'd appreciate feedback from people that I've worked with/for -- am I aiming too high? too low? anything to add? to remove? want to just chat? :) <a href="mailto:zack@steinkamp.us">zack@steinkamp.us</a>.
 
