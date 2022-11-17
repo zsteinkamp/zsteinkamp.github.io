@@ -94,12 +94,10 @@ I have been building web applications since 1995, and at mega-scale starting in 
 * Hired and mentored engineering and design staff, which have grown to be a highly regarded and decorated team within Splunk.
 * Architected and built a flexible, simple, maintainable application platform using React, Sails.js, Node.js, Postgres, Redis, AWS ECS, and Docker.
 * Developed a super efficient local software development workflow and toolkit, leaning heavily into the capabilites of Docker.
-<!-- * Many, many inventions to optimize development cycle efficiency, speeding time-to-market and improving quality. -->
 * Led initiative around metrics and monitoring, establishing standards and practices as well as delivering department-level dashboards.
 * Developed a system to [quantify team member technical area aptitude](/post/2021/05/22/manager-toolbox.html#quantified-technical-skill) to inform hiring decisions and personal development plans.
 * Developed a [written skills matrix](/post/2021/05/22/manager-toolbox.html#written-advancement-path) to show team members a clear path to growth and promotion.
 * Involved in all key departmental hires in all roles (engineering, design, product management, senior leadership) and took the lead in developing a set of [guidelines to help all interviewers](/post/2019/08/10/how-to-interview-post.html) be more effective.
-<!-- * Recipient of several department-level awards. -->
 </div>
 
 <div class="avoidbreak" markdown="1">
@@ -158,12 +156,10 @@ I have been building web applications since 1995, and at mega-scale starting in 
 #### Sr. Principal Software Engineer, Symantec Health
 {:.job-role}
 * Conceived and implemented a novel in-browser solution to display and manipulate 16 bits-per-pixel monochrome images in ways familiar to radiologists.
-<!-- * Assisted with design and implementation of frontend and social features. -->
 * Involved in choosing datacenters, selecting hardware solutions, and installing hardware in datacenters.
 * Designed and implemented system/application monitoring and product analytics solutions.
 * Co-architected and implemented a scalable (hundreds of TB) yet inexpensive storage infrastructure.
 * Co-architected and implemented inter-datacenter file and database replication.
-<!-- * Co-designed and implemented a customer-facing data analytics site. -->
 * Responsible for application security design and ongoing security testing.
 </div>
 
@@ -176,11 +172,7 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-role}
 * Assembled an awesome team to build a web application to automatically ingest and visualize data, orgainzed by time.
 * Assisted in building a flexible, high performance, scalable application platform.  Dipity.com at its peak was the most popular online timeline tool, with 2 million monthly unique visitors, along with several prominent customers in news media, education, and entertainment.
-<!-- * Orchestrated a move from colocated servers to Amazon EC2 to save money and increase reliability. -->
-<!-- * Responsible for all aspects of building the product - from brainstorming to requirements definition to delegation to architecture to execution. -->
 * Technologically covered the gamut -- Machine setup, monitoring infrastructure, database administration, back-end architecture, security, Javascript/AJAX, product concepts, mockups, and graphics.
-<!-- * Developed single-sign-on and content moderation systems to meet customer requirements. -->
-<!-- * Assisted in fundraising activities. -->
 * Shipped personal timelines four years before Facebook did. ;-)
 </div>
 
@@ -195,7 +187,6 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-role}
 * One of ten individuals in this team. At the time, Yahoo was a 10,000-person company.
 * Served as an internal security advisor -- specializing in issues dealing with modern client-side web technologies (AJAX, Javascript, DHTML, Flash, Web Services).
-<!-- * Developed libraries to assist developers in creating rich Internet applications in a secure manner. -->
 * Involved in developing company security policy, working with executive, legal, business, and engineering teams.
 * Developed and delivered coursework to train engineers and others in the company in security issues and best practices.
 </div>
@@ -218,8 +209,6 @@ I have been building web applications since 1995, and at mega-scale starting in 
 {:.job-role}
 * Lead Engineer and Manager responsible for delivering a next-generation web portal product, in partnership with broadband internet providers (e.g. British Telecom, Rogers Cable, Pac Bell). This product was built on the My Yahoo platform, and extended with modern web technologies such as Javascript and CSS.
 * Conceived and implemented a PHP-based presentation layer that ran inside of My Yahoo's Apache module written in C.  Worked with the inventor of PHP and his team to make this possible.  This change improved engineering efficiency dramatically by eliminating the need to recompile the module when making markup changes.
-<!--* Conceived and implemented UI changes that doubled (measured by clicks) user awareness of customization in the My Yahoo! product.
-* Built a C++/XML middleware architecture to centralize security functions, user authentication, and other functions common to the My Yahoo! configuration interface.  This architecture was adopted by several different groups in the company. -->
 </div>
 
 <div class="avoidbreak" markdown="1">
