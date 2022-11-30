@@ -4,6 +4,11 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
+- title: AutomationDelay
+  image: https://github.com/zsteinkamp/m4l-AutomationDelay/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-AutomationDelay
+  description:
+  - It's a feedbacking echo effect for automation data! Turn pulses into automation oceans!
 - title: AutomationStepper
   image: https://github.com/zsteinkamp/m4l-AutomationStepper/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-AutomationStepper
