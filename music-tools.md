@@ -14,6 +14,11 @@ data:
   link: https://github.com/zsteinkamp/m4l-AutomationStepper
   description:
   - Turns continuous automation input into stair-stepped output at your chosen frequency or note interval.
+- title: zs Send Duck Rack
+  image: https://github.com/zsteinkamp/zs-Send-Duck-Rack/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/zs-Send-Duck-Rack
+  description:
+  - An audio effect rack that provides controls like an effects send, as well as a ducking feature for any effect.
 - title: TapPanVerb
   image: https://github.com/zsteinkamp/m4l-TapPanVerb/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-TapPanVerb
@@ -29,11 +34,6 @@ data:
   link: https://github.com/zsteinkamp/m4l-TempoToMs
   description:
   - Displays a grid of durations, in milliseconds, of various note lengths at the current song tempo.
-- title: Current Param Knob
-  image: https://github.com/zsteinkamp/m4l-CurrentParamKnob/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-CurrentParamKnob
-  description:
-  - Allows you to map a MIDI controller to the currently selected parameter in your Live set. More useful (for me) than it sounds.
 - title: Automation Math
   image: https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-zs-AutomationMath
@@ -62,12 +62,6 @@ data:
   description:
   - This is a MIDI Effect device that will repeat notes, with each repeat delay following the Fibonacci Sequence. You can control the number of repeats, time scale, pitch, and velocity change.
   - This was my first Javascript-based M4L patch. It was a great learning experience to figure out how to code up both the logic and visualization in M4L's Javascript environment.
-- title: Toggle Input
-  image: https://github.com/zsteinkamp/m4l-js-toggleInput/raw/main/images/1.png
-  link: https://github.com/zsteinkamp/m4l-js-toggleInput
-  description:
-  - This is a utility device whose sole purpose in life is to allow you to map a MIDI button to enable/disable recording in the currently selected track. This allows you to overdub automation recording without changing the MIDI or Audio clips that are already in the track. It saves you some hassle in disabling/enabling the track's inputs.
-  - The device is mostly written in Javascript, and interfaces with the Live API.
 
 ---
 I have made a handful of tools for electronic musicians who use Ableton Live Suite, which includes Max For Live.
