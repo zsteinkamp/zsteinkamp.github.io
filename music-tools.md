@@ -4,41 +4,26 @@ title: Music Tools
 navtitle: Music Tools
 permalink: /music-tools/
 data:
-- title: AutomationDelay
-  image: https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-zs-AutomationDelay
+- title: Modulation Math
+  image: https://github.com/zsteinkamp/m4l-Modulation-Math/raw/main/images/device.gif
+  link: https://github.com/zsteinkamp/m4l-Modulation-Math
+  description:
+  - This device combines two automation signals using math, and outputs a signal you can then map to a parameter.
+- title: Modulation Delay
+  image: https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/images/device.gif
+  link: https://github.com/zsteinkamp/m4l-Modulation-Delay
   description:
   - It's a feedbacking echo effect for automation data! Turn pulses into automation oceans!
-- title: AutomationStepper
-  image: https://github.com/zsteinkamp/m4l-AutomationStepper/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-AutomationStepper
+- title: Modulation Stepper
+  image: https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/images/device.gif
+  link: https://github.com/zsteinkamp/m4l-Modulation-Stepper
   description:
   - Turns continuous automation input into stair-stepped output at your chosen frequency or note interval.
-- title: zs Send Duck Rack
-  image: https://github.com/zsteinkamp/zs-Send-Duck-Rack/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/zs-Send-Duck-Rack
-  description:
-  - An audio effect rack that provides controls like an effects send, as well as a ducking feature for any effect.
 - title: TapPanVerb
   image: https://github.com/zsteinkamp/m4l-TapPanVerb/raw/main/images/device.png
   link: https://github.com/zsteinkamp/m4l-TapPanVerb
   description:
   - A reverb + bucket-brigade delay tap field with control over timing and stereo placement of each tap. Up to 128 taps + an insane feedback control.
-- title: KS-Synth
-  image: https://github.com/zsteinkamp/m4l-KS-Synth/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-KS-Synth
-  description:
-  - A polyphonic Karplus-Strong synthesizer. This was my first foray into [poly~] and can create a surprisingly wide range of sounds.
-- title: Tempo To Ms
-  image: https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-TempoToMs
-  description:
-  - Displays a grid of durations, in milliseconds, of various note lengths at the current song tempo.
-- title: Automation Math
-  image: https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/images/device.png
-  link: https://github.com/zsteinkamp/m4l-zs-AutomationMath
-  description:
-  - This device combines two automation signals using math, and outputs a signal you can then map to a parameter.
 - title: zs Knobbler3
   image: https://github.com/zsteinkamp/m4l-zs-Knobbler3/raw/main/images/ipadInterface.jpg
   link: https://github.com/zsteinkamp/m4l-zs-Knobbler3
@@ -62,6 +47,21 @@ data:
   description:
   - This is a MIDI Effect device that will repeat notes, with each repeat delay following the Fibonacci Sequence. You can control the number of repeats, time scale, pitch, and velocity change.
   - This was my first Javascript-based M4L patch. It was a great learning experience to figure out how to code up both the logic and visualization in M4L's Javascript environment.
+- title: zs Send Duck Rack
+  image: https://github.com/zsteinkamp/zs-Send-Duck-Rack/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/zs-Send-Duck-Rack
+  description:
+  - An audio effect rack that provides controls like an effects send, as well as a ducking feature for any effect.
+- title: KS-Synth
+  image: https://github.com/zsteinkamp/m4l-KS-Synth/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-KS-Synth
+  description:
+  - A polyphonic Karplus-Strong synthesizer. This was my first foray into [poly~] and can create a surprisingly wide range of sounds.
+- title: Tempo To Ms
+  image: https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/images/device.png
+  link: https://github.com/zsteinkamp/m4l-TempoToMs
+  description:
+  - Displays a grid of durations, in milliseconds, of various note lengths at the current song tempo.
 
 ---
 I have made a handful of tools for electronic musicians who use Ableton Live Suite, which includes Max For Live.
