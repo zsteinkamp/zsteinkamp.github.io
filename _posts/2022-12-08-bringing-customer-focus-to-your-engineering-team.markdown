@@ -72,7 +72,7 @@ The team should be empowered to kindly suggest that something is not yet ready f
 
 ### Community
 
-Any team should establish a community presence. For public-facing applications, social media networks like Twitter are a great opportunity to get immediate feedback and sentiment from your users. For internal customers, a well-publicized (bonus points for consistency and discoverability around the company) non-private Slack channel is a good way to have easy and direct customer communication. It's also a great place to advertise enhancements and other news to those that depend on your service.
+Any team should establish a community presence. For public-facing applications, social media networks like Twitter are a great opportunity to get immediate feedback and sentiment from your users. For internal customers, a well-publicized, non-private Slack channel (bonus points for consistency and discoverability around the company) is a good way to have easy and direct customer communication. It's also a great place to advertise enhancements and other news to those that depend on your service.
 
 At a previous job, we had a search bot notify a team Slack channel any time our team's product was mentioned on Twitter. Everyone in the team saw this immediately, which helps to keep the team connected to the idea that their software was **actually being used** by **actual customers**.
 
