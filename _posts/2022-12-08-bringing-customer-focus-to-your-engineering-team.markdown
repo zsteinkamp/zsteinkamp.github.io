@@ -65,7 +65,7 @@ If you have a project readiness checklist, ensure customer contact is well repre
 
 There is a troublesome motivation that creeps into any software developer's experience that I call "get-done-itis". This is the tendency, under pressure and without proper standards or accountability, to take shortcuts in the development process that allow the developer to be "done" with their work, but at the expense of the quality of their product from the customer's perspective.
 
-Developers should be given the time and space to create appropriately excellent products. Date commitments can sometimes be the enemy of implementation quality (there is a healthy tension there), so be sure to maintain flexibility as your team encounters bumps in the road. We don't want to ship 
+Developers should be given the time and space to create appropriately excellent products. Date commitments can sometimes be the enemy of implementation quality (there is a healthy tension there), so be sure to maintain flexibility as your team encounters bumps in the road.
 
 The team should be empowered to kindly suggest that something is not yet ready for its customers. Gating new work behind feature flags is one way for a team to make incremental progress (i.e. merging small PRs) and only show it to end-users when it's actually ready.
 
