@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TrueNAS for Awesome Home Storage, Media, and Backups'
-date: '2023-01-21 12:00:00'
+date: '2023-01-01 12:00:00'
 categories: post
 entry:
   source: post
@@ -11,6 +11,7 @@ entry:
 
 I'm a constant optimizer and evolver with basically everything. I also enjoy working with computers, so challenges around technology are more fun for me than  they are chores. This post captures my current solution of using TrueNAS for home network file sharing, media serving, and backups.
 
+[![The Setup](/images/truenas/truenas_box.jpg)](/images/truenas/truenas_box.jpg)
 
 ## Context
 
@@ -23,7 +24,7 @@ I considered using two 4TB SSDs to help solve the speed and power problem, but t
 
 My next solution was to ditch the Pi and hook a 4TB NVMe in a USB 3.2 enclosure onto an M1 Mac Mini that I have here. This would let me use a fast computer and fast storage to serve the needs here at home. It worked most of the time, but the NVMe drive would randomly eject from the Mac, so it was very unreliable.
 
-[![External 4TB NVME on Mac Mini](images/truenas/mini_usb_nvme.jpg)](images/truenas/mini_usb_nvme.jpg)
+[![External 4TB NVME on Mac Mini](/images/truenas/mini_usb_nvme.jpg)](/images/truenas/mini_usb_nvme.jpg)
 
 
 ## Enter TrueNAS
@@ -48,7 +49,7 @@ I knew I wanted something small, power-efficient, performant, and hopefully inex
 
 The Asrock motherboard has two NVMe slots, so it could also hold my 4TB NVMe drive in addition to the operating system drive. This was to be the primary storage drive. I connected my two old 2.5" 4TB HDDs to its rear USB ports to serve as on-site backups and configured them as a single mirrored storage pool. TrueNAS makes setting up a backup like this very easy.
 
-[![The Setup](images/truenas/truenas_box.jpg)](images/truenas/truenas_box.jpg)
+[![The Setup](/images/truenas/truenas_box.jpg)](/images/truenas/truenas_box.jpg)
 
 I know it's not the best idea to use a single drive in a storage pool, but if the fast 4TB NVMe drive failed, I decided I could limp along for a day or two running off of the two slow 4TB external drives while a replacement NVMe arrived. Reconfiguring the network shares would only take a couple of minutes.
 
