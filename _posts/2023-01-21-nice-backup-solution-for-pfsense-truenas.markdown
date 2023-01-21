@@ -37,6 +37,7 @@ ZFS has a wonderful feature called Snapshots. This is a lot like the local Time 
 
 [![Snapshot Configuration](/images/pfsense_bk/snapshot_config.png)](/images/pfsense_bk/snapshot_config.png)
 
+Snapshots only consume space if the contents of a file change ("copy on write), so there is no significant additional space required if the file doesn't change. Even cooler!
 
 Putting this concept together with the pfSense backup means that I don't need to keep timestamped backup files from pfSense. I can just push the configuration file from pfSense to TrueNAS using the same filename over and over.
 
@@ -48,8 +49,6 @@ Here is the command from the cron job running on the pfSense host:
 ## Security/Login Setup
 
 I feel it's important that automated tasks between computers follow the "principle of least privilege". Since pfSense is using SCP to transfer its config file to TrueNAS, this is well trodden territory:
-
-
 
 1. Create a SSH keypair on the pfSense host, along with a `.ssh/config` file to use this key when communicating with TrueNAS. \
 ``` \
