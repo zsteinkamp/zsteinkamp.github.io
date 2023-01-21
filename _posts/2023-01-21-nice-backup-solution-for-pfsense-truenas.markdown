@@ -53,12 +53,12 @@ Here is the command from the cron job running on the pfSense host:
 I feel it's important that automated tasks between computers follow the "principle of least privilege". Since pfSense is using SCP to transfer its config file to TrueNAS, this is well trodden territory:
 
 1. Create a SSH keypair on the pfSense host, along with a `.ssh/config` file to use this key when communicating with TrueNAS. \
-``` \
-[2.6.0-RELEASE][root@pfSense.lan]/root: cat .ssh/config \
-Host truenas \
-  Hostname truenas.lan \
-  User pfsense_backup \
-  IdentityFile ~/.ssh/pfsense_backup \
+```
+[2.6.0-RELEASE][root@pfSense.lan]/root: cat .ssh/config
+Host truenas
+  Hostname truenas.lan
+  User pfsense_backup
+  IdentityFile ~/.ssh/pfsense_backup
 ```
 2. Create a user on TrueNAS with its shell set to `scponly` and paste the public key from the first step into the space on the user creation screen. Ensure this user is the owner of its home directory (this bit me). The home directory will likely be in the iocage dataset under `iocage/home/<user>`. \
 [![New User Permissions](/images/pfsense_bk/pfsense_user.png)](/images/pfsense_bk/pfsense_user.png)
