@@ -43,7 +43,9 @@ Putting this concept together with the pfSense backup means that I don't need to
 
 Here is the command from the cron job running on the pfSense host:
 
+```
 /usr/bin/scp /cf/conf/config.xml truenas:backups/
+```
 
 
 ## Security/Login Setup
