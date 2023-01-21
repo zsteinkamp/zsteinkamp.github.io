@@ -43,16 +43,15 @@ Plugins run something called a "jail" which is kind of similar to a Docker conta
 
 ## Let's Go!
 
-With all this information in mind, I was excited to give it a try. I headed over to Central Computers (the best computer shop I know), and set out to put together a little PC to run TrueNAS.
+With all this information in mind, I was excited to give it a try. I headed over to [Central Computers](https://www.centralcomputer.com/) (the best computer shop I know), and set out to put together a little PC to run TrueNAS.
 
-I knew I wanted something small, power-efficient, performant, and hopefully inexpensive. I came home with a great little barebones PC built around the [Asrock DeskMini B660W](https://www.asrock.com/nettop/Intel/DeskMini%20B660%20Series/index.asp). This is a barebones system, which means that it's just the case, power supply, and motherboard. I added an Intel Core i5-12400, 16GB of RAM (single SODIMM), and a Western Digital 1TB NVMe drive for the OS. This would be a speedy little system!
+I knew I wanted something small, power-efficient, performant, and hopefully inexpensive. I came home with a great little barebones PC built around the [Asrock DeskMini B660W](https://www.asrock.com/nettop/Intel/DeskMini%20B660%20Series/index.asp). This is a barebones system, which means that it's just the case, power supply, and motherboard. I added an Intel Core i5-12400, 16GB of RAM (single SODIMM), and a Western Digital 1TB NVMe drive for the OS. Total price was $578. Not great, but not terrible. I knew thought that this would be a speedy little system!
 
-The Asrock motherboard has two NVMe slots, so it could also hold my 4TB NVMe drive in addition to the operating system drive. This was to be the primary storage drive. I connected my two old 2.5" 4TB HDDs to its rear USB ports to serve as on-site backups and configured them as a single mirrored storage pool. TrueNAS makes setting up a backup like this very easy.
-
-[![The Setup](/images/truenas/truenas_box.jpg)](/images/truenas/truenas_box.jpg)
+The Asrock motherboard has two NVMe slots, so it could also hold my 4TB NVMe drive in addition to the operating system drive. This was to be the primary network storage drive. I connected my two old 2.5" 4TB HDDs to its rear USB ports to serve as on-site backups and configured them as a single mirrored storage pool. TrueNAS makes setting up a backup like this very easy.
 
 I know it's not the best idea to use a single drive in a storage pool, but if the fast 4TB NVMe drive failed, I decided I could limp along for a day or two running off of the two slow 4TB external drives while a replacement NVMe arrived. Reconfiguring the network shares would only take a couple of minutes.
 
+[![The Setup](/images/truenas/truenas_box.jpg)](/images/truenas/truenas_box.jpg)
 
 ## Installation and Setup
 
@@ -64,7 +63,9 @@ In the Replication Task, I also hit a snag when I selected "(almost) Full File S
 
 I configured a SMB share for general file sharing, as well as a Multi User Time Machine share for computer backups. There was another snag with the Time Machine share where the Macs on the LAN wouldn't be able to connect to it until I set a (ridiculously large) user quota on the share. This didn't make sense to me, and I suspect it's a bug.
 
-Finally, I set up a Cloud Sync Task to back up the (locally encrypted) shared files to an Amazon S3 bucket. This was really straightforward to set up. Just log in to the AWS console, create a private bucket, then create an IAM user that has permission to write to the bucket. Copy the access key and secret, and paste into the Cloud Sync Task configuration screen and choose the bucket. Frugal protip: Set the data access policy on the S3 bucket so that your data is moved to a cheaper storage tier quickly. This will save quite a bit of money, at the expense of perhaps having to wait a day to initiate a restore. Since this backup would only be used if my house burned down, I think that's a fair tradeoff. You can also throttle how much bandwidth the upload will use, even specifying different transfer rates by time of day. Pretty great!
+Finally, I set up a Cloud Sync Task to back up the (locally encrypted) shared files to an Amazon S3 bucket. This was really straightforward to set up. Just log in to the AWS console, create a private bucket, then create an IAM user that has permission to write to the bucket. Copy the access key and secret, and paste into the Cloud Sync Task configuration screen and choose the bucket.
+
+Frugal protip: Set the data access policy on the S3 bucket so that your data is moved to a cheaper storage tier quickly. This will save quite a bit of money, at the expense of perhaps having to wait a day to initiate a restore. Since this backup would only be used if my house burned down, I think that's a fair tradeoff. You can also throttle how much bandwidth the upload will use, even specifying different transfer rates by time of day.
 
 Overall I'm really happy with this little computer!
 
