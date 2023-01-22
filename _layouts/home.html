@@ -52,7 +52,7 @@ layout: default
         {%- endif-%}
 
         {%- if thumb_url -%}
-          <a class="post-thumbnail" style="background-image: url({{ thumb_url }})" href="{{ link }}"></a>
+          <a class="post-thumbnail" style="background-image: url({{ thumb_url }}); background-size:cover;" href="{{ link }}"></a>
         {%- endif -%}
           <a class="post-link" href="{{ link }}">
             {{ post.title | escape }}
