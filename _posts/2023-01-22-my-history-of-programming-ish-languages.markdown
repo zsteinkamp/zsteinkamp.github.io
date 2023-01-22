@@ -13,10 +13,10 @@ I thought it would be good to write down the programming languages I've used and
 
 ## 1980 - Logo (Turtle Graphics)
 
-My earliest computer programming memory was from a computer lab with Apple ][ computers in some school at night. I was there for a computer class (I can't remember the lead-in to that), and was blown away by being able to type things and have the computer draw what I asked it to. I learned the 'repeat' command either this time or the 2nd time I was in front of Logo, and stars were born [on the screen].
+My earliest computer programming memory was from a computer lab with Apple ][ computers in some school at night when I was 6 years old. I was there for a computer class (I can't remember the lead-in to that), and was blown away by being able to type things and have the computer draw what I asked it to. I learned the 'repeat' command either this time or the 2nd time I was in front of Logo, and stars were born [on the screen].
 
 
-## 1981 - Visicalc / Lotus 1/2/3
+## 1981 - Visicalc / Lotus 1-2-3
 
 While for some it may seem a stretch...
 
@@ -28,7 +28,7 @@ Me:"
 
 While for some it may seem a stretch, I feel that these spreadsheets count as a programming language for two main reasons. Number one, spreadsheets have a well defined vocabulary for constructing a chain of dependencies, which can include values or functions (complete with logical constructs!) This is a lot like a programming language with variables and methods, with a recalculation layer on top. Number two, anyone who has spent any amount of time close to any business knows that today, Excel remains the world's most popular business application development platform in existence, by a huge margin. Most businesses run on spreadsheets! (This is not necessarily a good thing!)
 
-My dad would sometimes go into the office on weekends and bring me along. He worked for the Gap in their main warehouse and distribution center in Kentucky doing "logistics". He very irresponsibly sat me down in front of an IBM PC one day instead of the usual Apple ///. So I poked around and discovered it had Lotus 1/2/3. I was hooked as soon as I figured out I could use a formula to fill a cell with as many asterisks as the number in its neighboring cell. 
+My dad would sometimes go into the office on weekends and bring me along. He worked for the Gap in their main warehouse and distribution center in Kentucky doing "logistics". He very irresponsibly sat me down in front of an IBM PC one day instead of the usual Apple ///. So I poked around and discovered it had Lotus 1-2-3. I was hooked as soon as I figured out I could use a formula to fill a cell with as many asterisks as the number in its neighboring cell. 
 
 ```
 =REPT("*", A1)
