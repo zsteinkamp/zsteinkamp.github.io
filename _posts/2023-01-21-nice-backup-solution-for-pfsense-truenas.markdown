@@ -15,7 +15,7 @@ This post outlines how I use TrueNAS to back up my pfSense configuration, and a 
 
 ## Background
 
-[TrueNAS](https://www.truenas.com/) is an open-source network attached storage (NAS) system that can run on pretty much any hardware. I use it for centralized, reliable file storage for the house, to host a photo sharing app called PhotoPrism, and the Macs here can see it as a remote Time Machine backup target. I've got [an article here dedicated to the details](/post/2023/01/21/truenas-for-awesome-home-storage-media-and-backups.html) of it.
+[TrueNAS](https://www.truenas.com/) is an open-source network attached storage (NAS) system that can run on pretty much any hardware. I use it for centralized, reliable file storage for the house, to host a photo sharing app called [PhotoPrism](https://photoprism.app/), and the Macs here can see it as a remote Time Machine backup target. I've got [an article here dedicated to the details](/post/2023/01/21/truenas-for-awesome-home-storage-media-and-backups.html) of it.
 
 [pfSense](https://www.pfsense.org/) is used as a network firewall and router (among other things), and is also open-source. It's great for technology tinkerers like me who find the ISP-supplied cable modem to be too limiting in what you can do. Along with its core firewall and routing duties, I use it as a DHCP server, DNS resolver, dynamic DNS updater, and VPN endpoint (for access to the home network from outside the home).
 
@@ -28,16 +28,16 @@ pfSense has a built-in cloud configuration backup function, but part of my recen
 
 The TrueNAS box here felt like a perfect place to start, since it's got triple redundant hard drives and I use it to back up other computers. I started down the path of using a cron job in pfSense to push a timestamped copy of the configuration file (`/cf/conf/config.xml`) to TrueNAS. I felt like doing this hourly was the right cadence, especially if I needed to revert a bad change.
 
-The XML file containing my current configuration is 50KB, so hourly backups for a year would consume over 400MB, so I felt I'd need a companion job to delete old backups. That's kind of a no-brainer one-liner (`find backups/ -ctime 30 -delete` on the TrueNAS box), but I realized I could use the power of the ZFS filesystem in TrueNAS to do something more elegant.
+The XML file containing my current configuration is 50KB, so hourly backups for a year would consume over 400MB, so I felt I'd need a companion job to delete old backups. That's kind of a no-brainer one-liner (`find backups/ -ctime 30 -delete` on the TrueNAS box), but I would have to set it up on the TrueNAS side, which felt messy to me. I realized I could use the power of the [ZFS filesystem](https://en.wikipedia.org/wiki/ZFS) in TrueNAS to do something more elegant.
 
 
 ## The Trick
 
-ZFS has a wonderful feature called Snapshots. This is a lot like the local Time Machine on a Mac, where you can view your files at different points in time. I have hourly Snapshots enabled for my main TrueNAS pool, so for example if I accidentally delete or overwrite an important document on the shared drive, I can recover it from the prior hour's snapshot. You can also configure a snapshot retention period, which I have set to 2 weeks.
+ZFS has a wonderful feature called Snapshots. This is a lot like the local Time Machine on a Mac, where you can view your files at different points in time and only files whose contents change consume additional disk space. I have hourly Snapshots enabled for my main TrueNAS pool, so for example if I accidentally delete or overwrite an important document on the shared drive, I can recover it from the prior hour's snapshot. You can also configure a snapshot retention period, which I have set to 2 weeks.
 
 [![Snapshot Configuration](/images/pfsense_bk/snapshot_config.png)](/images/pfsense_bk/snapshot_config.png)
 
-Snapshots only consume space if the contents of a file change ("copy on write), so there is no significant additional space required if the file doesn't change. Even cooler!
+Snapshots only consume space if the contents of a file change ("copy on write"), so there is no significant additional space required if the file doesn't change. Even cooler!
 
 Putting this concept together with the pfSense backup means that I don't need to keep timestamped backup files from pfSense. I can just push the configuration file from pfSense to TrueNAS using the same filename over and over.
 
@@ -102,7 +102,7 @@ drwxrwxr-x+  11 zs    wheel   12 Jan  7 11:30 auto-2023-01-07_20-00
 drwxrwxr-x+  11 zs    wheel   12 Jan  7 11:30 auto-2023-01-07_21-00
 ```
 
-So you can just `cd` into one of those directories, and view/copy the old version of a file! This is how you I recover an old/working copy of the pfSense configuration file.
+So you can just `cd` into one of those directories, and view/copy the old version of a file! This is how you would recover an old/working copy of the pfSense configuration file.
 
 
 ## Wrap Up
