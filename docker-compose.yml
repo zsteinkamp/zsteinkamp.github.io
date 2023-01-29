@@ -2,9 +2,12 @@ version: '3'
 services:
   web:
     build: .
+    restart: unless-stopped
     ports:
       - "8080:8080"
       - "8081:8081"
+    environment:
+      PROD_MODE: $PROD_MODE
     volumes:
       - .:/usr/src/app
       - /usr/src/app/public

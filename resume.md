@@ -64,8 +64,6 @@ Scotts Valley, California
 # About
 I have been building web applications since 1995, and at mega-scale starting in 1999. My interest and experience through the years has been very broad -- frontend, backend, data infrastructure, networking, security, devops, visual design, usability, infrastructure, people management, hiring, and work flow optimization.
 
-<div class="noprint">I am currently seeking a position where I can work with an A+ team and apply all of these skills to help a promising company succeed. I've <a href="/post/2022/02/06/what-comes-next.html">written some notes</a> about the kind of role/company I am targeting. Let's talk!</div>
-
 # Experience
 
 <div class="avoidbreak" markdown="1">
