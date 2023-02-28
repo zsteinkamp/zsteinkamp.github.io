@@ -10,13 +10,7 @@ data:
   bandcampId: 1793936550
   type: track
   description:
-  - Not sure how it happened, but I made something pretty stylistically
-  different than usual. It started happening and I was excited it sounded a tiny
-  bit like Autechre, so I kept pressing forward. The core process was to record some
-  expressive noodling with a bunch of tracks and the <a href="https://github.com/zsteinkamp/m4l-zs-Knobbler3">zs Knobbler
-  3</a>, then take a recording of that minutes-long noodling and slice it into a
-  Simpler instrument in Ableton live, then play the 64 slices as a new
-  instrument. I'm very happy with this one.
+  - Not sure how it happened, but I made something pretty stylistically different than usual. It started happening and I was excited it sounded a tiny bit like Autechre, so I kept pressing forward. The core process was to record some expressive noodling with a bunch of tracks and the <a href="https://github.com/zsteinkamp/m4l-zs-Knobbler3">zs Knobbler 3</a>, then take a recording of that minutes-long noodling and slice it into a Simpler instrument in Ableton live, then play the 64 slices as a new instrument. I'm very happy with this one.
 
 - title: Samud
   date: February 2023
@@ -32,8 +26,7 @@ data:
   bandcampId: 3451725157
   type: album
   description:
-  - A few tracks made in a void of free time. The titles are all anagrams of the
-  dull names I named the tracks with.
+  - A few tracks made in a void of free time. The titles are all anagrams of the dull names I named the tracks with.
 
 - title: All Once Ancient
   date: November 2022
