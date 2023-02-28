@@ -105,11 +105,11 @@ By removing the moat from around the warehouse, the power of information can be 
 
 ## Monorepos work, to a point
 
-Stripe, for the most part, is built in a monorepo. Thousands of engineers work on a single repo, which houses backend and frontend code. The backend code serves the Stripe API, runs batch jobs, cron jobs, the admin interface, and interactive data manipulation tasks. The frontend code exists in a few layers, with the company-standard UX building blocks alongside specific product implementations.
+Stripe, for the most part, is built in a monorepo. Thousands of engineers work on a single repo, which houses backend and frontend code. The backend code serves the Stripe API, runs batch jobs, cron jobs, the admin interface, and interactive data manipulation tasks in dozens of services running slices of the same codebase. The frontend code exists in a few layers, with the company-standard UX building blocks alongside specific product implementations.
 
 The advantage of such a system is that presenting a cohesive interface - whether it's the look and feel of the Stripe UI or how data is modeled in backend systems - is the nature of the beast. A consistent interface is a big contributor to the sense of quality. Security controls can easily be applied globally, versus visiting 100 different teams with 500 different repos written in 10 different major or homegrown frameworks.
 
-The downside is that this is an exceptionally active repo. Hundreds of pull requests are merged each day, so any branch that you're working on for more than a couple of days faces a large risk of merge conflicts or worse. If there is an issue with a single deploy, it stops the whole company from shipping changes.
+The downside is that this is an exceptionally active repo. Hundreds of pull requests are merged each day, so any branch that you're working on for more than a couple of days faces a large risk of merge conflicts or worse. If there is an issue with a single deploy, it stops the company from shipping changes to the affected service.
 
 I think I joined Stripe toward the end of the useful life of its monorepo, and there was a project well underway to pull some core product / business functions into specific repos that could be insulated from the chaos of the monorepo (and vice-versa!).
 
