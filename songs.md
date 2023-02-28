@@ -4,6 +4,53 @@ title: Songs
 navtitle: Music
 permalink: /songs/
 data:
+- title: duality12
+  date: February 2023
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/duality12
+  bandcampId: 1793936550
+  type: track
+  description:
+  - Not sure how it happened, but I made something pretty stylistically
+  different than usual. It started happening and I was excited it sounded a tiny
+  bit like Autechre, so I kept pressing forward. The core process was to record some
+  expressive noodling with a bunch of tracks and the <a href="https://github.com/zsteinkamp/m4l-zs-Knobbler3">zs Knobbler
+  3</a>, then take a recording of that minutes-long noodling and slice it into a
+  Simpler instrument in Ableton live, then play the 64 slices as a new
+  instrument. I'm very happy with this one.
+
+- title: Samud
+  date: February 2023
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/samud
+  bandcampId: 2167072558
+  type: track
+  description:
+  - It's a mood.
+
+- title: Weeks
+  date: January 2023
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/album/weeks
+  bandcampId: 3451725157
+  type: album
+  description:
+  - A few tracks made in a void of free time. The titles are all anagrams of the
+  dull names I named the tracks with.
+
+- title: All Once Ancient
+  date: November 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/all-once-ancient
+  bandcampId: 793795106
+  type: track
+  description:
+  - Inspired by a presentation on the indigenous people of this area given at my kids' school, I wanted to put something together that helps us remember that we all come from ancient peoples, and that is something that can connect us.
+
+- title: Something
+  date: November 2022
+  bandcampUrl: https://zacksteinkamp.bandcamp.com/track/something
+  bandcampId: 3071611456
+  type: track
+  description:
+  - Noodling in my spare time. Samples <a href="https://www.youtube.com/watch?v=evUfG3lrk5U">a Veritasium video</a>.
+
 - title: Go Around 1.1
   date: November 2022
   bandcampUrl: https://zacksteinkamp.bandcamp.com/track/go-around-11
