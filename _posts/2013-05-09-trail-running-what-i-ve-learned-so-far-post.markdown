@@ -10,7 +10,6 @@ entry:
     excerpt: Since getting serious about running at the end of 2012 in preparation
       for the Ohlone Wilderness 50K, I've learned a few things about body maintenance,
       drinking, eating, and other things running-related.
-    thumb_url: http://steinkamp.us/run_thumb.png
     title: 'Trail Running: What I''ve Learned So Far'
   created_at: '2013-05-10 00:03:57'
   updated_at: '2013-07-01 00:00:25'

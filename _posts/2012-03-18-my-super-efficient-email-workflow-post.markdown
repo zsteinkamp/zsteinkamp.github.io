@@ -8,7 +8,6 @@ entry:
   source: post
   data:
     title: My Super Efficient Email Workflow
-    thumb_url: http://steinkamp.us/images/inbox_sections.png
     excerpt: 'Like most people, email is a big part of my workday, as well as personal
       life.  Over the years I''ve worked out a very efficient way of going through
       the tons of email I receive, never missing an important message, and never having
@@ -54,7 +53,6 @@ I have my Inbox sections set up this way:
 <li>Starred</li>
 <li>Everything Else</li>
 </ul>
-<img src="/images/inbox_sections.png" alt="Screenshot from GMail showing Inbox Sections"/>
 
 <h3>Email Workflow</h3>
 With this setup, unread emails are always at the top of my email screen.  I have two primary ways of reading email - reviewing emails, and doing work.
