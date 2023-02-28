@@ -38,7 +38,9 @@ This helps to avoid the tragedy of the commons where shared ownership results in
 
 ## Hiring for growth, diversity, and EQ
 
-So many companies hire solely on technical aptitude, then design the role of the engineer as an implementer of others' ideas. Stripe (and specifically the Atlas team) biases hiring much more strongly on aspirations, track record, taste, and potential. The team is filled with enthusiastic, energetic, fantastic communicators who are motivated to deliver ideal user experiences. In the right environment, people with these skills are able to produce a better product and build a better team culture than a dull, code-focused, command-and-control kind of environment.
+So many companies hire solely on technical aptitude, then design the role of the engineer as an implementer of others' ideas. Stripe (and specifically the Atlas team) biases hiring much more strongly on aspirations, track record, taste, and potential. Of course, the technical bar is still very high, but it's not the only bar.
+
+The team is filled with enthusiastic, energetic, fantastic communicators who are motivated to deliver ideal user experiences. In the right environment, people with these skills are able to produce a better product and build a better team culture than a dull, code-focused, command-and-control kind of environment.
 
 
 ## Learning in public
@@ -93,11 +95,13 @@ The team absolutely devours this information, since everyone is very aware of th
 Friction logging is a Stripe-wide practice, so people from our team would regularly friction log offerings or dependencies from other teams, since we are their end-users. This feedback was always welcome and frequently resulted in improvements delivered in short order.
 
 
-## Open data warehouse
+## More open data warehouse
 
 Every company I worked at prior to Stripe built huge walls around their data warehouse. This resulted in a severely limited flow of information through the organization, forcing teams to use their intuition more than data analysis, since the data team would always have a miles-long backlog of requests to fulfill.
 
-Stripe is the fist place I've worked where the data warehouse is open to everyone to query and extract information. It's quite common for batch or cron jobs to execute a warehouse query to extract their working set of data.
+Stripe is the fist place I've worked where the data warehouse is open to everyone to query and extract information that is relevant to their job. Of course, there are still strict access controls and auditing around company data, but access to relevant datasets are granted by default to team members.
+
+It's quite common for batch or cron jobs to execute a warehouse query to extract their working set of data. This completes a feedback loop of data ingestion and processing that only benefits the end-user.
 
 There are fantastic interactive query building and sharing tools, as well as well-understood SDKs for developers to integrate into asynchronous tasks, and a featureful charting tool for teams to build dashboards to their heart's content.
 
