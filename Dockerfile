@@ -10,7 +10,7 @@ RUN bundle install
 
 # for when you want to serve in dev
 FROM base AS dev
-CMD ["/usr/local/bundle/bin/jekyll serve", "--host", "0.0.0.0", "--port", "8080", "--livereload", "--livereload-port 8081", "--incremental"]
+CMD ["/usr/local/bundle/bin/jekyll", "serve", "--host", "0.0.0.0", "--port", "8080", "--livereload", "--livereload-port", "8081", "--incremental"]
 
 # just build the public/ dir
 FROM base AS builder
