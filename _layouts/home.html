@@ -55,7 +55,7 @@ layout: default
 
         {%- if thumb_url -%}
           <a class="post-thumbnail" href="{{ link }}">
-            <img src="{{ thumb_url }}" loading="lazy" alt={ post.title | escape } />
+            <img src="{{ thumb_url }}" loading="lazy" alt="{{ post.title | escape }}" />
           </a>
         {%- endif -%}
           <a class="post-link" href="{{ link }}">
