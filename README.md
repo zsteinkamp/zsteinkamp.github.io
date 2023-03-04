@@ -1,15 +1,33 @@
 # noblog-jekyll
 Example of a Jekyll-powered site using docker-compose for development.
 
-## Quick Start
+## Quick Start (Development Mode)
 After cloning this repo, run:
 ```
-> docker-compose up
+cd dev && docker compose up
 ```
 This will bootstrap and start a Docker container with the current directory mounted and a Jekyll build process running and watching the current directory for changes. After that is up, navigate to [http://localhost:8080/](http://localhost:8080/) to view your site.
 
 Edit files in the home and `_posts` directory to add/change content. You can use
 any editor you like. The source directory is mounted into the Docker container.
+
+## Production Mode
+You can use this repository with GitHub Pages, or run it yourself for actual
+serving.
+
+To run in production mode, run:
+```
+cd prod && docker compose up -d
+```
+This will build the static site and start an NGINX server to serve it, making it
+available at [http://localhost:8088](http://localhost:8088).
+
+If you make changes and want to rebuild and restart, run:
+```
+cd prod
+docker compose build
+docker compose up -d
+```
 
 # History
 I have used many different solutions for my personal website, starting in 1994. For content management and site structure, I moved from purely static HTML, to server-side-includes, to Perl CGI, to PHP, to Rails. For development, I would need to install various server software, databases, and programming languages, and make sure it was all running to preview content before it went live. In the early days, I would run a server at home and have port 80 and 443 open to the world and use a dynamic DNS provider since I didn't want to pay for a fixed IP. I moved to a hosting company in the early 2000s and stayed there until 2019 or so when I discovered this solution.
@@ -38,7 +56,5 @@ This way, you can use any editor on your host system (vim, MS Code, emacs, Subli
 
 Look at the `Dockerfile`, `docker-compose.yml`, and `_config.yml` files to see how it is all set up. You can configure Github Pages for your own github account very easily.
 
-## Deploying
+## Deploying to GitHub Pages
 Simply make edits, commit them, and run `git push` to deploy your site live. It could not be simpler!
-
-If you want to use this outside of Github Pages, then run Jekyll's build command in the container (`docker-compose run web jekyll build`) and then copy the `public/` directory to your favorite webserver.
