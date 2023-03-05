@@ -14,7 +14,7 @@ Fast-forward to my late 30s. I was out of shape, overweight, and wanted to do so
 
 A lot of people know Mission Peak. They know it's a butt-kicker, but they make the slog up from Fremont for fitness as well as the selfie-potential of the pole at the top, to prove to their friends that they too conquered Mission Peak. But I think relatively few people know just how much variety exists in ways of getting to the top. That's what this article is for.
 
-<img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-xBnwhCW/0/c9de82e6/X3/2021011716054444--2534621354471602481-IMG_0658-X3.jpg" width="100%"/>
+![Mission Peak](https://photos.steinkamp.us/photo/2021-07-22_mission-peak/IMG_2913.JPG?size=1600x1600)
 
 # **In General**
 This is a hot, dry place when the weather is warm. Bring at least a liter of water per person/creature. Also when it's warm, you may see a rattlesnake. Don't freak out, just give it plenty of distance and continue on your way. The cows on Mission Peak are the most chill cows ever. Just give them their space (you will be able to see if they are nervous ... just give them more space if that's the case). You may see a coyote. Again, don't freak out. Just clap your hands (or not) and they will run away. You may see turkeys! You may see hawks and eagles! You may see tarantulas! They are harmless. Don't litter!
@@ -30,7 +30,7 @@ From the trailhead, push open the gate and begin the hike up. There is a fork in
 
 I've seen a lot of people walking very nervously on the rocky part, but the rocks get so much traffic, they don't move. So pretend you're a mountain goat and just go!
 
-<img src="https://photos.smugmug.com/20200330-Mission-Peak/i-G3zP62D/0/9460f2d5/X3/IMG_7018_heic-X3.jpg" width="100%"/>
+![Mission Peak!](https://photos.steinkamp.us/photo/2021-07-22_mission-peak/IMG_2922.JPG?size=1600x1600)
 
 # **Most Popular in 2020: From Ohlone College**
 Roundtrip Distance: **6 miles** / Elevation Gain: **2100 feet** / <a target="_blank" href="https://www.strava.com/routes/2786044164935287262">Strava Route</a> / <a href="https://www.ohlone.edu/">Ohlone College Site</a>
@@ -43,7 +43,7 @@ While the same distance and elevation gain as its more popular cousin (Stanford 
 
 The climb continues and passes a small pond (dry at the end of the summer, sometimes flooding the trail in the winter) before it goes under tree cover for about a half mile. Come out of the trees, and continue up the narrow trail to a gravel road. Make a hard right turn, then ascend the back of the northern "shoulder" of Mission Peak. This is a pretty steep section, which flattens out as you're given a really nice view of the Peak, and a small bathroom ahead. Continue up and to the left after the bathroom, then make the right turn at the "PEAK =>" sign.
 
-<img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-qRWnnx4/0/71b63d32/X3/2021011716054444--24135068476410350-IMG_7343_HEIC-X3.jpg" width="100%"/>
+![Mission Peak!!!!](https://photos.steinkamp.us/photo/2021-01-17_mission-peak/2021011716054444-9125760981370084764-IMG_7368_HEIC.JPG?size=1600x1600)
 
 # **Most Popular With Counterculturalists: Horse Heaven Trail**
 Roundtrip Distance: **6 miles** / Elevation Gain: **2150 feet** / <a target="_blank" href="https://www.strava.com/routes/2786043949499888622">Strava Route</a> / <a href="https://www.ebparks.org/parks/mission/">Mission Peak Site</a>
@@ -58,7 +58,7 @@ Horse Heaven trail is a lot less popular than the main trail. So if you're looki
 
 It's possible to make a loop, going up the main trail and down Horse Heaven, or vice-versa. It's your world.
 
-<img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-bh7B5bV/0/958eab43/X3/2021011716054444-5440084092622853821-IMG_7346_HEIC-X3.jpg" width="100%"/>
+![Mission Peak!!](https://photos.steinkamp.us/photo/2021-01-17_mission-peak/2021011716054444-4759711745111788283-IMG_0221.JPG?size=1600x1600)
 
 # **Most Popular With Ultramarathoners: From Sunol**
 Roundtrip Distance: **10 miles** / Elevation Gain: **2150 feet** / <a target="_blank" href="https://www.strava.com/routes/2786044389566703598">Strava Route</a> / <a href="https://www.ebparks.org/parks/sunol/">Sunol Regional Wilderness Site</a>
@@ -75,7 +75,7 @@ With about a mile to go before the peak, there is another gate, with another sig
 
 The Ohlone Wilderness Trail dead-ends into the Eagle Trail, next to a small campsite and port-a-potty. You can go right or left to make the final climb to Mission Peak. The linked Strava route shows the left route, but either will do. You can also go up the left route, continue across the peak (without turning around) then return on the other part of the trail. That's a nice lollipop of a route.
 
-<img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-hWZWrZv/0/56291507/X3/2021011716054444-9125760981370084764-IMG_7368_HEIC-X3.jpg" width="100%"/>
+![Up from the south side](https://photos.steinkamp.us/photo/2021-07-22_mission-peak/IMG_2947.JPG?size=1600x1600)
 
 # **Most Popular With Adventurers: From Ed Levin County Park**
 Roundtrip Distance: **12 miles** / Elevation Gain: **2350 feet** / <a target="_blank" href="https://www.strava.com/routes/2786044688364144554">Strava Route</a> / <a href="https://www.sccgov.org/sites/parks/parkfinder/Pages/Ed-Levin.aspx">Ed Levin Park Site</a>
@@ -90,7 +90,7 @@ The Monument Peak Trail climbs about 2100 feet in 4 miles, and takes you next to
 
 After you've gone a half mile or so past the road to Mt Allison, this trail has by far (IMO) the best view of Mission Peak. If you keep going straight up the trail, you'll climb the awesome south side of Mission Peak. You can then turn around and retrace your steps, or continue over Mission Peak and descend the very technical and rocky section, then making a right turn, rejoin the Mission Peak to Monument Peak trail.
 
-<img src="https://photos.smugmug.com/2021-01-17-Mission-Peak/i-2WpRCVd/0/02c16e11/X3/2021011716054444-4759711745111788283-IMG_0221-X3.jpg" width="100%"/>
+![Mission Peak!!!](https://photos.steinkamp.us/photo/2021-01-17_mission-peak/2021011716054444--2534621354471602481-IMG_0658.JPG?size=1600x1600)
 
 # **Congratulations!**
 You've made it to the top of the peak! Next time out, try a new way, or mix ways in and out for some variety. The trail network on Mission Ridge is such that you could summit the Peak dozens of times and not do the same route twice.
