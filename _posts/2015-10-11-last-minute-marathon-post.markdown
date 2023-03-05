@@ -7,7 +7,7 @@ entry:
   id: 1129
   source: post
   data:
-    thumb_url: https://farm1.staticflickr.com/640/21463285263_78632c257f_q.jpg
+    thumb_url: https://photos.steinkamp.us/photo/zzz_blog_images/last_minute_marathon-2015SttS.jpg?size=300x300&crop
     title: Last Minute Marathon
     excerpt: ''
   created_at: '2015-10-11 05:36:59'
@@ -31,7 +31,7 @@ Heh...
 
 Up and at 'em at 4:50AM on Saturday. Breakfast, shower, gather up stuff, out the door at 6am to drive to the parking area near the finish at Waddell Beach -- about halfway between Half Moon Bay and Santa Cruz. Exit the car, and hop aboard one of the yellow school busses to get a ride up to the start of the race at Saratoga Gap. The busses left at 7AM sharp, and arrived at the start at about 8:20. Quick pit stop, get my, well I mean Thomas's, number ("Yes *I* am Thomas Andersen, the one and only. In the flesh!"), and mosey over to the Skyline to the Sea trailhead for the 9AM start.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/thenobot/21463285263/in/datetaken-public/" title="Start of the 2015 Skyline to the Sea ultra."><img src="https://farm1.staticflickr.com/640/21463285263_78632c257f_b.jpg" width="480" height="640" alt="Start of the 2015 Skyline to the Sea ultra." class="img-responsive"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![The Starting Line](https://photos.steinkamp.us/photo/zzz_blog_images/last_minute_marathon-2015SttS.jpg?size=1600x1600)
 <em>The starting line.</em>
 
 It was hot at the starting line at the top of the hill, but once we got into the trees it was wonderfully cool.
@@ -66,7 +66,7 @@ SttS has a great finish where you pop out of the trees, make a little turn, and 
 I was hoping to finish the race in under 4h30m, but it ended up taking 4h45m. I'm pretty sure that if I had prepared just a bit more (like 18 hours instead of 12) that I could break that 4h30m goal, and possibly regain Thomas and my honor by finishing ahead of BJB. (yeah right!)
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/410379500/embed/6157c9038765f0d5e34f445cf46a0ec061d6ae4c'></iframe>
+<iframe width='100%' height='350' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/410379500/embed/6157c9038765f0d5e34f445cf46a0ec061d6ae4c'></iframe>
 </div>
 
 Despite the pain and hobbling walk I've got now, I'm happy I made the decision to tackle this race. I will see you next year, SttS!!!

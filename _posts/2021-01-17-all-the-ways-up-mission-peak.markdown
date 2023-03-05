@@ -6,7 +6,7 @@ categories: post
 entry:
   source: post
   data:
-    thumb_url: 'https://photos.smugmug.com/2021-01-17-Mission-Peak/i-2WpRCVd/0/02c16e11/Th/2021011716054444-4759711745111788283-IMG_0221-Th.jpg'
+    thumb_url: https://photos.steinkamp.us/photo/2021-01-17_mission-peak/2021011716054444-4759711745111788283-IMG_0221.JPG?size=300x300&crop
 ---
 Anyone who knows me reasonably well knows I have a soft spot for Mission Peak. I grew up in Fremont, and begrudgingly hiked up the Peak with my family every so often, complaining the whole time. It was hot. It was dry. I was thirsy. I was tired. Except for the time was a teenager and took a detour around the Hidden Valley area and headed off-trail, straight up the peak face. That was adventure! (not recommended, of course!)
 

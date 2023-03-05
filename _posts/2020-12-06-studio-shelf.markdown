@@ -6,7 +6,7 @@ author: Zack Steinkamp
 entry:
   source: post
   data:
-    thumb_url: 'https://photos.smugmug.com/photos/i-pMVpDXx/0/Th/i-pMVpDXx-Th.jpg'
+    thumb_url: https://photos.steinkamp.us/photo/2020-12-06_music-shelf/threefourths_studio.jpg?size=300x300&crop
     excerpt: Photos and instructions to make a useful tabletop shelf for your music studio.
   disabled: 0
 ---
@@ -19,19 +19,17 @@ Taking a little inspiration from the too-tall little laptop stand, and making us
 The shelf should not be too tall, it should be wide enough to hold the Push, BCR-2000, and audio interface, and I thought to make it angle around me would be good ergonomically, so I wouldn't have to stretch to reach anything when standing or sitting at the desk.
 
 Here's the finished shelf, on top of the desk:
-<a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-pMVpDXx/A"><img src="https://photos.smugmug.com/photos/i-pMVpDXx/0/X4/i-pMVpDXx-X3.jpg" width="100%" alt=""></a>
-
-<a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-kTdPmh4/A"><img src="https://photos.smugmug.com/photos/i-kTdPmh4/0/X3/i-kTdPmh4-X3.jpg" alt=""></a>
+<img src="https://photos.steinkamp.us/photo/2020-12-06_music-shelf/threefourths_studio.jpg?size=1600x1600" />
 
 It sits at a slight angle, so the devices that are elevated a bit are still within easy reach.
 
-<a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-CcqttJF/A"><img src="https://photos.smugmug.com/photos/i-CcqttJF/0/X3/i-CcqttJF-X3.jpg" alt=""></a>
+<img src="https://photos.steinkamp.us/photo/2020-12-06_music-shelf/side_view.jpg?size=1600x1600" />
 
 Here it is without anything on it:
 
-<a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-7ts3DdJ/A"><img src="https://photos.smugmug.com/photos/i-7ts3DdJ/0/X3/i-7ts3DdJ-X3.jpg" alt=""></a>
+<img src="https://photos.steinkamp.us/photo/2020-12-06_music-shelf/back_bare.jpg?size=1600x1600" />
 
-<a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-wM3jC2Q/A"><img src="https://photos.smugmug.com/photos/i-wM3jC2Q/0/X3/i-wM3jC2Q-X3.jpg" alt=""></a>
+<img src="https://photos.steinkamp.us/photo/2020-12-06_music-shelf/threefourths_bare.jpg?size=1600x1600" />
 
 This ended up being a very straightforward project to make, just taking an hour or so one morning. Here's what you need to do it:
 
@@ -63,5 +61,3 @@ Next, lay the top base with the feet attached upside-down on the top pieces. Ens
 <img src="/images/shelf/diag_5_final.png">
 
 Add some felt pads to the bottom of the feet, and that's it! Enjoy having a more ergonomic setup.
-
-<a href="https://zacksteinkamp.smugmug.com/20201206-Music-Shelf/i-pMVpDXx/A"><img src="https://photos.smugmug.com/photos/i-pMVpDXx/0/X4/i-pMVpDXx-X3.jpg" width="100%" alt=""></a>

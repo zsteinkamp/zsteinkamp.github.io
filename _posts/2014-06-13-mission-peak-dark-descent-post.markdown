@@ -10,7 +10,7 @@ entry:
     title: Mission Peak Dark Descent
     excerpt: It's been a while since I did a night run on Mission Peak.  With the
       great weather and full moon, today was a great day to pick that up again.
-    thumb_url: https://farm4.staticflickr.com/3849/14413236345_e5e83a9d1d_q.jpg
+    thumb_url: https://photos.steinkamp.us/photo/2021-07-22_mission-peak/IMG_2910.JPG?size=300x300&crop
   created_at: '2014-06-13 16:57:11'
   updated_at: '2014-06-13 17:03:03'
   pub_date: '2014-06-13 16:02:55'
@@ -32,7 +32,7 @@ I saw two guys ahead that I thought may be Zombie Don and Zombie Zac.  They had 
 
 The view from the peak at night is always a stunner, and today was no different.
 
-<a href="https://www.flickr.com/photos/thenobot/14413236345" title="Mission Peak Dark Descent. New PR for the climb (40:21) and roundtrip (1:04:46). by Zack Steinkamp, on Flickr"><img src="https://farm4.staticflickr.com/3849/14413236345_e5e83a9d1d_b.jpg" width="1024" height="756" alt="Mission Peak Dark Descent. New PR for the climb (40:21) and roundtrip (1:04:46)."></a>
+![Beautiful Mission Peak](https://photos.steinkamp.us/photo/2021-07-22_mission-peak/IMG_2910.JPG?size=1600x1600)
 
 I realized at the top the two guys I was chasing were not the Zombies I thought they were.  Bummer!  That would have been fun.  
 
