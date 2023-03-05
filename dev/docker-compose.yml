@@ -1,4 +1,5 @@
 version: '3'
+name: steinkamp_dev
 services:
   web:
     build:
